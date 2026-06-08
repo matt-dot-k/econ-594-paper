@@ -8,17 +8,17 @@ The figures in this dataset were constructed from tables of unit cost estimates 
 
 ## Variables
 
-`report_date` - The current year
-`service` - The service branch responsible for the program
-`program` - Name of the program
-`base_year` - Base year of the program
-`baseline_type` - Whether the program is in the development phase (DE) or production phase (PdE)
-`prime_contractor` - The prime contractor in charge of the program
-`secondary_contractor` - An applicable major secondary contractor or large subcontractor involved in the program
-`platform_portfolio` - MDAP product market classification
-`cohort` - Year cohort for a treated program
-`merger_exposure` - Specific merger a treated program is exposed to
-`treatment_rule` - The channel treatment assignment operates through; For instance, `sub-ATK` means the program is treated by Alliant TechSystems (ATK) at the subcontractor level, while `prime-Raytheon` means treatment operates through Raytheon at the prime contractor level.
+`report_date` - The current year  
+`service` - The service branch responsible for the program  
+`program` - Name of the program  
+`base_year` - Base year of the program  
+`baseline_type` - Whether the program is in the development phase (DE) or production phase (PdE)  
+`prime_contractor` - The prime contractor in charge of the program  
+`secondary_contractor` - An applicable major secondary contractor or large subcontractor involved in the program  
+`platform_portfolio` - MDAP product market classification  
+`cohort` - Year cohort for a treated program  
+`merger_exposure` - Specific merger a treated program is exposed to  
+`treatment_rule` - The channel treatment assignment operates through; For instance, `sub-ATK` means the program is treated by Alliant TechSystems (ATK) at the subcontractor level, while `prime-Raytheon` means treatment operates through Raytheon at the prime contractor level.  
 
 ## Manual Adjustments
 

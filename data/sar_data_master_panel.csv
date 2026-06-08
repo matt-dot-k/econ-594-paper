@@ -1,0 +1,1152 @@
+report_date,service,program,base_year,baseline_type,prime_contractor,secondary_contractor,platform_portfolio,cohort,merger_exposure,treatment_rule,baseline_pauc_total,baseline_pauc_qty,baseline_pauc_est,current_pauc_total,current_pauc_qty,current_pauc_est,baseline_apuc_total,baseline_apuc_qty,baseline_apuc_est,current_apuc_total,current_apuc_qty,current_apuc_est
+2010-12-31,Army,AB3A Remanufacture,2010,PdE,Boeing,Longbow LLC,Aircraft,2016,Lockheed-Sikorsky,sub-Lockheed,10468.7,639,16.383,10452.7,639,16.358,8856.9,634,13.97,8855.7,634,13.968
+2010-12-31,Army,AB3B New Build,2010,PdE,Boeing,Longbow LLC,Aircraft,2016,Lockheed-Sikorsky,sub-Lockheed,2134.6,56,38.118,2156.6,57,37.835,2134.6,56,38.118,2156.6,57,37.835
+2010-12-31,Army,CH-47F,2005,PdE,Boeing,,Aircraft,0,,,10614.8,512,20.732,12703.1,532,23.878,10435.1,510,20.461,12519.8,530,23.622
+2010-12-31,Army,Excalibur,2007,PdE,Raytheon,,Ordnance and Missiles,0,,,1654.4,7474,0.221,1684.6,7474,0.225,661.2,6930,0.095,691.1,6930,0.1
+2010-12-31,Army,FMTV,1996,PdE,Oshkosh,,Land Vehicles,0,,,15024.7,83185,0.181,15436.6,87839,0.176,14890.6,83185,0.179,15262.2,87839,0.174
+2010-12-31,Army,GMLRS/GMLRS AW,2003,PdE,Lockheed Martin,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,4578.4,43795,0.105,4877.4,43882,0.111,3966.7,43560,0.091,4157.8,43560,0.095
+2010-12-31,Army,HIMARS,2003,PdE,Lockheed Martin,,Ordnance and Missiles,0,,,3711.6,894,4.152,1782.4,381,4.678,3421.1,888,3.853,1540.2,375,4.107
+2010-12-31,Army,IAMD,2009,DE,Northrop Grumman,,Air and Missile Defense,0,,,4806.8,296,16.239,5339.7,296,18.04,3316,285,11.635,3389,285,11.891
+2010-12-31,Army,JLENS,2005,DE,Raytheon,,"Electronics, Comms, and Sensors",0,,,5850,16,365.625,6896,16,431,4027,14,287.643,4563,14,325.929
+2010-12-31,Army,LUH,2006,PdE,EADS-NA Defense,,Aircraft,0,,,1638.3,322,5.088,1809.2,345,5.244,1635.1,322,5.078,1806,345,5.235
+2010-12-31,Army,MQ-1C UAS Gray Eagle,2010,PdE,General Atomics,,Aircraft,0,,,5252,31,169.419,5022.2,31,162.006,3364.7,29,116.024,3310.1,29,114.141
+2010-12-31,Army,Patriot PAC-3,2002,PdE,Lockheed Martin,Raytheon,Air and Missile Defense,0,,,7084,1012,7,9597.4,1210,7.932,4156.4,1012,4.107,6167.2,1210,5.097
+2010-12-31,Army,Patriot MEADS CAP - Fire Unit,2004,DE,Lockheed Martin,MBDA,Air and Missile Defense,0,,,16530.5,48,344.385,2879.5,0,,11999.1,48,249.981,79,0,
+2010-12-31,Army,PAC-3 MSE,2004,DE,Lockheed Martin,Boeing,Air and Missile Defense,0,,,6220.9,1528,4.071,6776.2,1528,4.435,5760,1528,3.77,6119.8,1528,4.005
+2010-12-31,Army,Stryker,2004,PdE,General Dynamics,,Land Vehicles,0,,,6824.8,2131,3.203,15548.7,4235,3.671,6037.6,2128,2.837,12361.2,4225,2.926
+2010-12-31,Army,UH-60M Black Hawk,2005,PdE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,sub-Lockheed,16801.7,1235,13.605,22088.6,1375,16.064,16084.2,1227,13.109,21327.3,1367,15.602
+2010-12-31,Army,WIN-T Inc 1,2007,PdE,General Dynamics,,"Electronics, Comms, and Sensors",0,,,3798,1677,2.265,4186.1,1860,2.251,3775,1677,2.251,4151.6,1860,2.232
+2010-12-31,Army,WIN-T Inc 2,2010,PdE,General Dynamics,,"Electronics, Comms, and Sensors",0,,,3617.2,1893,1.911,5892.3,2846,2.07,3384.5,1837,1.842,5620.5,2790,2.015
+2010-12-31,Army,WIN-T Inc 3,2009,DE,General Dynamics,,"Electronics, Comms, and Sensors",0,,,15807.9,3482,4.54,13397,3207,4.177,13212.4,3443,3.837,11250.7,3168,3.551
+2010-12-31,Navy,AGM-88E AARGM,2003,PdE,Alliant TechSystems (ATK),,Ordnance and Missiles,2019,Northrop-Orbital ATK,prime-ATK,1339.8,1790,0.748,1592.2,1919,0.83,806.5,1750,0.461,987.7,1879,0.526
+2010-12-31,Navy,AIM-9X Block I,1997,PdE,Raytheon,,Ordnance and Missiles,0,,,2464,10049,0.245,2939.3,10142,0.29,1932.6,10000,0.193,2287.9,10097,0.227
+2010-12-31,Navy,CEC,2002,PdE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,2443.4,183,13.352,4316.7,271,15.929,1262.8,174,7.257,1657.4,241,6.877
+2010-12-31,Navy,CH-53K,2006,DE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,14980.9,156,96.031,20303.6,200,101.518,11018.9,152,72.493,14822.2,196,75.623
+2010-12-31,Navy,COBRA JUDY Replacement,2003,DE,Raytheon,,"Electronics, Comms, and Sensors",0,,,1365,1,1365,1527.6,1,1527.6,0,0,,0,0,
+2010-12-31,Navy,DDG 1000,2005,DE,General Dynamics,Raytheon,Ships and Submarines,2021,Raytheon-UTC,sub-Raytheon,19189.3,3,6396.433,18417,3,6139,10195.3,3,3398.433,9308.9,3,3102.967
+2010-12-31,Navy,DDG 51,1987,PdE,General Dynamics,Northrop Grumman,Ships and Submarines,0,,,16723.8,23,727.122,60164.9,75,802.199,15745.3,23,684.578,57095.5,75,761.273
+2010-12-31,Navy,E-2D AHE,2009,PdE,Northrop Grumman,,Aircraft,0,,,17468.6,75,232.915,17140.3,75,228.537,13281.9,70,189.741,12716.8,70,181.669
+2010-12-31,Navy,EA-18G,2004,PdE,Boeing,General Electric,Aircraft,0,,,7662.6,90,85.14,9741.5,114,85.452,6030.5,90,67.006,8033,114,70.465
+2010-12-31,Navy,F/A-18E/F,2000,PdE,Boeing,General Electric,Aircraft,0,,,65944.7,1000,65.945,46637.2,556,83.88,59976.8,1000,59.977,40742,556,73.277
+2010-12-31,Navy,H-1 Upgrades (4BW/4BN),2008,PdE,Bell Helicopters,,Aircraft,0,,,7852.2,284,27.649,11948.2,353,33.848,6352.9,280,22.689,10088.8,349,28.908
+2010-12-31,Navy,IDECM - Blocks 2/3,2008,PdE,ITT Exelis,BAE Systems,"Electronics, Comms, and Sensors",0,,,1410.9,12809,0.11,1482,12805,0.116,956,12809,0.075,1025.6,12805,0.08
+2010-12-31,Navy,IDECM - Block 4,2008,DE,ITT Exelis,BAE Systems,"Electronics, Comms, and Sensors",2020,L3-Harris,prime-L3,660.7,160,4.129,781.7,190,4.114,451.2,160,2.82,541.9,190,2.852
+2010-12-31,Navy,JHSV,2008,DE,Austal,,Ships and Submarines,0,,,3460,18,192.222,3495.9,18,194.217,3337.8,18,185.433,3364.6,18,186.922
+2010-12-31,Navy,JPALS,2008,DE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,963.2,37,26.032,935.6,37,25.286,202.9,25,8.116,211.9,26,8.15
+2010-12-31,Navy,JSOW - Baseline,1990,PdE,Raytheon,,Ordnance and Missiles,0,,,1505.8,3334,0.452,1497.8,3334,0.449,941.7,3334,0.282,934.2,3334,0.28
+2010-12-31,Navy,JSOW - Unitary,1990,PdE,Raytheon,,Ordnance and Missiles,0,,,3360.9,7800,0.431,2192.2,7000,0.313,3103.7,7800,0.398,1847.2,7000,0.264
+2010-12-31,Navy,KC-130J,2010,PdE,Lockheed Martin,Rolls Royce,Aircraft,0,,,9233.9,104,88.788,9140.2,104,87.887,9198.3,104,88.445,9103.1,104,87.53
+2010-12-31,Navy,LCS,2010,DE,General Dynamics,Lockheed Martin,Ships and Submarines,0,,,32008.2,55,581.967,31996.8,55,581.76,28369.2,53,535.268,28634,53,535.17
+2010-12-31,Navy,LHA 6,2006,DE,Huntington Ingalls,,Ships and Submarines,0,,,2877.4,1,2877.4,9134.1,3,3044.7,2677.5,1,2677.5,8815.3,3,2938.433
+2010-12-31,Navy,LPD 17,1996,DE,Huntington Ingalls,,Ships and Submarines,0,,,12955.2,12,1079.6,14379.2,11,1307.2,12842.4,12,1070.2,14263.1,11,1296.645
+2010-12-31,Navy,MH-60R,2006,PdE,Sikorsky,Lockheed Martin,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,9894.9,243,40.72,13302.9,300,44.343,8361.1,241,34.693,11481.6,298,38.529
+2010-12-31,Navy,MH-60S,1998,PdE,Sikorsky,Lockheed Martin,Aircraft,0,,,2769,166,16.681,6643.7,275,24.159,2698,165,16.352,5999.3,275,21.816
+2010-12-31,Navy,MQ-4C UAS BAMS,2008,DE,Northrop Grumman,,Aircraft,0,,,12224.5,70,174.636,12419.4,70,177.42,8871.2,65,136.48,8957.3,65,137.805
+2010-12-31,Navy,MUOS,2004,PdE,Lockheed Martin,,"Electronics, Comms, and Sensors",0,,,5738,6,956.333,5957.3,6,992.883,2591,4,647.75,2300.1,4,575.025
+2010-12-31,Navy,NMT,2002,PdE,Raytheon,,"Electronics, Comms, and Sensors",0,,,1923.4,333,5.776,1558.5,304,5.127,1345.6,305,4.412,1006.4,276,3.646
+2010-12-31,Navy,P-8A,2010,PdE,Boeing,CFM International,Aircraft,0,,,30271.9,115,263.234,32095.6,122,263.079,22791.2,108,211.03,23517,117,201
+2010-12-31,Navy,RMS,2006,DE,Lockheed Martin,,Other Products,0,,,1279.6,54,23.696,1279.3,54,23.691,630,52,12.115,631.9,52,12.152
+2010-12-31,Navy,SM-6,2004,PdE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,4866.3,1200,4.055,5375.5,1200,4.48,3949.6,1200,3.291,4544.4,1200,3.787
+2010-12-31,Navy,SSN 774,1995,PdE,General Dynamics,,Ships and Submarines,0,,,45633.1,30,1521.103,63219.5,30,2107.317,42228.1,30,1407.603,57809.4,30,1926.98
+2010-12-31,Navy,Tactical Tomahawk,1999,PdE,Raytheon,,Ordnance and Missiles,0,,,1683.7,1365,1.233,5523.7,4740,1.165,1158.4,1353,0.856,4958.6,4730,1.048
+2010-12-31,Navy,Trident II Missile,1983,PdE,Lockheed Martin,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,25943.7,568,45.676,27336.8,561,48.729,17155.2,540,31.769,17826.4,533,33.445
+2010-12-31,Navy,V-22,2005,PdE,Boeing,Bell Helicopters,Aircraft,0,,,50250.4,458,109.717,50208.1,459,109.386,38562.8,456,84.568,38180.7,457,83.546
+2010-12-31,Air Force,AMRAAM,1992,PdE,Raytheon,Alliant TechSystems (ATK),Ordnance and Missiles,0,,,12302.9,13038,0.944,16724,16716,1,10205.7,13038,0.783,14010.9,16716,0.838
+2010-12-31,Air Force,B-2 EHF Inc 1,2007,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,659.7,21,31.414,580.9,20,29.045,114.8,17,6.753,118.4,16,7.4
+2010-12-31,Air Force,B-2 RMP,2008,PdE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,1273.8,21,60.657,1221.3,20,61.065,559,14,39.929,555.4,13,42.723
+2010-12-31,Air Force,C-130 AMP,2010,PdE,Boeing,,"Electronics, Comms, and Sensors",0,,,5610.8,222,25.274,6039.9,221,27.33,3510.2,219,16.028,4143.2,218,19.006
+2010-12-31,Air Force,C-130J,1996,PdE,Lockheed Martin,Rolls Royce,Aircraft,0,,,730.7,11,66.427,11855.8,168,70.57,721.8,11,65.618,11431.4,168,68.044
+2010-12-31,Air Force,C-5 RERP,2008,PdE,Lockheed Martin,,Aircraft,0,,,7146.6,52,137.435,7080.9,52,136.171,5415.9,49,110.529,5391.5,49,110.031
+2010-12-31,Air Force,F-22,2005,PdE,Lockheed Martin,Pratt & Whitney,Aircraft,0,,,64281.7,181,355.148,69464.2,188,369.49,31606.5,172,183.759,33245.8,179,185.731
+2010-12-31,Air Force,FAB-T,2002,DE,Boeing,,"Electronics, Comms, and Sensors",0,,,2960.5,222,13.336,3731.4,246,15.168,1677.3,197,8.514,2048.8,216,9.485
+2010-12-31,Air Force,GBS,1997,DE,General Dynamics,,Space Systems,0,,,451.4,346,1.305,902.8,1917,0.471,53.9,125,0.431,506.5,1781,0.284
+2010-12-31,Air Force,GPS IIIA,2010,PdE,Lockheed Martin,,Space Systems,0,,,3840.8,8,480.1,4217.6,8,527.2,1381,6,230.167,1594.2,6,265.7
+2010-12-31,Air Force,HC/MC-130 Recapitalization,2009,PdE,Lockheed Martin,,Aircraft,0,,,8078.1,74,109.164,12643.1,122,103.632,7436,74,100.486,12190.2,122,99.92
+2010-12-31,Air Force,JASSM - Baseline,2010,PdE,Lockheed Martin,,Ordnance and Missiles,0,,,3679.4,2487,1.479,3679.2,2487,1.479,2503.2,2400,1.043,2503,2400,1.043
+2010-12-31,Air Force,JASSM - ER,2010,PdE,Lockheed Martin,,Ordnance and Missiles,0,,,3631.6,2531,1.435,3631.2,2531,1.435,3366.1,2500,1.346,3365.7,2500,1.346
+2010-12-31,Air Force,JDAM,1995,PdE,Boeing,,Ordnance and Missiles,0,,,2720.4,88126,0.031,4965.4,223874,0.022,2090.6,87496,0.024,4396.5,223070,0.02
+2010-12-31,Air Force,JPATS,2002,PdE,Hawker Beechcraft,,Aircraft,0,,,4918.6,768,6.404,4743.1,748,6.341,4512.4,767,5.883,4337.3,747,5.806
+2010-12-31,Air Force,MP-RTIP,2000,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,1449.3,0,,1151.3,0,,0,0,,0,0,
+2010-12-31,Air Force,MQ-9 UAS Reaper,2008,PdE,General Atomics,,Aircraft,0,,,,,,11315.3,399,28.359,,,,10306.7,396,26.027
+2010-12-31,Air Force,NAS,2005,PdE,Raytheon,,"Electronics, Comms, and Sensors",0,,,762.1,53,14.379,1454.9,92,15.814,629.7,53,11.881,1319.8,92,14.346
+2010-12-31,Air Force,NAVSTAR GPS - Space & Control,2000,PdE,Boeing,,Space Systems,0,,,5105.6,33,151.988,6133.5,33,185.864,3239.4,33,98.164,3988.5,33,120.864
+2010-12-31,Air Force,NAVSTAR GPS - User Equipment,2000,PdE,Boeing,,Space Systems,0,,,797.8,0,,1216.6,0,,254.3,0,,0,0,
+2010-12-31,Air Force,NPOESS,2002,PdE,Northrop Grumman,,Space Systems,0,,,9793.7,4,2448.425,6026.3,2,3013.15,2446.9,2,1223.45,0,0,
+2010-12-31,Air Force,RQ-4A/B UAS Global Hawk,2000,DE,Northrop Grumman,,Aircraft,0,,,8103.6,54,150.067,11288.6,66,171.039,4904.9,54,90.831,7366.4,66,111.612
+2010-12-31,Air Force,SBIRS HIGH - Baseline,1995,DE,Lockheed Martin,,Space Systems,0,,,8569.3,3,2856.433,13844.4,6,2307.4,1342.8,1,1342.8,4906.5,4,1226.625
+2010-12-31,Air Force,SDB II,2010,DE,Raytheon,,Ordnance and Missiles,2021,Raytheon-UTC,prime-Raytheon,4577.5,17163,0.267,4571.2,17163,0.266,2976.3,17000,0.175,2972.2,17000,0.175
+2010-12-31,Air Force,WGS,2010,PdE,Boeing,,Space Systems,0,,,3610.6,7,515.8,3576.9,7,510.986,3193.4,7,456.2,3169.9,7,452.843
+2010-12-31,DoD,AMF JTRS,2008,DE,Lockheed Martin,,"Electronics, Comms, and Sensors",0,,,7758.6,27102,0.286,7822.7,27102,0.289,5907.9,26878,0.22,5902.9,26878,0.22
+2010-12-31,DoD,CHEM DEMIL - ACWA,1994,PdE,Bechtel,,Other Services,0,,,5413,3136,1.726,7535.8,3136,2.403,0,0,,0,0,
+2010-12-31,DoD,CHEM DEMIL - CMA,1994,PdE,Westinghouse,,Other Services,0,,,22850.2,29060,0.786,20552.2,29060,0.707,2696.8,29060,0.093,2421.8,29060,0.083
+2010-12-31,DoD,JTRS GMR,2002,DE,Boeing,,"Electronics, Comms, and Sensors",0,,,14437.2,108388,0.133,13602.6,86956,0.156,13592.1,108086,0.126,12135.4,86865,0.14
+2010-12-31,DoD,JTRS HMS,2004,DE,Harris Corporation,Rockwell Collins,"Electronics, Comms, and Sensors",2019,UTC-Rockwell Collins,sub-Rockwell,8569,329574,0.026,4594.5,221978,0.021,8104,328514,0.025,3545.7,221396,0.016
+2010-12-31,DoD,JTRS NED,2002,DE,Boeing,,"Electronics, Comms, and Sensors",0,,,812.9,0,,1718.2,0,,,,,0,0,
+2010-12-31,DoD,MIDS,2003,PdE,BAE Systems,Rockwell Collins,"Electronics, Comms, and Sensors",2019,UTC-Rockwell Collins,sub-Rockwell,1091.4,672,1.624,2530.8,5028,0.503,523.7,630,0.831,1182.6,4606,0.257
+2011-12-31,Army,AB3A Remanufacture,2010,PdE,Boeing,Longbow LLC,Aircraft,2016,Lockheed-Sikorsky,sub-Lockheed,10468.7,639,16.383,10249.4,639,16.04,8856.9,634,13.97,8639,634,13.626
+2011-12-31,Army,AB3B New Build,2010,PdE,Boeing,Longbow LLC,Aircraft,2016,Lockheed-Sikorsky,sub-Lockheed,2134.6,56,38.118,1906.1,58,32.684,2134.6,56,38.118,1906.1,58,32.864
+2011-12-31,Army,CH-47F,2005,PdE,Boeing,,Aircraft,0,,,10614.8,512,20.732,12474.6,532,23.448,10435.1,510,20.461,12291.3,530,23.191
+2011-12-31,Army,Excalibur,2007,PdE,Raytheon,,Ordnance and Missiles,0,,,1654.6,7474,0.221,1646.5,7508,0.219,661.2,6930,0.095,659.5,6964,0.095
+2011-12-31,Army,FMTV,1996,PdE,Oshkosh,,Land Vehicles,0,,,15024.7,83185,0.181,13974,80376,0.174,14890.6,83185,0.179,13800.1,80376,0.172
+2011-12-31,Army,GMLRS/GMLRS AW,2003,PdE,Lockheed Martin,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,4578.4,43795,0.105,5044.7,43936,0.115,3966.7,43560,0.091,4268.1,43560,0.098
+2011-12-31,Army,HIMARS,2003,PdE,Lockheed Martin,,Ordnance and Missiles,0,,,3711.6,894,4.152,1758.9,381,4.617,3421.1,888,3.853,1516.9,375,4.045
+2011-12-31,Army,IAMD,2009,DE,Northrop Grumman,,Air and Missile Defense,0,,,4806.8,296,16.239,5562.9,465,11.963,3316,285,11.635,3470.4,431,8.052
+2011-12-31,Army,JLENS,2005,DE,Raytheon,,"Electronics, Comms, and Sensors",0,,,5850,16,365.625,2308.7,2,1154.35,4027,14,287.643,0,0,
+2011-12-31,Army,LUH,2006,PdE,EADS-NA Defense,,Aircraft,0,,,1638.3,322,5.088,1793.9,345,5.2,1635.1,322,5.078,1790.7,345,5.19
+2011-12-31,Army,MQ-1C UAS Gray Eagle,2010,PdE,General Atomics,,Aircraft,0,,,5252,31,169.419,4489.1,31,144.81,3364.7,29,116.024,3088.2,29,106.49
+2011-12-31,Army,Patriot PAC-3,2002,PdE,Lockheed Martin,Raytheon,Air and Missile Defense,0,,,7084,1012,7,10205.6,1294,7.887,4156.4,1012,4.107,6775.4,1294,5.236
+2011-12-31,Army,Patriot MEADS CAP - Fire Unit,2004,DE,Lockheed Martin,MBDA,Air and Missile Defense,0,,,16530.5,48,344.385,2758.8,0,,11999.1,48,249.981,0,0,
+2011-12-31,Army,PAC-3 MSE,2004,DE,Lockheed Martin,Boeing,Air and Missile Defense,0,,,6220.9,1528,4.071,6869.6,1528,4.496,5760,1528,3.77,6165.7,1528,4.035
+2011-12-31,Army,PIM,2011,DE,BAE Systems,,"Electronics, Comms, and Sensors",0,,,,,,6630.2,582,11.392,,,,5629.7,580,9.706
+2011-12-31,Army,Stryker,2004,PdE,General Dynamics,,Land Vehicles,0,,,6824.8,2131,3.203,14744.7,4536,3.251,6037.6,2128,2.837,13295.7,4507,2.95
+2011-12-31,Army,TWS,1998,PdE,Raytheon,,"Electronics, Comms, and Sensors",0,,,2467.7,237788,0.01,2456,237788,0.01,2395.5,237788,0.01,2382.9,237788,0.01
+2011-12-31,Army,UH-60M Black Hawk,2005,PdE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,16801.7,1235,13.605,22859.2,1375,16.625,16084.2,1227,13.109,22097.9,1367,16.165
+2011-12-31,Army,WIN-T Inc 1,2007,PdE,General Dynamics,,"Electronics, Comms, and Sensors",0,,,3798,1677,2.265,4108.7,1860,2.209,3775,1677,2.251,4074.4,1860,2.191
+2011-12-31,Army,WIN-T Inc 2,2010,PdE,General Dynamics,,"Electronics, Comms, and Sensors",0,,,3617.2,1893,1.911,5907.6,2846,2.076,3384.5,1837,1.842,5682.1,2790,2.017
+2011-12-31,Army,WIN-T Inc 3,2009,DE,General Dynamics,,"Electronics, Comms, and Sensors",0,,,15807.9,3482,4.54,12027.6,3084,3.9,13212.4,3443,3.837,9821.8,3045,3.226
+2011-12-31,Navy,AGM-88E AARGM,2003,PdE,Alliant TechSystems (ATK),,Ordnance and Missiles,2019,Northrop-Orbital ATK,prime-ATK,1339.8,1790,0.748,1647,1919,0.858,806.5,1750,0.461,1026.7,1879,0.546
+2011-12-31,Navy,AIM-9X Block I,1997,PdE,Raytheon,,Ordnance and Missiles,0,,,2464,10049,0.245,1322,3142,0.421,1932.6,10000,0.193,775,3097,0.25
+2011-12-31,Navy ,AIM-9X Block II,2011,DE,Raytheon,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,3967.3,6000,0.661,3849.9,6000,0.642,3798.5,6000,0.633,3677.4,6000,0.613
+2011-12-31,Navy,CEC,2002,PdE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,2443.4,183,13.352,4393.5,269,16.333,1262.8,174,7.257,1654.9,239,6.924
+2011-12-31,Navy,CH-53K,2006,DE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,14980.9,156,96.031,20373.5,200,101.868,11018.9,152,72.493,14921.2,196,76.129
+2011-12-31,Navy,COBRA JUDY Replacement,2003,DE,Raytheon,,"Electronics, Comms, and Sensors",0,,,1365,1,1365,1524.8,1,1524.8,,,,0,0,
+2011-12-31,Navy,DDG 1000,2005,DE,General Dynamics,Raytheon,Ships and Submarines,2021,Raytheon-UTC,sub-Raytheon,19189.3,3,6396.433,18312.7,3,6104.233,10195.3,3,3398.433,9502.3,3,3167.433
+2011-12-31,Navy,DDG 51,1987,PdE,General Dynamics,Northrop Grumman,Ships and Submarines,0,,,16723.8,23,727.122,59238,75,789.84,15745.3,23,684.578,56286.4,75,750.485
+2011-12-31,Navy,E-2D AHE,2009,PdE,Northrop Grumman,,Aircraft,0,,,17468.6,75,232.915,18712.2,75,249.496,13281.9,70,189.741,13977.9,70,199.684
+2011-12-31,Navy,EA-18G,2004,PdE,Boeing,General Electric,Aircraft,0,,,7662.6,90,85.14,9563.5,114,83.89,6030.5,90,67.006,7846.5,114,68.829
+2011-12-31,Navy,F/A-18E/F,2000,PdE,Boeing,General Electric,Aircraft,0,,,65944.7,1000,65.945,46552.9,565,82.395,59976.8,1000,59.977,40657.7,565,71.961
+2011-12-31,Navy,H-1 Upgrades (4BW/4BN),2008,PdE,Bell Helicopters,,Aircraft,0,,,7852.2,284,27.649,11928.5,353,33.792,6352.9,280,22.689,10041.6,349,28.772
+2011-12-31,Navy,IDECM - Blocks 2/3,2008,PdE,ITT Exelis,BAE Systems,"Electronics, Comms, and Sensors",0,,,1410.9,12809,0.11,1475.1,12805,0.115,956,12809,0.075,1018.7,12805,0.08
+2011-12-31,Navy,IDECM - Block 4,2008,DE,ITT Exelis,BAE Systems,"Electronics, Comms, and Sensors",2020,L3-Harris,prime-L3,660.7,160,4.129,796.3,190,4.191,451.2,160,2.82,560.1,190,2.948
+2011-12-31,Navy,JHSV,2008,DE,Austal,,Ships and Submarines,0,,,3460,18,192.222,1979.9,10,197.99,3337.8,18,185.433,1861,10,186.1
+2011-12-31,Navy,JPALS,2008,DE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,963.2,37,26.032,938.6,37,25.368,202.9,25,8.116,221.9,26,8.535
+2011-12-31,Navy,JSOW - Baseline,1990,PdE,Raytheon,,Ordnance and Missiles,0,,,1505.8,3334,0.452,1480.6,3334,0.444,941.7,3334,0.282,917,3334,0.275
+2011-12-31,Navy,JSOW - Unitary,1990,PdE,Raytheon,,Ordnance and Missiles,0,,,3360.9,7800,0.431,2144.9,7000,0.306,3103.7,7800,0.398,1796.2,7000,0.257
+2011-12-31,Navy,KC-130J,2010,PdE,Lockheed Martin,Rolls Royce,Aircraft,0,,,9233.9,104,88.788,9319.2,104,89.608,9198.3,104,88.445,9281.1,104,89.241
+2011-12-31,Navy,LCS,2010,DE,General Dynamics,Lockheed Martin,Ships and Submarines,0,,,32008.2,55,581.967,30677.5,55,557.773,28639.2,53,535.268,27083.4,53,511.008
+2011-12-31,Navy,LHA 6,2006,DE,Huntington Ingalls,,Ships and Submarines,0,,,2877.4,1,2877.4,8941.4,3,2980.467,2677.5,1,2677.5,8605.4,3,2868.467
+2011-12-31,Navy,LPD 17,1996,DE,Huntington Ingalls,,Ships and Submarines,0,,,12955.4,12,1079.6,14269.3,11,1297.209,12842.4,12,1070.2,14153.2,11,1286.655
+2011-12-31,Navy,MH-60R,2006,PdE,Sikorsky,Lockheed Martin,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,9894.9,243,40.72,12081.8,291,44.955,8361.1,241,34.693,11263.6,289,38.874
+2011-12-31,Navy,MH-60S,1998,PdE,Sikorsky,Lockheed Martin,Aircraft,0,,,2769,166,16.681,6629.2,275,24.106,2698,165,16.352,5948.9,275,21.632
+2011-12-31,Navy,MQ-4C UAS BAMS,2008,DE,Northrop Grumman,,Aircraft,0,,,12224.5,70,174.636,12243.9,70,174.913,8871.2,65,136.48,8926.6,65,137.332
+2011-12-31,Navy,MUOS,2004,PdE,Lockheed Martin,,"Electronics, Comms, and Sensors",0,,,5738,6,956.333,6001.6,6,1000.267,2591,4,647.75,2301.6,4,575.4
+2011-12-31,Navy,NMT,2002,PdE,Raytheon,,"Electronics, Comms, and Sensors",0,,,1923.4,333,5.776,1533.7,278,5.517,1345.6,305,4.412,979.9,250,3.92
+2011-12-31,Navy,P-8A,2010,PdE,Boeing,CFM International,Aircraft,0,,,30271.9,115,263.234,31821.3,122,260.83,22791.2,108,211.03,23242.7,117,198.656
+2011-12-31,Navy,RMS,2006,DE,Lockheed Martin,,Other Products,0,,,1279.6,54,23.696,1265.5,54,23.435,630,52,12.115,621.5,52,11.952
+2011-12-31,Navy,SM-6,2004,PdE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,4866.3,1200,4.055,5116.8,1200,4.264,3949.6,1200,3.291,4290.1,1200,3.575
+2011-12-31,Navy,SSN 774,1995,PdE,General Dynamics,,Ships and Submarines,0,,,45633.1,30,1521.103,62185.4,30,2072.847,42228.1,30,1407.603,56319.6,30,1877.32
+2011-12-31,Navy,Tactical Tomahawk,1999,PdE,Raytheon,,Ordnance and Missiles,0,,,1683.7,1365,1.233,5722.1,4961,1.153,1158.4,1353,0.856,5157,4951,1.042
+2011-12-31,Navy,Trident II Missile,1983,PdE,Lockheed Martin,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,25943.7,568,45.676,27252.2,561,48.578,17155.2,540,31.769,17779,533,33.356
+2011-12-31,Navy,V-22,2005,PdE,Boeing,Bell Helicopters,Aircraft,0,,,50250.4,458,109.717,49982.2,459,108.894,38562.8,456,84.568,37947.3,457,83.034
+2011-12-31,Navy,VTUAV,2006,PdE,Northrop Grumman,,Aircraft,0,,,2366.4,177,13.369,2346.9,175,13.411,1522.4,168,9.062,1734.4,168,10.324
+2011-12-31,Air Force,AEHF SV 1-4,2002,PdE,Lockheed Martin,,Space Systems,0,,,9085.3,4,2271.325,11573.9,6,1928.983,2655.1,2,1327.55,5121.9,4,1280.475
+2011-12-31,Air Force,AMRAAM,1992,PdE,Raytheon,Alliant TechSystems (ATK),Ordnance and Missiles,0,,,12302.9,13038,0.944,16375.9,16239,1.008,10205.7,13038,0.783,13660.6,16239,0.841
+2011-12-31,Air Force,B-2 EHF Inc 1,2007,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,659.7,21,31.414,538.4,20,26.92,114.8,17,6.753,116.7,16,7.294
+2011-12-31,Air Force,B-2 RMP,2008,PdE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,1273.8,21,60.657,1211.8,20,60.59,559,14,39.929,545,13,41.923
+2011-12-31,Air Force,C-130 AMP,2010,PdE,Boeing,,"Electronics, Comms, and Sensors",0,,,5610.8,222,25.274,2296.6,9,255.178,3510.2,219,16.028,437.3,6,72.883
+2011-12-31,Air Force,C-130J,1996,PdE,Lockheed Martin,Rolls Royce,Aircraft,0,,,730.7,11,66.427,12284,168,73.119,721.8,11,65.618,11822.5,168,70.372
+2011-12-31,Air Force,C-5 RERP,2008,PdE,Lockheed Martin,,Aircraft,0,,,7146.6,52,127.435,7009.6,52,134.8,5415.9,49,110.529,5330.3,49,108.782
+2011-12-31,Air Force,FAB-T,2002,DE,Boeing,,"Electronics, Comms, and Sensors",0,,,2960.5,222,13.336,3690.4,246,15.002,1677.3,197,8.514,1800,216,8.333
+2011-12-31,Air Force,GBS,1997,DE,General Dynamics,,Space Systems,0,,,451.4,346,1.305,925.1,1916,0.483,53.9,125,0.431,529.4,1780,0.297
+2011-12-31,Air Force,GPS IIIA,2010,PdE,Lockheed Martin,,Space Systems,0,,,3840.8,8,480.1,4009.8,8,501.225,1381,6,230.167,1447.9,6,241.317
+2011-12-31,Air Force,HC/MC-130 Recapitalization,2009,PdE,Lockheed Martin,,Aircraft,0,,,8078.1,74,109.164,12309.1,122,100.894,7436,74,100.486,11847.1,122,97.107
+2011-12-31,Air Force,JASSM - Baseline,2010,PdE,Lockheed Martin,,Ordnance and Missiles,0,,,3679.4,2487,1.479,3589.4,2487,1.443,2503.2,2400,1.043,2398.5,2400,0.999
+2011-12-31,Air Force,JASSM - ER,2010,PdE,Lockheed Martin,,Ordnance and Missiles,0,,,3631.6,2531,1.435,3177.3,2531,1.255,3366.1,2500,1.346,2906,2500,1.162
+2011-12-31,Air Force,JDAM,1995,PdE,Boeing,,Ordnance and Missiles,0,,,2720.4,88126,0.031,5195.8,232875,0.022,2090.6,87496,0.024,4626.6,23201,0.02
+2011-12-31,Air Force,JPATS,2002,PdE,Hawker Beechcraft,,Aircraft,0,,,4918.6,768,6.404,4766.9,750,6.356,4512.4,767,5.883,4362.3,749,5.824
+2011-12-31,Air Force,KC-46A,2011,DE,Boeing,Pratt & Whitney,Aircraft,2013,UTC-Goodrich,sub-UTC,43518.2,179,243.118,43211.6,179,241.406,33040.3,175,188.802,32724.3,175,186.996
+2011-12-31,Air Force,MP-RTIP,2000,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,1449.3,0,,1158.9,0,,,,,,,
+2011-12-31,Air Force,MQ-9 UAS Reaper,2008,PdE,General Atomics,,Aircraft,0,,,11541.3,404,28.568,11536.5,404,28.556,10402.1,401,25.94,10398.9,401,25.932
+2011-12-31,Air Force,NAS,2005,PdE,Raytheon,,"Electronics, Comms, and Sensors",0,,,762.1,53,14.379,1418.7,92,15.421,629.7,53,11.881,1283.6,92,13.952
+2011-12-31,Air Force,NAVSTAR GPS - Space & Control,2000,PdE,Boeing,,Space Systems,0,,,5015.6,33,151.988,6206.6,33,188.079,3239.4,33,98.164,4064.2,33,123.158
+2011-12-31,Air Force,NAVSTAR GPS - User Equipment,2000,PdE,Boeing,,Space Systems,0,,,797.8,0,,1228.4,0,,254.3,0,,0,0,
+2011-12-31,Air Force,NPOESS,2002,PdE,Northrop Grumman,,Space Systems,0,,,9793.7,4,2448.425,2387.6,0,,2446.9,2,1223.45,0,0,
+2011-12-31,Air Force,RQ-4A/B UAS Global Hawk,2000,DE,Northrop Grumman,,Aircraft,0,,,8103.6,54,150.067,7856.5,45,174.589,4904.9,54,90.831,4636.7,45,103.038
+2011-12-31,Air Force,SBIRS HIGH - Baseline,1995,DE,Lockheed Martin,,Space Systems,0,,,8569.3,3,2856.433,13839.4,6,2306.567,1342.8,1,1242.8,5127.4,4,1281.85
+2011-12-31,Air Force,SDB II,2010,DE,Raytheon,,Ordnance and Missiles,2021,Raytheon-UTC,prime-Raytheon,4577.5,17163,0.267,3654.2,17163,0.213,2976.3,17000,0.175,2105.2,17000,0.124
+2011-12-31,Air Force,WGS,2010,PdE,Boeing,,Space Systems,0,,,3610.6,7,515.8,3893.7,8,486.712,3193.4,7,456.2,3449.5,8,431.188
+2011-12-31,DoD,AMF JTRS,2008,DE,Lockheed Martin,,"Electronics, Comms, and Sensors",0,,,7758.6,27102,0.286,3721.4,12172,0.306,5907.9,26878,0.22,2043.7,12080,0.169
+2011-12-31,DoD,CHEM DEMIL - ACWA,2011,PdE,Bechtel,,Other Services,0,,,5413,3136,1.726,7446.2,3136,2.37,0,0,,0,0,
+2011-12-31,DoD,CHEM DEMIL - CMA,1994,PdE,Westinghouse,,Other Services,0,,,22850.2,29060,0.786,20743,29060,0.714,2696.8,29060,0.093,2448,29060,0.084
+2011-12-31,DoD,F-35 - Aircraft,2012,DE,Lockheed Martin,Northrop Grumman,Aircraft,0,,,276482.2,2458,112.483,276483,2457,112.529,224333.7,2443,91.827,224332.9,2443,91.827
+2011-12-31,DoD,F-35 - Engine,2012,DE,Pratt & Whitney,Hamilton Sundstrand,Aircraft,2013,UTC-Goodrich,prime-UTC,53916.4,2458,21.935,54028.1,2457,21.989,42332.9,2443,17.328,42332.9,2443,17.328
+2011-12-31,DoD,JTRS GMR,2002,DE,Boeing,,"Electronics, Comms, and Sensors",0,,,14437.2,108388,0.133,1454.5,91,15.984,13592.1,108086,0.126,0,0,
+2011-12-31,DoD,JTRS HMS,2004,PdE,Harris Corporation,Rockwell Collins,"Electronics, Comms, and Sensors",2019,UTC-Rockwell Collins,sub-Rockwell,8569,329574,0.026,7102.6,271202,0.026,8104,328514,0.025,6071.3,270369,0.022
+2011-12-31,DoD,JTRS NED,2002,DE,Boeing,,"Electronics, Comms, and Sensors",0,,,812.9,0,,1714.5,0,,,,,0,0,
+2011-12-31,DoD,MIDS,2003,PdE,BAE Systems,Rockwell Collins,"Electronics, Comms, and Sensors",2019,UTC-Rockwell Collins,sub-Rockwell,1091.4,672,1.624,2800.1,5258,0.533,523.7,630,0.831,1226.3,4817,0.255
+2012-12-31,Army,AB3A Remanufacture,2010,PdE,Boeing,Longbow LLC,Aircraft,2016,Lockheed-Sikorsky,sub-Lockheed,10468.7,639,16.383,11570.7,639,18.108,8856.9,634,13.97,10074.3,634,15.89
+2012-12-31,Army,AB3B New Build,2010,PdE,Boeing,Longbow LLC,Aircraft,2016,Lockheed-Sikorsky,sub-Lockheed,2134.6,56,38.118,1961.4,56,35.025,2134.6,56,38.118,1961.4,56,35.025
+2012-12-31,Army,CH-47F,2005,PdE,Boeing,,Aircraft,0,,,10614.8,512,20.732,12515.6,532,23.526,10435.1,510,20.461,12332.3,530,23.268
+2012-12-31,Army,EXCALIBUR,2007,PdE,Raytheon,,Ordnance and Missiles,0,,,1654.6,7474,0.221,1663.1,7852,0.212,661.2,6930,0.095,657.4,7308,0.09
+2012-12-31,Army,FMTV,1996,PdE,Oshkosh,,Land Vehicles,0,,,15024.7,83185,0.181,13197.1,80228,0.173,14890.6,83185,0.179,13750.6,80228,0.171
+2012-12-31,Army,G/ATOR,2012,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,2987.3,57,52.409,2209.2,45,49.093,2103.1,57,36.896,1291.3,45,28.696
+2012-12-31,Army,GMLRS/GMLRS AW,2003,PdE,Lockheed Martin,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,4578.4,43795,0.105,5189,43936,0.118,3966.7,43560,0.091,4417.1,43560,0.101
+2012-12-31,Army,IAMD,2009,DE,Northrop Grumman,,Air and Missile Defense,0,,,4806.8,296,16.239,5329.8,447,11.923,3316,285,11.635,3121.3,431,7.242
+2012-12-31,Army,JLENS,2005,DE,Raytheon,,"Electronics, Comms, and Sensors",0,,,5850,16,365.625,2321.4,2,1160.7,4027,14,286.643,0,0,
+2012-12-31,Army,JLTV,2012,DE,AM General,,Land Vehicles,0,,,22780.2,54730,0.416,22732.9,54730,0.415,21782,54599,0.399,21722.8,54599,0.399
+2012-12-31,Army,LUH,2006,PdE,EADS-NA Defense,,Aircraft,0,,,1638.3,322,5.088,1626.9,315,5.165,1635.1,322,5.078,1623.7,315,5.155
+2012-12-31,Army,MQ-1C UAS Gray Eagle,2010,PdE,General Atomics,,Aircraft,0,,,5252,21,169.419,4582.7,31,147.829,3364.7,29,116.024,3156.7,29,108.852
+2012-12-31,Army,Patriot PAC-3,2002,PdE,Lockheed Martin,Raytheon,Air and Missile Defense,0,,,7084,1012,7,10366.6,1354,7.656,4156.4,1012,4.107,6936.4,1354,5.123
+2012-12-31,Army,Patriot MEADS CAP - Fire Unit,2004,DE,Lockheed Martin,,Air and Missile Defense,0,,,16530.5,48,344.385,2745.9,0,,11999.1,48,249.981,0,0,
+2012-12-31,Army,PAC-3 MSE,2004,DE,Lockheed Martin,Boeing,Air and Missile Defense,0,,,6220.9,1528,4.071,6787.9,1528,4.442,5760,1528,3.77,6086.9,1528,3.984
+2012-12-31,Army,PIM,2011,DE,BAE Systems,,"Electronics, Comms, and Sensors",0,,,6641,582,11.411,6543.2,582,11.243,5640.1,580,9.724,5546.1,580,9.562
+2012-12-31,Army,UH-60M Black Hawk,2005,PdE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,16801.7,1235,13.605,20332.4,1375,14.787,16084.2,1227,13.109,19571.1,1367,14.317
+2012-12-31,Army,WIN-T Inc 2,2010,PdE,General Dynamics,,"Electronics, Comms, and Sensors",0,,,3617.2,1893,1.911,4671.3,2156,2.167,3384.5,1837,1.842,4396.7,2100,2.094
+2012-12-31,Army,WIN-T Inc 3,2009,DE,General Dynamics,,"Electronics, Comms, and Sensors",0,,,15807.9,3482,4.54,14154.4,3513,4.029,13212.4,3443,3.837,11800.8,3449,3.422
+2012-12-31,Navy,AGM-88E AARGM,2003,PdE,Alliant TechSystems (ATK),,Ordnance and Missiles,2019,Northrop-Orbital ATK,prime-ATK,1339.8,1790,0.748,1640.8,1919,0.855,806.5,1750,0.461,1020.6,1879,0.543
+2012-12-31,Navy ,AIM-9X Block II,2011,DE,Raytheon,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,3967.3,6000,0.661,3580.9,6000,0.597,3798.5,6000,0.633,3368.9,6000,0.561
+2012-12-31,Navy,CEC,2002,PdE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,2443.4,183,13.352,4326.5,252,17.169,1262.8,174,7.257,1518.1,222,6.838
+2012-12-31,Navy,CH-53K,2006,DE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,14980.9,156,96.031,21340.7,200,106.704,11018.9,152,72.493,15800.4,196,80.614
+2012-12-31,Navy,CVN 78 - CVN 78,2000,DE,Newport News,,Ships and Submarines,0,,,28701.2,3,9567.067,25399,3,8466.333,24825.9,3,8275.3,22377.8,3,7459.267
+2012-12-31,Navy,CVN 78 - EMALS,2000,DE,General Atomics,,Ships and Submarines,0,,,2263.4,3,754.467,2222.8,3,740.933,1593.4,3,531.133,1464.5,3,488.167
+2012-12-31,Navy,DDG 1000,2005,DE,General Dynamics,Raytheon,Ships and Submarines,2021,Raytheon-UTC,sub-Raytheon,19189.3,3,6396.433,18356.5,3,6118.833,10195.3,3,3398.433,9517.5,3,3172.5
+2012-12-31,Navy,DDG 51,1987,PdE,General Dynamics,Northrop Grumman,Ships and Submarines,0,,,16723.8,23,727.122,60579.3,77,786.744,15745.3,23,684.578,57352.7,77,744.84
+2012-12-31,Navy,E-2D AHE,2009,PdE,Northrop Grumman,,Aircraft,0,,,17468.6,75,232.915,18273.1,75,243.641,13281.9,70,189.741,13107.9,70,187.256
+2012-12-31,Navy,EA-18G,2004,PdE,Boeing,General Electric,Aircraft,0,,,7662.6,90,85.14,11104.5,135,82.256,6030.5,90,67.006,9380.3,135,69.484
+2012-12-31,Navy,F/A-18E/F,2000,PdE,Boeing,General Electric,Aircraft,0,,,65944.7,10000,65.945,45775.7,552,82.927,59976.8,1000,59.977,39880.5,552,72.247
+2012-12-31,Navy,H-1 Upgrades (4BW/4BN),2008,PdE,Bell Helicopters,,Aircraft,0,,,7852.2,284,27.649,11702.7,353,33.152,6352.9,280,22.689,9985.1,349,28.611
+2012-12-31,Navy,IDECM - Blocks 2/3,2008,PdE,ITT Exelis,BAE Systems,"Electronics, Comms, and Sensors",0,,,1410.9,12809,0.11,1556,12805,0.122,956,12809,0.075,1099.6,12805,0.086
+2012-12-31,Navy,IDECM - Block 4,2008,DE,ITT Exelis,BAE Systems,"Electronics, Comms, and Sensors",2020,L3-Harris,prime-L3,660.7,160,4.129,779.7,190,4.104,451.2,160,2.82,545,190,2.868
+2012-12-31,Navy,JHSV,2008,DE,Austal,,Ships and Submarines,0,,,3460,18,192.222,1951.9,10,195.19,3337.8,18,185.433,1836.3,10,183.63
+2012-12-31,Navy,JPALS,2008,DE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,963.2,37,26.032,1017.1,37,27.489,202.9,25,8.116,233.1,27,8.633
+2012-12-31,Navy,JSOW - Baseline,1990,PdE,Raytheon,,Ordnance and Missiles,0,,,1505.8,3334,0.452,1477.1,3334,0.443,941.7,3334,0.282,913.5,3334,0.274
+2012-12-31,Navy,JSOW - Unitary,1990,PdE,Raytheon,,Ordnance and Missiles,0,,,3360.9,7800,0.431,2125.1,7000,0.304,3103.7,7800,0.398,1775.4,7000,0.254
+2012-12-31,Navy,KC-130J,2010,PdE,Lockheed Martin,Rolls Royce,Aircraft,0,,,9233.9,104,88.788,9116.9,104,87.662,9198.3,104,88.445,9078.8,104,87.296
+2012-12-31,Navy,LCS,2010,DE,General Dynamics,Lockheed Martin,Ships and Submarines,0,,,32008.2,55,581.967,27796,52,534.538,28369.2,53,535.268,27796.9,50,485.338
+2012-12-31,Navy,LHA 6,2006,DE,Huntington Ingalls,,Ships and Submarines,0,,,2877.4,1,2877.4,8697.4,3,2899.133,2677.5,1,2677.5,8354,3,2784.667
+2012-12-31,Navy,LPD 17,1996,DE,Huntington Ingalls,,Ships and Submarines,0,,,12955.2,12,1079.6,14220.6,11,1292.782,12842.4,12,1070.2,14104.5,11,1282.227
+2012-12-31,Navy,MH-60R,2006,PdE,Sikorsky,Lockheed Martin,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,9894.9,243,40.72,12352.4,280,44.116,8361.1,241,34.693,10510.6,278,37.808
+2012-12-31,Navy,MH-60S,1998,PdE,Sikorsky,Lockheed Martin,Aircraft,0,,,2769,166,16.681,6549.5,275,23.816,2698,165,16.352,5864.3,275,21.325
+2012-12-31,Navy,MQ-4C UAS BAMS,2008,DE,Northrop Grumman,,Aircraft,0,,,12224.5,70,174.636,12253.4,70,175.049,8871.2,65,136.48,8678.5,65,133.515
+2012-12-31,Navy,MUOS,2004,PdE,Lockheed Martin,,"Electronics, Comms, and Sensors",0,,,5738,6,956.333,6045.6,6,1007.6,2591,4,647.75,2327.5,4,581.875
+2012-12-31,Navy,NMT,2002,PdE,Raytheon,,"Electronics, Comms, and Sensors",0,,,1923.4,333,5.776,1525.8,278,5.488,1345.6,305,4.412,968,250,3.872
+2012-12-31,Navy,P-8A,2010,PdE,Boeing,CFM International,Aircraft,0,,,30271.9,115,263.234,31784.8,122,260.531,22791.2,108,211.03,23255.7,117,198.767
+2012-12-31,Navy,RMS,2006,DE,Lockheed Martin,,Other Products,0,,,1279.6,54,23.696,1258.6,54,23.307,630,52,12.115,613.5,52,11.798
+2012-12-31,Navy,SSC,2011,DE,Textron Systems,L-3 Communications,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,3827.1,73,52.426,3354.4,71,47.245,3269.7,21,46.052
+2012-12-31,Navy,SM-6,2004,PdE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,4866.3,1200,4.055,7259.1,1800,4.033,3949.6,1200,3.291,6424.6,1800,3.569
+2012-12-31,Navy,SSN 774,1995,PdE,General Dynamics,,Ships and Submarines,0,,,45633.1,30,1521.103,60538.3,30,2017.943,42228.1,30,1407.603,54856.5,30,1828.55
+2012-12-31,Navy,Tactical Tomahawk,1999,PdE,Raytheon,,Ordnance and Missiles,0,,,1683.7,1365,1.233,5636.5,4961,1.136,1158.4,1353,0.856,5071.4,4951,1.024
+2012-12-31,Navy,Trident II Missile,1983,PdE,Lockheed Martin,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,25943.7,568,45.676,27541.7,561,49.094,17155.2,540,31.769,18137.1,533,34.028
+2012-12-31,Navy,V-22,2005,PdE,Boeing,Bell Helicopters,Air and Missile Defense,0,,,50250.4,458,109.717,50621.5,459,110.286,38562.8,456,84.568,38517,457,84.282
+2012-12-31,Navy,VTUAV,2006,PdE,Northrop Grumman,,Aircraft,0,,,2366.4,177,13.369,2418.5,175,13.82,1522.4,168,9.062,1806.1,158,10.751
+2012-12-31,Air Force,AEHF SV 1-4,2002,PdE,Lockheed Martin,,Space Systems,0,,,9085.3,4,2271.325,9215.1,4,2303.775,2655.1,2,1327.55,2545.7,2,1272.85
+2012-12-31,Air Force,AEHF SV 5-6,2002,PdE,Lockheed Martin,,Space Systems,0,,,2715.1,2,1357.55,2255.8,2,1127.9,2656,2,1328,2198.3,2,1099.15
+2012-12-31,Air Force,AMRAAM,1992,PdE,Raytheon,Alliant TechSystems (ATK),Ordnance and Missiles,0,,,12303.9,13038,0.944,16220.8,16253,0.998,10205.7,13038,0.783,13502.5,16253,0.831
+2012-12-31,Air Force,AWACS Block 40/45 Upgrade,2012,PdE,Boeing,,Aircraft,0,,,2822.4,31,91.045,2753.9,31,88.835,1503.4,31,48.497,1448.1,31,46.713
+2012-12-31,Air Force,B-2 EHF Inc 1,2007,PdE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,659.7,21,31.414,524.8,20,26.239,114.8,17,6.753,117.4,16,7.336
+2012-12-31,Air Force,B61 Mod 12 LEP TKA,2012,DE,Boeing,,Ordnance and Missiles,0,,,1321.6,890,1.485,1315.5,890,1.478,314,813,0.386,316.6,813,0.389
+2012-12-31,Air Force,C-130J,1996,PdE,Lockheed Martin,Rolls Royce,Aircraft,0,,,730.7,11,66.427,12046.7,168,71.707,721.8,11,65.618,11603,168,69.065
+2012-12-31,Air Force,C-5 RERP,2008,PdE,Lockheed Martin,,Aircraft,0,,,7146.6,52,137.435,6931.2,52,133.292,5415.9,49,110.529,5234.3,49,106.822
+2012-12-31,Air Force,EELV,2012,PdE,Boeing,Lockheed Martin,Space Systems,0,,,61443.4,152,404.233,61443.5,152,404.234,59078.3,151,391.247,59078.4,151,391.248
+2012-12-31,Air Force,FAB-T,2002,DE,Boeing,,"Electronics, Comms, and Sensors",0,,,2960.5,222,13.336,3638.5,246,14.791,1677.3,197,8.514,1742.8,216,8.069
+2012-12-31,Air Force,GBS,1997,DE,General Dynamics,,Space Systems,0,,,451.4,346,1.305,950.8,1926,0.494,53.9,125,0.431,554,1790,0.309
+2012-12-31,Air Force,GPS IIIA,2010,PdE,Lockheed Martin,,Space Systems,0,,,3840.8,8,480.1,4051.3,8,506.412,1381,6,230.167,1464,6,244
+2012-12-31,Air Force,GPS OCX,2012,DE,Raytheon,,Space Systems,2021,Raytheon-UTC,prime-Raytheon,3347.2,1,3347.2,3335.7,1,3335.7,0,0,,0,0,
+2012-12-31,Air Force,HC/MC-130 Recapitalization,2009,PdE,Lockheed Martin,,Aircraft,0,,,8078.1,74,109.164,12661.6,131,96.653,7436,74,100.486,12249.7,131,93.509
+2012-12-31,Air Force,JASSM - Baseline,2010,PdE,Lockheed Martin,,Ordnance and Missiles,0,,,3679.4,2487,1.479,3054.3,2040,1.497,2503.2,2400,1.043,1825.4,1953,0.935
+2012-12-31,Air Force,JASSM - ER,2010,PdE,Lockheed Martin,,Ordnance and Missiles,0,,,3631.6,2531,1.435,3632.4,2978,1.22,3366.1,2500,1.346,3397.6,2947,1.153
+2012-12-31,Air Force,JDAM,1995,PdE,Boeing,,Ordnance and Missiles,0,,,2720.4,88126,0.031,5345.2,241890,0.022,2090.6,84796,0.024,4772.5,241086,0.02
+2012-12-31,Air Force,JPATS,2002,PdE,Hawker Beechcraft,,Aircraft,0,,,4918.6,768,6.404,4727,752,6.286,4512.4,767,5.883,4322.5,751,5.756
+2012-12-31,Air Force,KC-46A,2011,DE,Boeing,Pratt & Whitney,Aircraft,2013,UTC-Goodrich,sub-UTC,43518.2,179,243.118,42035,179,234.832,33040.3,175,188.802,31959.8,175,182.627
+2012-12-31,Air Force,MQ-9 UAS Reaper,2008,PdE,General Atomics,,Aircraft,0,,,11541.3,404,28.568,11495.4,404,28.454,10402.1,401,25.49,9992.3,401,24.918
+2012-12-31,Air Force,NAS,2005,PdE,Raytheon,,"Electronics, Comms, and Sensors",0,,,762.1,53,14.379,1394.1,88,15.842,629.7,53,11.881,1259,88,14.307
+2012-12-31,Air Force,NAVSTAR GPS - Space & Control,2000,PdE,Boeing,,Space Systems,0,,,5015.6,33,151.988,6198.9,33,187.845,3239.4,33,98.164,4057.3,33,122.948
+2012-12-31,Air Force,NAVSTAR GPS - User Equipment,2000,PdE,Boeing,,Space Systems,0,,,797.8,0,,1237.8,0,,254.3,0,,0,0,
+2012-12-31,Air Force,RQ-4A/B UAS Global Hawk,2000,DE,Northrop Grumman,,Aircraft,0,,,8103.6,54,150.067,7574.7,45,168.327,4904.9,54,90.831,4378.7,45,97.304
+2012-12-31,Air Force,SBIRS HIGH - Baseline,1995,DE,Lockheed Martin,,Space Systems,0,,,8569.3,3,2856.433,11099.6,4,2774.9,1342.8,1,1342.8,2433,2,1216.5
+2012-12-31,Air Force,SBIRS HIGH - Block Buy,1995,PdE,Lockheed Martin,,Space Systems,0,,,2681.6,2,1340.8,2595.5,2,1297.75,2681.6,2,1340.8,2595.5,2,1297.75
+2012-12-31,Air Force,SDB II,2010,DE,Raytheon,,Ordnance and Missiles,2021,Raytheon-UTC,prime-Raytheon,4577.5,17163,0.267,3553.3,17163,0.207,2976.3,17000,0.175,2021.7,17000,0.119
+2012-12-31,Air Force,WGS,2010,PdE,Boeing,,Space Systems,0,,,3610.6,7,515.8,3845,8,480.625,3193.4,7,456.2,3400.7,8,425.088
+2012-12-31,DoD,AMF JTRS,2008,DE,Lockheed Martin,,"Electronics, Comms, and Sensors",0,,,7758.6,27102,0.286,3241.3,15652,0.207,5907.9,26878,0.22,1568.2,15440,0.102
+2012-12-31,DoD,CHEM DEMIL - ACWA,1994,PdE,Bechtel,,Other Services,0,,,5413,3136,1.726,7393.6,3136,2.358,0,0,,0,0,
+2012-12-31,DoD,F-35 - Aircraft,2012,DE,Lockheed Martin,Northrop Grumman,Aircraft,0,,,276482.2,2458,112.483,265934.3,2457,108.235,224333.7,2443,91.827,215579,2443,88.244
+2012-12-31,DoD,F-35 - Engine,2012,DE,Pratt & Whitney,Hamilton Sundstrand,Aircraft,2013,UTC-Goodrich,prime-UTC,53916.4,2458,21.935,53491.7,2457,21.771,42332.9,2443,17.328,40551.1,2443,16.599
+2012-12-31,DoD,JTRS HMS,2004,PdE,Harris Corporation,Rockwell Collins,"Electronics, Comms, and Sensors",2019,UTC-Rockwell Collins,sub-Rockwell,8569,329574,0.026,7254,271202,0.027,8104,328514,0.025,6234.6,270369,0.023
+2012-12-31,DoD,MIDS,2003,PdE,BAE Systems,Rockwell Collins,"Electronics, Comms, and Sensors",2019,UTC-Rockwell Collins,sub-Rockwell,1091.4,672,1.624,3031,6233,0.486,523.7,630,0.831,1393.5,5745,0.243
+2013-12-31,Army,AB3A Remanufacture,2010,PdE,Boeing,Longbow LLC,Aircraft,2016,Lockheed-Sikorsky,sub-Lockheed,10468.7,639,16.383,12771,639,19.986,8856.9,634,13.97,11244.4,634,17.736
+2013-12-31,Army,AB3B New Build,2010,PdE,Boeing,Longbow LLC,Aircraft,2016,Lockheed-Sikorsky,sub-Lockheed,2134.6,56,38.118,2095.5,63,33.262,2134.6,56,38.118,2095.5,63,33.262
+2013-12-31,Army,CH-47F,2005,PdE,Boeing,,Aircraft,0,,,10614.8,512,20.732,13082.3,550,23.786,10435.1,510,20.461,12899,548,23.538
+2013-12-31,Army,Excalibur,2007,PdE,Raytheon,,Ordnance and Missiles,0,,,1654.6,7474,0.221,1694.5,7420,0.228,661.2,6930,0.095,688.5,6876,0.1
+2013-12-31,Army,GMLRS/GMLRS AW,2003,PdE,Lockheed Martin,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,4578.4,43795,0.105,5468.4,43936,0.124,3966.7,43560,0.091,4642.3,43560,0.107
+2013-12-31,Army,IAMD,2009,DE,Northrop Grumman,,Air and Missile Defense,0,,,4806.8,296,16.239,5689.7,443,12.844,3316,285,11.635,3358.3,427,7.865
+2013-12-31,Army,JLENS,2005,DE,Raytheon,,"Electronics, Comms, and Sensors",0,,,5850,16,365.625,2283.9,2,1141.95,4027,14,286.643,0,0,
+2013-12-31,Army,JLTV,2012,DE,AM General,,Land Vehicles,0,,,22780.2,54730,0.416,22645.6,54730,0.414,21782,54599,0.399,21715.1,54599,0.398
+2013-12-31,Army,MQ-1C UAS Gray Eagle,2010,PdE,General Atomics,,Aircraft,0,,,5252,31,169.419,4433,31,143,3364.7,29,116.024,2909.6,29,100.331
+2013-12-31,Army,Patriot PAC-3,2002,PdE,Lockheed Martin,Raytheon,Air and Missile Defense,0,,,7084,1012,7,10612.6,1410,7.527,4156.4,1012,4.107,7182.4,1410,5.094
+2013-12-31,Army,Patriot MEADS CAP - Fire Unit,2004,DE,Lockheed Martin,,Air and Missile Defense,0,,,16530.5,48,344.385,2708.8,0,,11999.1,48,249.481,0,0,
+2013-12-31,Army,PAC-3 MSE,2004,DE,Lockheed Martin,Boeing,Air and Missile Defense,0,,,6220.9,1528,4.071,6610.5,1528,4.326,5760,1528,3.77,5908.6,1528,3.867
+2013-12-31,Army,PIM,2011,PdE,BAE Systems,,"Electronics, Comms, and Sensors",0,,,6641,582,11.411,6641.5,558,11.902,5640.1,580,9.724,5592.5,556,10.058
+2013-12-31,Army,UH-60M Black Hawk,2005,PdE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,16801.7,1235,13.605,20995.2,1375,15.269,16084.2,1227,13.109,20233.9,1367,14.802
+2013-12-31,Army,WIN-T Inc 2,2010,PdE,General Dynamics,,"Electronics, Comms, and Sensors",0,,,3617.2,1893,1.911,11510.8,5323,2.162,3384.5,1837,1.842,11237.7,5267,2.134
+2013-12-31,Army,WIN-T Inc 3,2009,DE,General Dynamics,,"Electronics, Comms, and Sensors",0,,,15807.9,3482,4.54,3325.9,699,4.758,13212.4,3443,3.837,1497.6,699,2.142
+2013-12-31,Navy,AGM-88E AARGM,2003,PdE,Alliant TechSystems (ATK),,Ordnance and Missiles,2019,Northrop-Orbital ATK,prime-ATK,1339.8,1790,0.748,1777,1919,0.926,806.5,1750,0.461,1111.5,1879,0.592
+2013-12-31,Navy ,AIM-9X Block II,2011,DE,Raytheon,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,3967.3,6000,0.661,3396.8,6000,0.566,3798.5,6000,0.633,3046.1,6000,0.508
+2013-12-31,Navy,AMDR,2013,DE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,5735.7,22,260.714,5030.6,22,228.664,3846.9,22,174.859,3290.8,22,149.582
+2013-12-31,Navy,CEC,2002,PdE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,2443.4,183,13.352,4364.4,261,16.722,1262.8,174,7.257,1559.8,231,6.752
+2013-12-31,Navy,CH-53K,2006,DE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,14980.9,156,96.031,21644.1,200,108.22,11018.9,152,72.493,15855.1,194,81.727
+2013-12-31,Navy,CVN 78 - CVN 78,2000,DE,Newport News,,Ships and Submarines,0,,,28701.2,3,9567.067,25446.8,3,8482.267,24825.9,3,8275.3,22411.7,3,7470.567
+2013-12-31,Navy,CVN 78 - EMALS,2000,DE,General Atomics,,Ships and Submarines,0,,,2263.4,3,754.467,2199.8,3,733.267,1593.4,3,531.133,1440.7,3,480.233
+2013-12-31,Navy,DDG 1000,2005,DE,General Dynamics,Raytheon,Ships and Submarines,2021,Raytheon-UTC,sub-Raytheon,19189.3,3,6396.433,18640.9,3,6213.633,10915.3,3,3398.433,9851.1,3,3283.7
+2013-12-31,Navy,DDG 51,1987,PdE,General Dynamics,Northrop Grumman,Ships and Submarines,0,,,16723.8,23,727.122,61676,80,770.95,15745.3,23,684.578,58477.7,80,730.971
+2013-12-31,Navy,E-2D AHE,2009,PdE,Northrop Grumman,,Aircraft,0,,,17468.6,75,232.915,19174.7,75,255.663,13281.9,70,189.741,13556.3,70,193.661
+2013-12-31,Navy,EA-18G,2004,PdE,Boeing,General Electric,Aircraft,0,,,7662.6,90,85.14,10960.2,135,81.187,6030.5,90,67.006,9109.6,135,67.479
+2013-12-31,Navy,G/ATOR,2012,DE,Northrop Grumman,,Aircraft,0,,,2987.3,57,52.409,2615.3,45,58.118,2103.1,57,36.896,1625.3,45,36.118
+2013-12-31,Navy,H-1 Upgrades (4BW/4BN),2008,PdE,Bell Helicopters,,Aircraft,0,,,7852.2,284,27.649,11992.4,353,33.973,6352.9,280,22.689,10272.6,349,29.434
+2013-12-31,Navy,IDECM - Blocks 2/3,2008,PdE,ITT Exelis,BAE Systems,"Electronics, Comms, and Sensors",0,,,1410.9,12809,0.11,1558.9,12805,0.122,956,12809,0.075,1102.5,12805,0.086
+2013-12-31,Navy,IDECM - Block 4,2008,DE,ITT Exelis,BAE Systems,"Electronics, Comms, and Sensors",2020,L3-Harris,prime-L3,660.7,160,4.129,806.5,190,4.245,451.2,160,2.82,571.5,190,3.008
+2013-12-31,Navy,JPALS,2008,DE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,963.2,37,26.032,1435.8,27,53.178,202.9,25,8.116,315.9,17,18.582
+2013-12-31,Navy,JSOW - Baseline,1990,PdE,Raytheon,,Ordnance and Missiles,0,,,1505.8,3334,0.452,1471.7,3334,0.441,941.7,3334,0.282,908.1,3334,0.272
+2013-12-31,Navy,JSOW - Unitary,1990,PdE,Raytheon,,Ordnance and Missiles,0,,,3360.9,7800,0.431,2188.9,7000,0.313,3103.7,7800,0.398,1836.8,7000,0.262
+2013-12-31,Navy,KC-130J,2010,PdE,Lockheed Martin,Rolls Royce,Aircraft,0,,,9233.9,104,88.788,9395.3,104,90.339,9198.3,104,88.445,9357.2,104,89.973
+2013-12-31,Navy,LCS,2010,DE,General Dynamics,Lockheed Martin,Ships and Submarines,0,,,32008.2,55,581.967,19610.8,32,612.838,28369.2,53,535.268,16337.2,30,544.573
+2013-12-31,Navy,LCS Mission Modules,2010,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,6379.5,64,99.68,6164.7,64,96.323,4116.7,59,69.775,3933.2,59,66.664
+2013-12-31,Navy,LHA 6,2006,DE,Huntington Ingalls,,Ships and Submarines,0,,,2877.4,1,2877.4,8623.5,3,2874.5,2677.5,1,2677.5,8259.4,3,2753.133
+2013-12-31,Navy,LPD 17,1996,DE,Huntington Ingalls,,Ships and Submarines,0,,,12955.2,12,1079.6,14381.9,11,1307.445,12842.4,12,1070.2,14625.8,11,1296.891
+2013-12-31,Navy,MH-60R,2006,PdE,Sikorsky,Lockheed Martin,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,9894.9,243,40.72,11669.3,251,46.491,8361.1,241,34.693,9811,249,39.402
+2013-12-31,Navy,MH-60S,1998,PdE,Sikorsky,Lockheed Martin,Aircraft,0,Lockheed-Sikorsky,prime-Sikorsky,2769,166,16.681,6471.5,275,23.533,2698,165,16.352,5797.4,275,21.081
+2013-12-31,Navy,MQ-4C UAS BAMS,2008,DE,Northrop Grumman,,Aircraft,0,,,12224.5,70,174.636,12242.9,70,174.899,8871.2,65,136.48,8491.6,66,128.661
+2013-12-31,Navy,MUOS,2004,PdE,Lockheed Martin,,"Electronics, Comms, and Sensors",0,,,5738,6,956.333,6130.4,6,1021.733,2591,4,647.75,2323.2,4,580.8
+2013-12-31,Navy,NMT,2002,PdE,Raytheon,,"Electronics, Comms, and Sensors",0,,,1923.4,333,5.776,1541.2,278,5.544,1345.6,305,4.412,976.3,250,3.905
+2013-12-31,Navy,P-8A,2010,PdE,Boeing,CFM International,Aircraft,0,,,30271.9,115,263.234,30330.3,114,266.055,22791.2,108,211.03,21785.6,109,199.868
+2013-12-31,Navy,RMS,2006,DE,Lockheed Martin,,Other Products,0,,,1279.6,54,23.696,1298.3,54,24.043,630,52,12.115,652.9,52,12.556
+2013-12-31,Navy,SSC,2011,DE,Textron Systems,L-3 Communications,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,3801.1,73,52.07,3354.4,71,47.245,3253.9,71,45.83
+2013-12-31,Navy,SM-6,2004,PdE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,4866.3,1200,4.055,7420.5,1800,4.122,3949.6,1200,3.291,6585.8,1800,3.659
+2013-12-31,Navy,SSN 774,1995,PdE,General Dynamics,,Ships and Submarines,0,,,45633.1,30,1521.103,60813.2,30,2027.107,42228.1,30,1407.603,55151,30,1838.367
+2013-12-31,Navy,Tactical Tomahawk,1999,PdE,Raytheon,,Ordnance and Missiles,0,,,1683.7,1365,1.233,4395.7,3800,1.157,1158.4,1353,0.856,3787,3790,0.999
+2013-12-31,Navy,Trident II Missile,1983,PdE,Lockheed Martin,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,25943.7,568,45.676,27636.9,561,49.264,17155.2,540,31.769,18202.7,533,34.151
+2013-12-31,Navy,V-22,2005,PdE,Boeing,Bell Helicopters,Aircraft,0,,,50250.4,458,109.717,50528.8,460,109.845,38562.8,456,84.568,38436.3,458,83.922
+2013-12-31,Navy,VTUAV,2006,PdE,Northrop Grumman,,Aircraft,0,,,2366.4,177,13.369,2614.7,126,20.752,1522.4,168,9.062,1848.9,119,15.537
+2013-12-31,Air Force,AEHF SV 1-4,2002,PdE,Lockheed Martin,,Space Systems,0,,,9085.3,4,2271.325,9194,4,2298.5,2655.1,2,1327.55,2500.9,2,1250.45
+2013-12-31,Air Force,AEHF SV 5-6,2002,PdE,Lockheed Martin,,Space Systems,0,,,2715.1,2,1357.55,2130.4,2,1065.2,2656,2,1328,2075.9,2,1037.95
+2013-12-31,Air Force,AMRAAM,1992,PdE,Raytheon,Alliant TechSystems (ATK),Ordnance and Missiles,0,,,12302.9,13038,0.944,16437.5,16427,1.001,10205.7,13038,0.783,13574.7,16427,0.826
+2013-12-31,Air Force,AWACS Block 40/45 Upgrade,2012,PdE,Boeing,,Aircraft,0,,,2822.4,31,91.045,2675.6,24,111.483,1503.4,31,48.497,1388.5,24,57.854
+2013-12-31,Air Force,B-2 EHF Inc 1,2007,PdE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,659.7,21,31.414,507,20,25.352,114.8,17,6.753,111.4,16,6.963
+2013-12-31,Air Force,B61 Mod 12 LEP TKA,2012,DE,Boeing,,Ordnance and Missiles,0,,,1321.6,890,1.485,1317.6,890,1.48,314,813,0.386,316.5,813,0.389
+2013-12-31,Air Force,C-130J,1996,PdE,Lockheed Martin,,Aircraft,0,,,730.7,11,66.427,12174.3,168,72.466,721.8,11,65.618,11721.5,168,69.771
+2013-12-31,Air Force,C-5 RERP,2008,PdE,Lockheed Martin,,Aircraft,0,,,7146.6,52,137.435,6732.7,52,129.475,5415.9,49,110.529,5036.5,49,102.786
+2013-12-31,Air Force,EELV,2012,PdE,Boeing,Lockheed Martin,Space Systems,0,,,61443.4,152,404.233,58566.2,163,359.302,59078.3,151,391.247,56229.7,162,347.097
+2013-12-31,Air Force,F-22 Inc 3.2B Mod,2013,DE,Lockheed Martin,,Aircraft,0,,,1537.6,152,10.116,1516.1,152,9.974,338.2,143,2.365,331,143,2.315
+2013-12-31,Air Force,FAB-T,2002,DE,Boeing,,"Electronics, Comms, and Sensors",0,,,2960.5,222,13.336,3722.4,259,14.372,1677.3,197,8.514,1788.6,222,8.057
+2013-12-31,Air Force,GBS,1997,DE,General Dynamics,,Space Systems,0,,,451.4,346,1.305,922.6,1915,0.482,53.9,125,0.431,526,1779,0.296
+2013-12-31,Air Force,GPS IIIA,2010,PdE,Lockheed Martin,,Space Systems,0,,,3840.8,8,480.1,4270,8,533.75,1381,6,230.167,1547.7,6,257.95
+2013-12-31,Air Force,GPS OCX,2012,DE,Raytheon,,Space Systems,2021,Raytheon-UTC,prime-Raytheon,3347.2,1,3347.2,3341.8,1,3341.8,0,0,,0,0,
+2013-12-31,Air Force,HC/MC-130 Recapitalization,2009,PdE,Lockheed Martin,,Aircraft,0,,,8078.1,74,109.164,13078.1,131,99.833,7436,74,100.486,12703.2,131,96.971
+2013-12-31,Air Force,JASSM - Baseline,2010,PdE,Lockheed Martin,,Ordnance and Missiles,0,,,3679.4,2487,1.479,3021.1,2141,1.411,2503.2,2400,1.043,1831.4,2054,0.892
+2013-12-31,Air Force,JASSM - ER,2010,PdE,Lockheed Martin,,Ordnance and Missiles,0,,,3631.6,2531,1.435,3595.2,2877,1.25,3366.1,2500,1.346,3321.1,2846,1.167
+2013-12-31,Air Force,JDAM,1995,PdE,Boeing,,Ordnance and Missiles,0,,,2720.4,88126,0.031,5864.1,272648,0.022,2090.6,87496,0.024,5291.3,271844,0.019
+2013-12-31,Air Force,KC-46A,2011,DE,Boeing,Pratt & Whitney,Aircraft,2013,UTC-Goodrich,sub-UTC,43518.2,179,243.118,40466.3,179,226.069,33040.3,175,188.802,31582.6,175,180.472
+2013-12-31,Air Force,MQ-9 UAS Reaper,2008,PdE,General Atomics,,Aircraft,0,,,11541.3,404,28.568,10384.2,346,30.012,10402.1,401,25.94,8819.5,343,25.713
+2013-12-31,Air Force,NAS,2005,PdE,Raytheon,,"Electronics, Comms, and Sensors",0,,,762.1,53,14.379,1405.1,88,15.967,629.7,53,11.881,1270,88,14.432
+2013-12-31,Air Force,RQ-4A/B UAS Global Hawk,2000,DE,Northrop Grumman,,Aircraft,0,,,8103.6,54,150.067,7645.2,45,169.893,4904.9,54,90.831,4302,45,95.6
+2013-12-31,Air Force,SBIRS HIGH - Baseline,1995,DE,Lockheed Martin,,Space Systems,0,,,8569.3,3,2856.433,11016.5,4,2754.125,1342.8,1,1342.8,2380.5,2,1190.25
+2013-12-31,Air Force ,SBIRS HIGH - Block Buy,1995,PdE,Lockheed Martin,,Space Systems,0,,,2681.6,2,1340.8,2299.5,2,1149.75,2681.6,2,1340.8,2299.5,2,1149.75
+2013-12-31,Air Force,SDB II,2010,DE,Raytheon,,Ordnance and Missiles,2021,Raytheon-UTC,prime-Raytheon,4577.5,17163,0.267,3583.4,17163,0.209,2976.3,17000,0.175,2031.4,17000,0.119
+2013-12-31,Air Force,WGS,2010,PdE,Boeing,,Space Systems,0,,,3610.6,7,515.8,3769.6,8,471.2,3193.4,7,456.2,3325.3,8,415.662
+2013-12-31,DoD,AMF JTRS,2008,DE,Lockheed Martin,,"Electronics, Comms, and Sensors",0,,,7758.6,27102,0.286,3120.5,15652,0.199,5907.9,26878,0.22,1619.9,15440,0.105
+2013-12-31,DoD,CHEM DEMIL - ACWA,1994,PdE,Bechtel,,Other Services,0,,,5413,3136,1.726,7616.4,3136,2.429,0,0,,0,0,
+2013-12-31,DoD,F-35 - Aircraft,2012,DE,Lockheed Martin,Northrop Grumman,Aircraft,0,,,276482.2,2458,112.483,267060.6,2457,108.694,224333.7,2443,91.827,217450,2443,80.009
+2013-12-31,DoD,F-35 - Engine,2012,DE,Pratt & Whitney,Hamilton Sundstrand,Aircraft,2013,UTC-Goodrich,prime-UTC,53916.4,2458,21.935,56432.9,2457,22.968,42332.9,2443,17.328,43168.7,2443,17.67
+2013-12-31,DoD,JTRS HMS,2004,PdE,Harris Corporation,Rockwell Collins,"Electronics, Comms, and Sensors",2019,UTC-Rockwell Collins,sub-Rockwell,8569,329574,0.026,8354,271202,0.031,8104,328514,0.025,7230,270369,0.027
+2013-12-31,DoD,MIDS,2003,PdE,BAE Systems,Rockwell Collins,"Electronics, Comms, and Sensors",2019,UTC-Rockwell Collins,sub-Rockwell,1091.4,672,1.624,3111.4,6293,0.494,523.7,630,0.831,1477,5756,0.257
+2014-12-31,Army,AB3A Remanufacture,2010,PdE,Boeing,Longbow LLC,Aircraft,2016,Lockheed-Sikorsky,sub-Lockheed,10468.7,639,16.383,12696.6,639,19.869,8856.9,634,13.97,11158.2,634,17.6
+2014-12-31,Army,AB3B New Build,2010,PdE,Boeing,Longbow LLC,Aircraft,2016,Lockheed-Sikorsky,sub-Lockheed,2134.6,56,38.118,2014.2,63,33.4,2134.6,56,38.118,2104.2,63,33.4
+2014-12-31,Army,CH-47F,2005,PdE,Boeing,,Aircraft,0,,,10614.8,512,20.732,13114.4,550,23.844,10435.1,510,20.461,12931.1,548,23.597
+2014-12-31,Army,Excalibur,2007,PdE,Raytheon,,Ordnance and Missiles,0,,,1654.6,7474,0.221,1699,7583,0.224,661.2,6930,0.095,695,7039,0.099
+2014-12-31,Army,GMLRS/GMLRS AW,2003,PdE,Lockheed Martin,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,4578.4,43795,0.105,5354.1,43936,0.122,3966.7,43560,0.091,4527.4,43560,0.104
+2014-12-31,Army,IAMD,2009,DE,Northrop Grumman,,Air and Missile Defense,0,,,4806.8,296,16.239,5735.3,443,12.947,3316,285,11.635,3394,427,7.948
+2014-12-31,Army,JLTV,2012,DE,AM General,,Land Vehicles,0,,,22780.2,54730,0.416,22571.4,54720,0.412,21782,54599,0.399,21635.5,54599,0.396
+2014-12-31,Army,MQ-1C UAS Gray Eagle,2010,PdE,General Atomics,,Aircraft,0,,,5252,31,169.419,4766.2,34,140.182,3364.7,29,116.024,3237.7,32,101.178
+2014-12-31,Army,PAC-3 MSE,2004,PdE,Lockheed Martin,Boeing,Air and Missile Defense,0,,,6220.9,1528,4.071,5056.6,1093,4.626,5760,1528,3.77,4283.9,1093,3.919
+2014-12-31,Army,PIM,2011,PdE,BAE Systems,,"Electronics, Comms, and Sensors",0,,,6641,582,11.411,6664.8,558,11.944,5640.1,580,9.724,5614.4,556,10.098
+2014-12-31,Army,UH-60M Black Hawk,2005,PdE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,16801.7,1235,13.605,21491.4,1375,15.63,16084.2,1227,13.109,20730.1,1367,15.165
+2014-12-31,Army,WIN-T Inc 2,2010,PdE,General Dynamics,,"Electronics, Comms, and Sensors",0,,,3617.2,1893,1.911,9467.3,3639,2.602,3384.5,1893,1.842,9206.5,3583,2.569
+2014-12-31,Army,WIN-T Inc 3,2009,DE,General Dynamics,,"Electronics, Comms, and Sensors",0,,,15807.9,3482,4.54,1822.5,0,,13212.4,3443,3.837,0,0,
+2014-12-31,Navy,AGM-88E AARGM,2003,PdE,Alliant TechSystems (ATK),,Ordnance and Missiles,2019,Northrop-Orbital ATK,prime-ATK,1339.8,1790,0.748,1774.2,1919,0.925,806.5,1750,0.461,1102.7,1879,0.587
+2014-12-31,Navy ,AIM-9X Block II,2011,DE,Raytheon,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,3967.3,6000,0.661,3244.8,6000,0.541,3798.5,6000,0.633,2735.2,6000,0.456
+2014-12-31,Navy,AMDR,2013,DE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,5735.7,22,260.714,5003,22,227.409,3846.9,22,174.859,3259.8,22,148.173
+2014-12-31,Navy,CEC,2002,PdE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,2443.4,183,13.352,4462.2,264,16.902,1262.8,174,7.257,1573.6,234,6.725
+2014-12-31,Navy,CH-53K,2006,DE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,14980.9,156,96.031,21679.7,200,108.398,11018.9,152,72.493,15968.4,194,82.311
+2014-12-31,Navy,CVN 78 - CVN 78,2000,DE,Newport News,,Ships and Submarines,0,,,28701.2,3,9567.067,25243.7,3,8414.567,24825.9,3,8275.3,22100.4,3,7366.8
+2014-12-31,Navy,CVN 78 - EMALS,2000,DE,General Atomics,,Ships and Submarines,0,,,2263.4,3,754.467,2154,3,718,1593.4,3,531.133,1380.8,3,460.267
+2014-12-31,Navy,DDG 1000,2005,DE,General Dynamics,Raytheon,Ships and Submarines,2021,Raytheon-UTC,sub-Raytheon,19189.3,3,6396.433,18868.1,3,6289.367,10195.3,3,3398.433,10073.3,3,3357.767
+2014-12-31,Navy,DDG 51,1987,PdE,General Dynamics,Northrop Grumman,Ships and Submarines,0,,,16723.8,23,727.122,63435.3,82,773.601,15745.3,23,684.578,60036.4,82,732.151
+2014-12-31,Navy,E-2D AHE,2009,PdE,Northrop Grumman,,Aircraft,0,,,17468.6,75,232.915,19388.6,75,258.515,13281.9,70,189.741,13647,70,194.957
+2014-12-31,Navy,EA-18G,2004,PdE,Boeing,General Electric,Aircraft,0,,,7662.6,90,85.14,12178.2,150,81.188,6030.5,90,67.006,10260.2,150,68.401
+2014-12-31,Navy,G/ATOR,2012,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,2987.3,57,52.409,2615,45,58.111,2103.1,57,36.896,1623.5,45,36.078
+2014-12-31,Navy,H-1 Upgrades (4BW/4BN),2008,PdE,Bell Helicopters,,Aircraft,0,,,7852.2,284,27.649,11716.7,353,33.192,6352.9,280,22.689,9996.9,349,28.644
+2014-12-31,Navy,IDECM - Blocks 2/3,2008,PdE,ITT Exelis,BAE Systems,"Electronics, Comms, and Sensors",0,,,1410.9,12809,0.11,1557.9,12805,0.122,956,12809,0.075,1101.5,12805,0.086
+2014-12-31,Navy,IDECM - Block 4,2008,DE,ITT Exelis,BAE Systems,"Electronics, Comms, and Sensors",2020,L3-Harris,Prime-L3,660.7,160,4.129,819,190,4.311,451.2,160,2.82,581.8,190,3.062
+2014-12-31,Navy,JPALS,2008,DE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,963.2,37,26.032,1410.4,27,52.237,202.9,25,8.116,422.7,17,24.865
+2014-12-31,Navy,JSOW - Baseline,1990,PdE,Raytheon,,Ordnance and Missiles,0,,,1505.8,3334,0.452,1362.9,2517,0.541,941.7,3334,0.282,799.3,2517,0.318
+2014-12-31,Navy,JSOW - Unitary,1990,PdE,Raytheon,,Ordnance and Missiles,0,,,3360.9,7800,0.431,1337.6,3185,0.42,3103.7,7800,0.398,985.5,3185,0.309
+2014-12-31,Navy,KC-130J,2010,PdE,Lockheed Martin,Rolls Royce,Aircraft,0,,,9233.9,104,88.788,8836.8,104,84.969,9198.3,104,88.445,8798.7,104,84.603
+2014-12-31,Navy,LCS,2010,DE,General Dynamics,Lockheed Martin,Ships and Submarines,0,,,32008.2,55,581.967,19013.2,32,594.162,28369.2,53,535.268,15655.7,30,521.857
+2014-12-31,Navy,LCS Mission Modules,2010,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,6379.5,64,99.68,6288.3,64,98.255,4116.7,59,69.775,3972,59,67.322
+2014-12-31,Navy,LHA 6,2006,DE,Huntington Ingalls,,Ships and Submarines,0,,,2877.4,1,2877.4,8408.2,3,2802.733,2677.5,1,2677.5,8029.6,3,2676.533
+2014-12-31,Navy,LPD 17,1996,DE,Huntington Ingalls,,Ships and Submarines,0,,,12955.2,12,1079.6,15272.3,12,1272.692,12842.4,12,1070.2,15156.2,12,1263.017
+2014-12-31,Navy,MH-60R,2006,PdE,Sikorsky,Lockheed Martin,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,9894.9,243,40.27,12990.3,280,43.894,8361.1,241,34.693,10425.9,278,37.503
+2014-12-31,Navy,MQ-4C UAS BAMS,2008,DE,Northrop Grumman,,Aircraft,0,,,12224.5,70,174.636,11365.3,70,162.361,8871.2,65,136.48,7595.3,66,115.08
+2014-12-31,Navy,MUOS,2004,PdE,Lockheed Martin,,"Electronics, Comms, and Sensors",0,,,5738,6,956.333,6141.6,6,1023.6,2591,4,647.75,2328.1,4,582.025
+2014-12-31,Navy,NMT,2002,PdE,Raytheon,,"Electronics, Comms, and Sensors",0,,,1923.4,333,5.776,1646.8,278,5.924,1345.6,305,4.412,977.6,250,3.91
+2014-12-31,Navy,P-8A,2010,PdE,Boeing,CFM International,Aircraft,0,,,30271.9,115,263.234,30188.3,114,264.81,22791.2,108,211.03,21660.4,109,198.719
+2014-12-31,Navy,RMS,2006,DE,Lockheed Martin,,Other Products,0,,,1279.6,54,23.696,1327.7,54,24.587,630,52,12.115,666.9,52,12.825
+2014-12-31,Navy,SSC,2011,DE,Textron Systems,L-3 Communications,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,3782.1,73,51.81,3354.4,71,47.245,3277.3,72,45.518
+2014-12-31,Navy,SM-6,2004,PdE,Raytheon,,Air and Missile Defense,2021,,,4866.3,1200,4.055,7131.9,1800,3.962,3949.6,1200,3.291,6297.2,1800,3.498
+2014-12-31,Navy,SSN 774,1995,PdE,General Dynamics,,Ships and Submarines,0,,,45633.1,30,1521.103,64128.9,32,2004.028,42228.1,30,1407.603,58553.1,32,1829.784
+2014-12-31,Navy,Tactical Tomahawk,1999,PdE,Raytheon,,Ordnance and Missiles,0,,,1683.7,1365,1.233,4638.7,4068,1.14,1158.4,1353,0.856,4021.5,4058,0.991
+2014-12-31,Navy,Trident II Missile,1983,PdE,Lockheed Martin,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,25943.7,568,45.676,27658.8,561,49.303,17155.2,540,31.769,18210.6,533,34.166
+2014-12-31,Navy,V-22,2005,PdE,Boeing,Bell Helicopters,Aircraft,0,,,50250.4,458,109.717,50627.2,460,110.059,38562.8,456,84.568,38142.4,458,83.28
+2014-12-31,Navy ,VH-92A,2014,DE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,4649.7,23,202.161,4675.7,23,203.291,2043.6,17,120.212,2065.2,17,121.482
+2014-12-31,Air Force,AEHF SV 1-4,2002,PdE,Lockheed Martin,,Space Systems,0,,,9085.3,4,2271.325,9337.4,4,2334.35,2655.1,2,1327.55,2561.6,2,1280.8
+2014-12-31,Air Force,AEHF SV 5-6,2002,PdE,Lockheed Martin,,Space Systems,0,,,2715.1,2,1357.55,2090.3,3,1045.15,2656,2,1328,2040.1,2,1020.05
+2014-12-31,Air Force,AMRAAM,1992,PdE,Raytheon,Alliant TechSystems (ATK),Ordnance and Missiles,0,,,12302.9,13038,0.944,16570.8,16540,1.002,10205.7,13038,0.783,13604.1,16540,0.822
+2014-12-31,Air Force,AWACS Block 40/45 Upgrade,2012,PdE,Boeing,,Aircraft,0,,,2822.4,31,91.045,2673.2,24,111.383,1503.4,31,48.497,1387,24,57.821
+2014-12-31,Air Force,B-2 EHF Inc 1,2007,PdE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,659.7,21,31.414,509.7,20,25.485,114.8,17,6.753,114.2,16,7.135
+2014-12-31,Air Force,B61 Mod 12 LEP TKA,2012,DE,Boeing,,Ordnance and Missiles,0,,,1321.6,890,1.485,1297.6,890,1.458,314,813,0.386,313.5,813,0.386
+2014-12-31,Air Force,C-130J,1996,PdE,Lockheed Martin,Rolls Royce,Aircraft,0,,,730.7,11,66.427,12239.6,169,72.424,721.8,11,65.618,11793.6,169,69.785
+2014-12-31,Air Force,CRH,2014,DE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,8090.9,112,72.24,8178.6,112,73.023,6108.4,103,59.305,6181.9,103,60.018
+2014-12-31,Air Force,C-5 RERP,2008,PdE,Lockheed Martin,,Aircraft,0,,,7146.6,52,137.435,6707.9,52,128.998,5415.9,49,110.529,5011.7,49,102.28
+2014-12-31,Air Force,EELV,2012,PdE,Boeing,Lockheed Martin,Space Systems,0,,,61443.4,152,404.233,57000.2,165,345.456,59078.3,151,391.247,54166.1,164,330.281
+2014-12-31,Air Force,EPS,2014,DE,Northrop Grumman,,Space Systems,0,,,1389.1,2,694.55,1383,2,691.5,0,0,,0,0,
+2014-12-31,Air Force,F-22 Inc 3.2B Mod,2013,DE,Lockheed Martin,,Aircraft,0,,,1537.6,152,10.116,1496.9,152,9.848,338.2,143,2.365,331.9,143,2.321
+2014-12-31,Air Force,FAB-T,2002,DE,Raytheon,,"Electronics, Comms, and Sensors",0,,,2960.5,222,13.336,3327.7,259,12.848,1677.3,197,8.514,1227.6,216,5.683
+2014-12-31,Air Force,GBS,1997,DE,General Dynamics,,Space Systems,0,,,451.4,346,1.305,943.5,2014,0.468,53.9,125,0.431,546.9,1878,0.291
+2014-12-31,Air Force,GPS IIIA,2010,PdE,Lockheed Martin,,Space Systems,0,,,3840.8,8,480.1,4462.1,8,557.762,1381,6,230.167,1576.5,6,262.75
+2014-12-31,Air Force,GPS OCX,2012,DE,Raytheon,,Space Systems,2021,Raytheon-UTC,prime-Raytheon,3347.2,1,3347.2,3521,1,3521,0,0,,0,0,
+2014-12-31,Air Force,HC/MC-130 Recapitalization,2009,PdE,Lockheed Martin,,Aircraft,0,,,8078.1,74,109.164,12984.1,131,99.115,7436,74,100.486,12616.4,131,96.308
+2014-12-31,Air Force,ICBM Fuze Mod,2014,DE,Lockheed Martin,,Ordnance and Missiles,0,,,1814.8,781,2.324,1826.7,781,2.339,663.5,693,0.957,666.8,693,0.962
+2014-12-31,Air Force,JASSM - Baseline,2010,PdE,Lockheed Martin,,Ordnance and Missiles,0,,,3679.4,2487,1.479,2973.7,2121,1.402,2503.2,2400,1.043,1789.3,2034,0.88
+2014-12-31,Air Force,JASSM - ER,2010,PdE,Lockheed Martin,,Ordnance and Missiles,0,,,3631.6,2531,1.435,3691.6,2897,1.274,3366.1,2500,1.346,3416,2866,1.192
+2014-12-31,Air Force,JDAM,1995,PdE,Boeing,,Ordnance and Missiles,0,,,2720.4,88126,0.031,6476.8,304157,0.021,2090.6,87496,0.024,5904,303353,0.019
+2014-12-31,Air Force,KC-46A,2011,DE,Boeing,Pratt & Whitney,Aircraft,2013,UTC-Goodrich,sub-UTC,43518.2,179,243.118,40288.5,179,225.075,33040.3,175,188.802,31334.9,175,179.057
+2014-12-31,Air Force,MQ-9 UAS Reaper,2008,PdE,General Atomics,,Aircraft,0,,,11541.3,404,28.568,10779.6,364,29.614,10402.1,401,25.94,9467.2,361,26.225
+2014-12-31,Air Force,RQ-4A/B UAS Global Hawk,2000,DE,Northrop Grumman,,Aircraft,0,,,8103.6,54,150.067,7571.7,45,168.261,4904.9,54,90.831,4233.3,45,94.073
+2014-12-31,Air Force,SBIRS HIGH - Baseline,1995,DE,Lockheed Martin,,Space Systems,0,,,8569.3,3,2856.433,11081.2,4,2770.3,1342.8,1,1342.8,2441.3,2,1220.65
+2014-12-31,Air Force,SBIRS HIGH - Block Buy,1995,DE,Lockheed Martin,,Space Systems,0,,,2681.6,2,1340.8,2382.4,2,1191.2,2681.6,2,1340.8,2382.4,2,1191.2
+2014-12-31,Air Force,SDB II,2010,DE,Raytheon,,Ordnance and Missiles,2021,Raytheon-UTC,prime-Raytheon,4577.5,17163,0.267,3602.6,17163,0.21,2976.3,17000,0.175,2012.7,17000,0.118
+2014-12-31,Air Force,Space Fence Inc 1,2014,DE,Lockheed Martin,,Space Systems,0,,,1567.7,1,1567.7,1541.3,1,1541.3,0,0,,0,0,
+2014-12-31,Air Force,WGS,2010,PdE,Boeing,,Space Systems,0,,,3610.6,7,515.8,3728.5,8,466.062,3913.4,7,456.2,3284.2,8,410.525
+2014-12-31,DoD,AMF JTRS,2008,DE,Lockheed Martin,,"Electronics, Comms, and Sensors",0,,,7141.3,25124,0.284,2781.2,14222,0.196,5459.7,24920,0.219,1441.5,14060,0.103
+2014-12-31,DoD,CHEM DEMIL - ACWA,1994,PdE,Bechtel,,Other Services,0,,,5413,3136,1.726,7643.9,3136,2.437,0,0,,0,0,
+2014-12-31,DoD,F-35 - Aircraft,2012,DE,Lockheed Martin,Northrop Grumman,Aircraft,0,,,276482.2,2458,112.483,264753.9,2457,107.755,224333.7,2443,91.827,214712.4,2443,87.889
+2014-12-31,DoD,F-35 - Engine,2012,DE,Pratt & Whitney,Hamilton Sundstrand,Aircraft,2013,UTC-Goodrich,prime-UTC,53916.4,2458,21.935,55591.2,2457,22.626,42332.9,2443,17.328,42455.2,2443,17.378
+2014-12-31,DoD,JTRS HMS,2004,PdE,Harris Corporation,Rockwell Collins,"Electronics, Comms, and Sensors",2019,UTC-Rockwell Collins,sub-Rockwell,8569,329574,0.026,7264.5,271202,0.027,8104,328514,0.025,6154.3,270369,0.023
+2014-12-31,DoD,MIDS,2003,PdE,BAE Systems,Rockwell Collins,"Electronics, Comms, and Sensors",2019,UTC-Rockwell Collins,sub-Rockwell,1091.4,672,1.624,3196.7,6399,0.5,523.7,630,0.831,1508.6,5851,0.258
+2015-12-31,Army,AB3A Remanufacture,2010,PdE,Boeing,Longbow LLC,Aircraft,2016,Lockheed-Sikorsky,sub-Lockheed,10468.7,639,16.383,12658.6,639,19.81,8856.9,634,13.97,11093.6,634,17.498
+2015-12-31,Army,AB3B New Build,2010,PdE,Boeing,Longbow LLC,Aircraft,2016,Lockheed-Sikorsky,sub-Lockheed,2134.6,56,38.118,2031.9,63,32.252,2134.6,56,38.118,2031.9,63,32.252
+2015-12-31,Army,AMF JTRS,2008,DE ,Lockheed Martin,,"Electronics, Comms, and Sensors",0,,,7141.3,25124,0.284,2907.1,14222,0.204,5459.7,24920,0.219,1433.8,14060,0.103
+2015-12-31,Army,AMPV,2015,DE,BAE Systems,,Land Vehicles,0,,,10724.8,2936,3.653,10749.8,2936,3.661,9736.6,2897,3.361,9736.8,2897,3.361
+2015-12-31,Army,CH-47F,2005,PdE,Boeing,,Aircraft,0,,,10614.8,512,20.732,13010.2,545,23.872,10435.1,510,20.461,12826.9,543,23.622
+2015-12-31,Army,Excalibur,2007,PdE,Raytheon,,Ordnance and Missiles,0,,,1654.6,7474,0.221,1752.1,8040,0.218,661.2,6930,0.095,745.6,7496,0.099
+2015-12-31,Army,GMLRS/GMLRS AW,2003,PdE,Lockheed Martin,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,4578.4,43795,0.105,5280.3,43936,0.12,3966.7,43560,0.091,4435.5,43560,0.102
+2015-12-31,Army,IAMD,2009,DE,Northrop Grumman,,Air and Missile Defense,0,,,4806.8,296,16.239,5788.7,443,13.067,3316,285,11.635,3403.7,427,7.971
+2015-12-31,Army,JAGM,2015,DE,Lockheed Martin,Aerojet Rocketdyne,Ordnance and Missiles,0,,,5669.9,26437,0.214,5682.8,26437,0.215,4691.4,26319,0.178,4715.7,26319,0.179
+2015-12-31,Army,JLTV,2012,PdE,AM General,,Land Vehicles,0,,,22780.2,54730,0.416,19073.4,54714,0.349,21782,54599,0.399,18161.8,54599,0.333
+2015-12-31,Army,MQ-1C UAS Gray Eagle,2010,PdE,General Atomics,,Aircraft,0,,,5252,31,169.419,4825.6,34,141.929,3364.7,29,116.024,3276.3,32,102.384
+2015-12-31,Army,PAC-3 MSE,2004,PdE,Lockheed Martin,Boeing,Air and Missile Defense,0,,,6220.9,1528,4.071,5145.7,1125,4.574,5760,1528,3.77,4373.5,1125,3.888
+2015-12-31,Army,PIM,2011,PdE,BAE Systems,,"Electronics, Comms, and Sensors",0,,,6641,582,11.411,6778.9,570,11.893,5640.1,580,9.724,5726.5,568,10.082
+2015-12-31,Army,UH-60M Black Hawk,2005,PdE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,16801.7,1235,13.605,21431.4,1375,15.586,16084.2,1227,13.109,20670.1,1367,15.121
+2015-12-31,Army,WIN-T Inc 2,2010,PdE,General Dynamics,,"Electronics, Comms, and Sensors",0,,,3617.2,1893,1.911,9585.3,3730,2.57,3384.5,1837,1.842,9296.1,3674,2.53
+2015-12-31,Army,WIN-T Inc 3,2009,DE,General Dynamics,,"Electronics, Comms, and Sensors",0,,,15807.9,3482,4.54,1815,0,,1312.4,3443,3.837,0,0,
+2015-12-31,Navy,AGM-88E AARGM,2003,PdE,Alliant TechSystems (ATK),,Ordnance and Missiles,2019,Northrop-Orbital ATK,prime-ATK,1339.8,1790,0.748,2107.4,2475,0.851,806.5,1750,0.461,1434.4,2435,0.589
+2015-12-31,Navy ,AIM-9X Block II,2011,DE,Raytheon,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,3976.3,6000,0.661,3498,6000,0.583,3798.5,6000,0.633,2960.2,6000,0.493
+2015-12-31,Navy,AMDR,2013,DE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,5735.7,22,260.714,5132.1,22,233.277,3846.9,22,174.859,3254.1,22,147.914
+2015-12-31,Navy,CEC,2002,PdE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,2443.4,183,13.352,4737.5,283,16.74,1262.8,174,7.257,1751.6,253,6.923
+2015-12-31,Navy,CH-53K,2006,DE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,14980.9,156,96.031,21899.3,200,109.496,11018.9,152,72.493,16077.6,194,82.874
+2015-12-31,Navy,CVN 78 - CVN 78,2000,DE,Newport News,,Ships and Submarines,0,,,28701.2,3,9567.067,25829.3,3,8609.767,24825.9,3,8275.3,22478,3,7492.667
+2015-12-31,Navy,CVN 78 - EMALS,2000,DE,General Atomics,,Ships and Submarines,0,,,2263.4,3,754.467,2092.7,3,697.567,1593.4,3,531.133,1262.7,3,420.9
+2015-12-31,Navy,DDG 1000,2005,DE,General Dynamics,Raytheon,Ships and Submarines,2021,Raytheon-UTC,sub-Raytheon,19189.3,3,6396.433,19131.7,3,6377.233,10195.3,3,3398.433,10287.3,3,3429.1
+2015-12-31,Navy,DDG 51,1987,PdE,General Dynamics,Northrop Grumman,Ships and Submarines,0,,,16723.8,23,727.122,66840.9,86,777.22,15745.3,23,684.578,63309.7,86,736.159
+2015-12-31,Navy,E-2D AHE,2009,PdE,Northrop Grumman,,Aircraft,0,,,17468.6,75,232.915,19534.1,75,260.455,13281.9,70,189.741,13741.7,70,196.31
+2015-12-31,Navy,EA-18G,2004,PdE,Boeing,General Electric,Aircraft,0,,,7662.6,90,85.14,13186.9,160,82.418,6030.5,90,67.006,11045,160,69.031
+2015-12-31,Navy,G/ATOR,2012,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,2987.3,57,52.409,2626.5,45,58.367,2103.1,57,36.896,1633.4,45,36.298
+2015-12-31,Navy,H-1 Upgrades (4BW/4BN),2008,PdE,Bell Helicopters,,Aircraft,0,,,7852.2,284,27.649,11614.7,351,33.09,6352.9,280,22.689,9894.6,347,28.515
+2015-12-31,Navy,IDECM - Blocks 2/3,2008,PdE,ITT Exelis,BAE Systems,"Electronics, Comms, and Sensors",0,,,1410.9,12809,0.11,1610.5,12805,0.126,956,12809,0.075,1154.1,12805,0.09
+2015-12-31,Navy,IDECM - Block 4,2008,DE,ITT Exelis,BAE Systems,"Electronics, Comms, and Sensors",2020,L3-Harris,prime-L3,660.7,160,4.129,1048.5,324,3.236,451.2,160,2.82,810.6,324,2.502
+2015-12-31,Navy,JPALS,2008,DE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,963.2,37,26.032,1724.1,27,63.856,202.9,25,8.116,418.1,17,24.594
+2015-12-31,Navy,KC-130J,2010,PdE,Lockheed Martin,Rolls Royce,Aircraft,0,,,9233.9,104,88.788,8683,104,83.49,9198.3,104,88.445,8644.9,104,83.124
+2015-12-31,Navy,LCS,2010,DE,General Dynamics,Lockheed Martin,Ships and Submarines,0,,,32008.2,55,581.967,23918.8,40,597.97,28369.2,53,535.268,20130.2,38,529.742
+2015-12-31,Navy,LCS Mission Modules,2010,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,6379.5,64,99.68,6372.9,64,99.577,4116.7,59,69.775,3999.5,59,67.788
+2015-12-31,Navy,LHA 6,2006,DE,Huntington Ingalls,,Ships and Submarines,0,,,2877.4,1,2877.4,8333.1,3,2777.7,2677.5,1,2677.5,7952,3,2650.667
+2015-12-31,Navy,LPD 17,1996,DE,Huntington Ingalls,,Ships and Submarines,0,,,12955.2,12,1079.6,15262.2,12,1271.85,12842.4,12,1070.2,15146.1,12,1262.175
+2015-12-31,Navy,MH-60R,2006,PdE,Sikorsky,Lockheed Martin,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,9894.9,243,40.72,12237.4,280,43.705,8361.1,241,34.693,10384.4,278,37.354
+2015-12-31,Navy,MQ-4C UAS BAMS,2008,DE,Northrop Grumman,,Aircraft,0,,,12224.5,70,174.636,11511.6,70,164.451,8871.2,65,136.48,7660.9,66,116.074
+2015-12-31,Navy,MUOS,2004,PdE,Lockheed Martin,,"Electronics, Comms, and Sensors",0,,,5738,6,956.333,5826.3,6,971.05,2591,4,647.75,2165.4,4,541.35
+2015-12-31,Navy,NMT,2002,PdE,Raytheon,,"Electronics, Comms, and Sensors",0,,,1923.4,333,5.776,1767.6,278,6.358,1345.6,305,4.412,1039.5,250,4.158
+2015-12-31,Navy,P-8A,2010,PdE,Boeing,CFM International,Aircraft,0,,,30271.9,115,263.234,30046,114,263.561,22791.2,108,211.03,21508.5,109,197.326
+2015-12-31,Navy,RMS,2006,DE,Lockheed Martin,,Other Products,0,,,1279.6,54,23.696,739.1,10,73.91,630,52,12.115,121.1,8,15.138
+2015-12-31,Navy,SSC,2011,DE,Textron Systems,L-3 Communications,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,3662.2,73,50.167,3354.4,71,47.245,3153.3,72,43.796
+2015-12-31,Navy,SM-6,2004,PdE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,4866.3,1200,4.055,7236.4,1800,4.02,3949.6,1200,3.291,6401.7,1800,3.556
+2015-12-31,Navy,SSN 774,1995,PdE,General Dynamics,,Ships and Submarines,0,,,45633.1,30,1521.103,66527.3,33,2015.979,42228.1,30,1407.603,60925.2,33,1846.218
+2015-12-31,Navy,Tactical Tomahawk,1999,PdE,Raytheon,,Ordnance and Missiles,0,,,1683.7,1365,1.233,5124.8,4225,1.213,1158.4,1353,0.856,4501.1,4215,1.068
+2015-12-31,Navy,Trident II Missile,1983,PdE,Lockheed Martin,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,25943.7,568,45.676,27704.3,561,49.384,17155.2,540,31.769,18261.7,533,34.262
+2015-12-31,Navy,V-22,2005,PdE,Boeing,Bell Helicopters,Aircraft,0,,,50250.4,458,109.717,51405,461,111.508,38562.8,456,84.568,38812.8,459,84.559
+2015-12-31,Navy ,VH-92A,2014,DE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,4649.7,23,202.161,4626.6,23,201.157,2043.6,17,120.212,2205,17,129.706
+2015-12-31,Air Force,AEHF SV 1-4,2002,PdE,Lockheed Martin,,Space Systems,0,,,9085.3,4,2271.325,9397.8,4,2349.45,2655.1,2,1327.55,2567.5,2,1283.75
+2015-12-31,Air Force,AEHF SV 5-6,2002,PdE,Lockheed Martin,,Space Systems,0,,,2715.1,2,1357.55,2097.1,2,1048.55,2656,2,1328,2046.7,2,1023.35
+2015-12-31,Air Force,AMRAAM,1992,PdE,Raytheon,Alliant TechSystems (ATK),Ordnance and Missiles,0,,,12302.9,13038,0.944,16142.7,17312,0.932,10205.7,13038,0.783,13729.6,17312,0.793
+2015-12-31,Air Force,AWACS Block 40/45 Upgrade,2012,PdE,Boeing,,Aircraft,0,,,2822.4,31,91.045,2655.2,24,110.633,1503.4,31,48.497,1382,24,57.583
+2015-12-31,Air Force,B-2 EHF Inc 1,2007,PdE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,659.7,21,31.414,509.1,20,25.457,114.8,17,6.753,113.4,16,7.089
+2015-12-31,Air Force,B61 Mod 12 LEP TKA,2012,DE,Boeing,,Ordnance and Missiles,0,,,1321.6,890,1.485,1194.1,890,1.342,314,813,0.386,301.2,813,0.37
+2015-12-31,Air Force,C-130J,1996,PdE,Lockheed Martin,Rolls Royce,Aircraft,0,,,730.7,11,66.427,12290.5,169,72.725,721.8,11,65.618,11844.9,169,70.088
+2015-12-31,Air Force,CRH,2014,DE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,8090.9,112,72.24,8191.1,112,73.135,6108.4,103,59.305,6217.2,103,60.361
+2015-12-31,Air Force,C-5 RERP,2008,PdE,Lockheed Martin,,Aircraft,0,,,7146.6,52,137.435,6698,52,128.808,5415.9,49,110.529,5001.6,49,102.073
+2015-12-31,Air Force,EELV,2012,PdE,Boeing,Lockheed Martin,Space Systems,0,,,61143.4,152,404.233,55576.4,161,345.195,59078.3,151,391.247,51690,160,323.062
+2015-12-31,Air Force,EPS,2014,DE,Northrop Grumman,,Space Systems,0,,,1389.1,2,694.55,1380.3,2,690.15,0,0,,0,0,
+2015-12-31,Air Force,F-22 Inc 3.2B Mod,2013,DE,Lockheed Martin,,Aircraft,0,,,1537.6,152,10.116,1501.5,152,9.878,338.2,143,2.365,345.3,143,2.415
+2015-12-31,Air Force,FAB-T - CPT,2015,PdE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,1639.1,95,17.254,1759.8,109,16.145,939.8,84,11.188,618.9,84,7.368
+2015-12-31,Air Force,FAB-T - FET,2015,PdE,Raytheon,,"Electronics, Comms, and Sensors",0,,,2144.8,127,16.888,2627.1,158,16.627,1204,113,10.655,780.8,132,5.915
+2015-12-31,Air Force,GBS,1997,DE,General Dynamics,,Space Systems,0,,,451.4,346,1.305,968.7,2039,0.475,53.9,125,0.431,569,1903,0.299
+2015-12-31,Air Force,GPS IIIA,2010,PdE,Lockheed Martin,,Space Systems,0,,,3840.8,8,480.1,5180.4,10,518.04,1381,6,230.167,2254.4,8,281.8
+2015-12-31,Air Force,GPS OCX,2012,DE,Raytheon,,Space Systems,2021,Raytheon-UTC,prime-Raytheon,3347.2,1,3347.2,4056.5,1,4056.5,0,0,,0,0,
+2015-12-31,Air Force,HC/MC-130 Recapitalization,2009,PdE,Lockheed Martin,,Aircraft,0,,,8078.1,74,109.164,12771.4,131,97.492,7436,74,100.486,12401.1,131,94.665
+2015-12-31,Air Force,ICBM Fuze Mod,2014,DE,Lockheed Martin,,Ordnance and Missiles,0,,,1814.8,781,2.324,1832.3,781,2.346,663.5,693,0.957,665.5,693,0.96
+2015-12-31,Air Force,JASSM - Baseline,2010,PdE,Lockheed Martin,,Ordnance and Missiles,0,,,3679.4,2487,1.479,3018.3,2121,1.423,2503.2,2400,1.043,1836.3,2034,0.903
+2015-12-31,Air Force,JASSM - ER,2010,PdE,Lockheed Martin,,Ordnance and Missiles,0,,,3631.6,2531,1.435,3700.6,2897,1.277,3366.1,2500,1.346,3377,2866,1.178
+2015-12-31,Air Force,JDAM,1995,PdE,Boeing,,Ordnance and Missiles,0,,,2720.4,88126,0.031,6957.7,356249,0.02,2090.6,87496,0.024,6347.4,355445,0.018
+2015-12-31,Air Force,KC-46A,2011,DE,Boeing,Pratt & Whitney,Aircraft,2013,UTC-Goodrich,sub-UTC,43518.2,179,243.118,39940.1,179,223.129,33040.3,175,188.802,31371,175,179.263
+2015-12-31,Air Force,MQ-9 UAS Reaper,2008,PdE,General Atomics,,Aircraft,0,,,11541.3,404,28.568,10542.3,350,30.121,10402.1,401,25.94,9221.7,347,26.576
+2015-12-31,Air Force,SBIRS HIGH - Baseline,1995,DE,Lockheed Martin,,Space Systems,0,,,8569.3,3,2856.433,11066.6,4,2766.65,1342.8,1,1342.8,2450.6,2,1225.3
+2015-12-31,Air Force,SBIRS HIGH - Block Buy,1995,PdE,Lockheed Martin,,Space Systems,0,,,2681.6,2,1340.8,2283.5,2,1141.75,2681.6,2,1340.8,2283.5,2,1141.75
+2015-12-31,Air Force,SDB II,2010,PdE,Raytheon,,Ordnance and Missiles,2021,Raytheon-UTC,prime-Raytheon,4577.5,17163,0.267,3856,17163,0.225,2976.3,17000,0.175,2212.1,17000,0.13
+2015-12-31,Air Force,Space Fence Inc 1,2014,DE,Lockheed Martin,,Space Systems,0,,,1567.7,1,1567.7,1491.3,1,1491.3,0,0,,0,0,
+2015-12-31,Air Force,WGS,2010,PdE,Boeing,,Space Systems,0,,,3610.6,7,515.8,3831.3,8,478.912,3193.4,7,456.2,3386.9,8,423.362
+2015-12-31,DoD,CHEM DEMIL - ACWA,1994,PdE,Bechtel,,Other Services,0,,,5413,3136,1.726,7667.5,3136,2.445,0,0,,0,0,
+2015-12-31,DoD,F-35 - Aircraft,2012,DE,Lockheed Martin,Northrop Grumman,Aircraft,0,,,276482.2,2458,112.483,261760.9,2457,106.537,224333.7,2443,91.827,211290.9,2443,86.488
+2015-12-31,DoD,F-35 - Engine,2012,DE,Pratt & Whitney,Hamilton Sundstrand,Aircraft,2013,UTC-Goodrich,prime-UTC,53916.4,2458,21.935,51499.5,2457,20.96,42332.9,2443,17.328,38376.9,2443,15.709
+2015-12-31,DoD,JTRS HMS,2004,PdE,Harris Corporation,Rockwell Collins,"Electronics, Comms, and Sensors",2019,UTC-Rockwell Collins,sub-Rockwell,8569,329574,0.026,7527.6,271202,0.028,8104,328514,0.025,6398.7,270369,0.024
+2015-12-31,DoD,MIDS,2003,PdE,BAE Systems,Rockwell Collins,"Electronics, Comms, and Sensors",2019,UTC-Rockwell Collins,sub-Rockwell,1091.4,672,1.624,3872.3,8604,0.45,523.7,630,0.831,2133.5,8000,0.267
+2016-12-31,Army,AB3A Remanufacture,2010,PdE,Boeing,Longbow LLC,Aircraft,2016,Lockheed-Sikorsky,sub-Lockheed,10468.7,639,16.383,12401,639,19.407,8856.9,634,13.97,10921.2,634,17.226
+2016-12-31,Army,AB3B New Build,2010,PdE,Boeing,Longbow LLC,Aircraft,2016,Lockheed-Sikorsky,sub-Lockheed,2134.6,56,38.118,1709.1,59,28.968,2134.6,56,38.118,1709.1,59,28.968
+2016-12-31,Army,AMF JTRS,2008,DE,Lockheed Martin,,"Electronics, Comms, and Sensors",0,,,7141.3,25124,0.284,2856.1,14028,0.204,5459.7,24920,0.219,1371.4,13808,0.099
+2016-12-31,Army,AMPV,2015,DE,BAE Systems,,Land Vehicles,0,,,10724.8,2936,3.653,10803.4,2936,3.68,9736.6,2897,3.361,9806.9,2897,3.385
+2016-12-31,Army,CH-47F,2005,PdE,Boeing,,Aircraft,0,,,10614.8,512,20.732,12843.1,538,23.872,10435.1,510,20.461,12659.8,536,23.619
+2016-12-31,Army,CIRCM,2015,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,2537.1,1124,2.257,2560.7,1124,2.278,1782.5,1076,1.657,1777.2,1076,1.652
+2016-12-31,Army,GMLRS/GMLRS AW,2003,PdE,Lockheed Martin,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,4578.4,43795,0.105,5851.1,43936,0.133,3966.7,43560,0.091,4726.5,43560,0.109
+2016-12-31,Army,IAMD,2009,DE,Northrop Grumman,,Air and Missile Defense,0,,,4806.8,296,16.239,6236,479,13.019,3315,285,11.635,3388.2,454,7.463
+2016-12-31,Army,JAGM,2015,DE,Lockheed Martin,Aerojet Rocketdyne,Ordnance and Missiles,0,,,5669.9,26437,0.214,5663.1,26437,0.214,4691.4,26319,0.178,4659.7,26319,0.177
+2016-12-31,Army,JLTV,2012,PdE,AM General,,Land Vehicles,0,,,22780.2,54730,0.416,19523.2,56454,0.346,21782,54599,0.399,18629.7,56340,0.331
+2016-12-31,Army,M88A2 Hercules,1997,PdE,BAE Systems,,Land Vehicles,0,,,2359.1,938,2.515,2324.2,938,2.478,2298.7,933,2.464,2257.3,933,2.419
+2016-12-31,Army,MQ-1C UAS Gray Eagle,2010,PdE,General Atomics,,Aircraft,0,,,5252,31,169.419,5336.5,45,118.589,3364.7,29,116.024,3734.7,43,86.853
+2016-12-31,Army,PAC-3 MSE,2014,PdE,Lockheed Martin,Boeing,Air and Missile Defense,0,,,6220.9,1528,4.071,5310.9,1185,4.482,5760,1528,3.77,4538.8,1185,3.83
+2016-12-31,Army,PIM,2011,PdE,BAE Systems,,"Electronics, Comms, and Sensors",0,,,6641,582,11.411,6727,570,11.802,5640.1,580,9.724,5686.5,568,10.011
+2016-12-31,Army,UH-60M Black Hawk,2005,PdE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,16801.7,1235,13.605,22219.8,1370,16.219,16084.2,1227,13.109,21458.5,1362,15.755
+2016-12-31,Army,WIN-T Inc 2,2010,PdE,General Dynamics,,"Electronics, Comms, and Sensors",0,,,3617.2,1893,1.911,9857.9,3730,2.643,3384.5,1837,1.842,9557.4,3674,2.601
+2016-12-31,Army,WIN-T Inc 3,2009,DE,General Dynamics,,"Electronics, Comms, and Sensors",0,,,15807.9,3482,4.54,1813.7,0,,13212.4,3443,3.837,0,0,
+2016-12-31,Navy ,Advanced Arresting Gear,2016,DE,General Atomics,,Other Products,0,,,1994.1,3,664.7,2013.5,3,671.167,778.7,3,259.567,697.4,3,232.467
+2016-12-31,Navy,ACV 1.1,2014,DE,BAE Systems,,Land Vehicles,0,,,1826.9,240,7.612,1731,240,7.212,1015.5,204,4.978,1016.9,204,4.985
+2016-12-31,Navy,AGM-88E AARGM,2003,PdE,Alliant TechSystems (ATK),,Ordnance and Missiles,2019,Northrop-Orbital ATK,prime-ATK,1339.8,1790,0.748,2106.2,2475,0.851,806.5,1750,0.461,1432.9,2435,0.588
+2016-12-31,Navy ,AIM-9X Block II,2011,DE,Raytheon,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,3967.3,6000,0.661,3098.2,6000,0.516,3798.5,6000,0.633,2590.4,6000,0.432
+2016-12-31,Navy,AMDR,2013,DE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,5735.7,22,260.714,5293.5,22,240.614,3846.9,22,174.859,3278.3,22,149.014
+2016-12-31,Navy,CEC,2002,PdE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,2443.4,183,13.352,4835.5,283,17.087,1262.8,174,7.257,1748.5,253,6.911
+2016-12-31,Navy,CH-53K,2006,DE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,14980.9,156,96.031,23180.3,200,115.902,11018.9,152,72.493,17143,194,88.366
+2016-12-31,Navy,CVN 78 - CVN 78,2000,DE,Newport News,,Ships and Submarines,0,,,28701.2,3,9567.067,26992.6,3,8997.533,24285.9,3,8275.3,23557,3,7852.333
+2016-12-31,Navy,CVN 78 - EMALS,2000,DE,General Atomics,,Ships and Submarines,0,,,2263.4,3,754.467,1928.6,3,642.867,1593.4,3,531.133,1099,3,366.333
+2016-12-31,Navy,DDG 1000,2005,DE,General Dynamics,Raytheon,Ships and Submarines,2021,Raytheon-UTC,sub-Raytheon,19189.3,3,6396.433,19427.7,3,6475.9,10195.3,3,3398.433,10413.2,3,3471.067
+2016-12-31,Navy,DDG 51,1987,PdE,General Dynamics,Northrop Grumman,Ships and Submarines,0,,,16723.8,23,727.122,68490.9,89,769.561,15745.3,23,684.578,64949.2,89,729.766
+2016-12-31,Navy,E-2D AHE,2009,PdE,Northrop Grumman,,Aircraft,0,,,17468.6,75,232.915,19611.1,75,261.481,13281.9,70,189.741,13708.3,70,195.833
+2016-12-31,Navy,EA-18G,2004,PdE,Boeing,General Electric,Aircraft,0,,,7662.6,90,85.14,12947.4,160,80.921,6030.5,90,67.006,10762.9,160,67.268
+2016-12-31,Navy,G/ATOR,2012,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,2987.3,57,52.409,2664.6,45,59.213,2103.1,57,36.896,1664.2,45,36.982
+2016-12-31,Navy,H-1 Upgrades (4BW/4BN),2008,PdE,Bell Helicopters,,Aircraft,0,,,7852.2,284,27.649,11317.8,339,33.386,6352.9,280,22.689,9597.8,335,28.65
+2016-12-31,Navy,IDECM - Blocks 2/3,2008,PdE,ITT Exelis,BAE Systems,"Electronics, Comms, and Sensors",0,,,1410.9,12809,0.11,1607.7,12805,0.126,956,12809,0.075,1151.3,12805,0.09
+2016-12-31,Navy,IDECM - Block 4,2008,DE,ITT Exelis,BAE Systems,"Electronics, Comms, and Sensors",2020,L3-Harris,prime-L3,660.7,160,4.129,1035.2,324,3.195,451.2,160,2.82,795.1,324,2.454
+2016-12-31,Navy,IRST,2008,PdE,Boeing,Lockheed Martin,"Electronics, Comms, and Sensors",0,,,1914.6,179,10.696,1903.9,179,10.636,1150.6,170,6.768,1148.5,170,6.756
+2016-12-31,Navy,JPALS,2008,DE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,963.2,37,26.032,1631.4,33,49.436,202.9,25,8.116,352.5,23,15.327
+2016-12-31,Navy,KC-130J,2010,PdE,Lockheed Martin,Rolls Royce,Aircraft,0,,,9233.9,104,88.788,8646.2,104,83.137,9198.3,104,88.445,8608.1,104,82.77
+2016-12-31,Navy,LCS,2010,DE,General Dynamics,Lockheed Martin,Ships and Submarines,0,,,32008.2,55,581.967,18314.4,32,572.325,28369.2,53,535.268,15015.5,30,500.517
+2016-12-31,Navy,LCS Mission Modules,2010,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,6379.5,64,99.68,6415.6,64,100.244,4116.7,59,69.775,3993.3,59,67.683
+2016-12-31,Navy,LHA 6,2006,DE,Huntington Ingalls,,Ships and Submarines,0,,,2877.4,1,2877.4,8474.4,3,2824.8,2677.5,1,2677.5,8048.7,3,2682.9
+2016-12-31,Navy,LPD 17,1996,DE,Huntington Ingalls,,Ships and Submarines,0,,,12955.2,12,1079.6,16264.4,13,1251.108,12842.4,12,1070.2,16148.3,13,1242.177
+2016-12-31,Navy,MH-60R,2006,PdE,Sikorsky,Lockheed Martin,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,9894.9,243,40.72,12140.3,280,43.358,8361.1,241,34.693,10290.5,278,37.016
+2016-12-31,Navy,MQ-4C UAS BAMS,2008,PdE,Northrop Grumman,,Aircraft,0,,,12224.5,70,174.636,13341.3,70,190.59,8871.2,65,136.48,8363,66,126.713
+2016-12-31,Navy,MUOS,2004,PdE,Lockheed Martin,,"Electronics, Comms, and Sensors",0,,,5738,6,956.333,5388,5,1077.6,2591,4,647.75,1694.7,3,564.9
+2016-12-31,Navy ,NGJ Mid-Band,2016,DE,Raytheon,Boeing,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,7463.7,135,55.287,7476.2,135,55.379,4002.6,131,30.554,4025.9,131,30.732
+2016-12-31,Navy,NMT,2002,PdE,Raytheon,,"Electronics, Comms, and Sensors",0,,,1923.4,333,5.776,1827.2,278,6.573,1345.6,305,4.412,1097.2,250,4.389
+2016-12-31,Navy,OASuW Inc 1 LRASM,2014,DE,Lockheed Martin,,Ordnance and Missiles,0,,,1467.3,124,11.833,1537,147,10.456,292.3,110,2.657,362.3,135,2.684
+2016-12-31,Navy,P-8A,2010,PdE,Boeing,CFM International,Aircraft,0,,,30271.9,115,263.234,30836,116,265.828,22791.2,108,211.03,21345.2,111,192.299
+2016-12-31,Navy,SSC,2011,DE,Textron Systems,L-3 Communications,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,4148.7,73,56.832,3354.4,71,47.245,3626.3,72,50.365
+2016-12-31,Navy,SM-6,2004,PdE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,4866.3,1200,4.055,7465.1,1800,4.147,3949.6,1200,3.291,6630.4,1800,3.684
+2016-12-31,Navy,SSBN 826,2017,DE,General Dynamics,Newport News,Ships and Submarines,0,,,100221.9,12,8351.825,99292.5,12,8274.375,87426.5,12,7285.542,86482.5,12,7206.875
+2016-12-31,Navy,SSN 774,1995,PdE,General Dynamics,,Ships and Submarines,0,,,45633.1,30,1521.103,93543.2,48,1948.817,42228.1,30,1407.603,86917.5,48,1810.781
+2016-12-31,Navy,Tactical Tomahawk,1999,PdE,Raytheon,,Ordnance and Missiles,0,,,1683.7,1365,1.233,5406.2,4439,1.218,1158.4,1353,0.856,4784.2,4429,1.08
+2016-12-31,Navy,Trident II Missile,1983,PdE,Lockheed Martin,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,25943.7,568,45.676,27675.2,561,49.332,17155.2,540,31.769,18223.5,533,34.19
+2016-12-31,Navy,V-22,2005,PdE,Boeing,Bell Helicopters,Aircraft,0,,,50250.4,458,109.717,51618.7,462,111.729,38562.8,456,84.568,38702.5,460,84.136
+2016-12-31,Navy ,VH-92A,2014,DE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,4649.7,23,202.161,4574.1,23,198.874,2043.6,17,120.212,2036.1,17,119.771
+2016-12-31,Air Force,AEHF SV 1-4,2002,PdE,Lockheed Martin,,Space Systems,0,,,9085.3,4,2271.325,9355.2,4,2338.8,2655.1,2,1327.55,2574.5,2,1287.25
+2016-12-31,Air Force,AEHF SV 5-6,2002,PdE,Lockheed Martin,,Space Systems,0,,,2715.1,2,1357.55,2087.1,2,1043.55,2656,2,1328,2036.8,2,1018.4
+2016-12-31,Air Force,AMRAAM,1992,PdE,Raytheon,Alliant TechSystems (ATK),Ordnance and Missiles,0,,,12302.9,13038,0.944,16138.1,17312,0.932,10205.7,13038,0.783,13725.4,17312,0.793
+2016-12-31,Air Force,AWACS Block 40/45 Upgrade,2012,PdE,Boeing,,Aircraft,0,,,2822.4,31,48.497,2712.2,24,113.008,1503.4,31,48.497,1439,24,59.958
+2016-12-31,Air Force,B-2 DMS-M,2016,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,2556.2,20,127.81,2537.5,20,126.875,734.3,16,45.894,728.9,16,45.556
+2016-12-31,Air Force,B61 Mod 12 LEP TKA,2012,DE,Boeing,,Ordnance and Missiles,0,,,132.6,890,1.485,1139.6,890,1.28,314,813,0.386,324.9,813,0.4
+2016-12-31,Air Force,C-130J,1996,PdE,Lockheed Martin,Rolls Royce,Aircraft,0,,,730.7,11,66.427,12175.5,170,71.621,721.8,11,65.618,11739.2,170,69.054
+2016-12-31,Air Force,CRH,2014,DE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,8090.9,112,72.24,8233.4,112,73.512,6108.4,103,59.305,6331.7,103,61.473
+2016-12-31,Air Force,C-5 RERP,2008,PdE,Lockheed Martin,,Aircraft,0,,,7146.6,52,137.435,6586.1,52,126.656,5415.9,49,110.529,4889.9,49,99.794
+2016-12-31,Air Force,EELV,2012,PdE,Boeing,Lockheed Martin,Space Systems,0,,,61443.4,152,404.233,52894,169,312.982,59078.3,151,391.247,48752.8,168,290.195
+2016-12-31,Air Force,EPS,2014,DE,Northrop Grumman,,Space Systems,0,,,1389.1,2,694.55,1376.8,2,688.4,0,0,,0,0,
+2016-12-31,Air Force,F-15 EPAWSS,2016,DE,Boeing,BAE Systems,"Electronics, Comms, and Sensors",0,,,4251.5,413,10.294,2581.4,221,11.681,3375,413,8.172,1724.8,217,7.948
+2016-12-31,Air Force,F-22 Inc 3.2B Mod,2013,PdE,Lockheed Martin,,Aircraft,0,,,1537.6,152,10.116,1419.7,152,9.34,338.2,143,2.365,290.7,143,2.033
+2016-12-31,Air Force,FAB-T - CPT,2015,PdE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,1639.1,95,17.254,1794.2,109,16.461,939.8,84,11.188,636.4,84,7.576
+2016-12-31,Air Force,FAB-T - FET,2015,PdE,Raytheon,,"Electronics, Comms, and Sensors",0,,,2144.8,127,16.888,2640.9,158,16.715,1204,113,10.655,779.2,132,5.903
+2016-12-31,Air Force,GBS,1997,DE,General Dynamics,,Space Systems,0,,,451.4,346,1.305,968.2,2074,0.467,53.9,125,0.431,568.5,1938,0.293
+2016-12-31,Air Force,GPS IIIA,2010,PdE,Lockheed Martin,,Space Systems,0,,,3840.8,8,480.1,5079.2,10,507.92,1381,6,230.167,2110.1,8,263.762
+2016-12-31,Air Force,GPS OCX,2012,DE,Raytheon,,Space Systems,2021,Raytheon-UTC,prime-Raytheon,3347.2,1,3347.2,5088.7,1,5088.7,0,0,,0,0,
+2016-12-31,Air Force,HC/MC-130 Recapitalization,2009,PdE,Lockheed Martin,,Aircraft,0,,,8078.1,74,109.164,12586.6,132,95.353,7436,74,100.486,12203.7,132,92.452
+2016-12-31,Air Force,ICBM Fuze Mod,2014,DE,Lockheed Martin,,Ordnance and Missiles,0,,,1814.8,781,2.324,1813.4,781,2.322,663.5,693,0.957,662.9,693,0.957
+2016-12-31,Air Force,JASSM - ER,2010,PdE,Lockheed Martin,,Ordnance and Missiles,0,,,3631.6,2531,1.435,3837.6,2897,1.325,3366.1,2500,1.346,3377.4,2866,1.178
+2016-12-31,Air Force,JDAM,1995,PdE,Boeing,,Ordnance and Missiles,0,,,2720.4,88126,0.031,7731.1,396336,0.02,2090.6,87496,0.024,7135.8,395532,0.018
+2016-12-31,Air Force,KC-46A,2016,PdE,Boeing,Pratt & Whitney,Aircraft,2013,UTC-Goodrich,sub-UTC,43518.2,179,243.118,36960.1,179,206.481,33040.3,175,188.802,28871.5,175,164.98
+2016-12-31,Air Force,MGUE Inc 1,2017,DE,L-3 Communications,,"Electronics, Comms, and Sensors",2020,L3-Harris,prime-L3,1505.7,0,,1155.7,0,,0,0,,0,0,
+2016-12-31,Air Force,MQ-9 UAS Reaper,2008,PdE,General Atomics,,Aircraft,0,,,11541.3,404,28.568,11216.9,366,30.647,10402.1,401,25.94,9778.4,363,26.938
+2016-12-31,Air Force,SBIRS HIGH - Block Buy,1995,PdE,Lockheed Martin,,Space Systems,0,,,2681.6,2,1340.8,2363.7,2,1181.85,2681.6,2,1340.8,2363.7,2,1181.85
+2016-12-31,Air Force,SDB II,2010,PdE,Raytheon,,Ordnance and Missiles,2021,Raytheon-UTC,prime-Raytheon,4577.5,17163,0.267,3862.9,17163,0.225,2976.3,17000,0.175,2209.3,17000,0.13
+2016-12-31,Air Force,Space Fence Inc 1,2014,DE,Lockheed Martin,,Space Systems,0,,,1567.7,1,1567.7,1478,1,1478,0,0,,0,0,
+2016-12-31,Air Force,WGS,2010,PdE,Boeing,,Space Systems,0,,,3610.6,7,515.8,3675.9,8,459.488,3193.4,7,456.2,3231.6,8,403.95
+2016-12-31,DoD,CHEM DEMIL - ACWA,1994,PdE,Bechtel,,Other Services,0,,,5413,3136,1.726,9071.2,3136,2.893,0,0,,0,0,
+2016-12-31,DoD,F-35 - Aircraft,2012,DE,Lockheed Martin,Northrop Grumman,Aircraft,0,,,276482.2,2458,112.483,271577.4,2470,109.95,224333.7,2443,91.827,220857.7,2456,89.926
+2016-12-31,DoD,F-35 - Engine,2012,DE,Pratt & Whitney,Hamilton Sundstrand,Aircraft,2013,UTC-Goodrich,prime-UTC,53916.4,2458,21.935,53043.2,2470,21.475,42332.9,2443,17.328,39918.1,2456,16.253
+2016-12-31,DoD,JTRS HMS,2004,PdE,Harris Corporation,Rockwell Collins,"Electronics, Comms, and Sensors",2019,UTC-Rockwell Collins,sub-UTC,8569,329574,0.026,7439.2,271202,0.027,8104,328514,0.025,6307.8,270369,0.023
+2016-12-31,DoD,MIDS,2003,PdE,BAE Systems,Rockwell Collins,"Electronics, Comms, and Sensors",2019,UTC-Rockwell Collins,sub-UTC,1091.4,672,1.624,3937.7,9126,0.431,523.7,630,0.831,2087.8,8469,0.247
+2017-12-31,Army,AB3A Remanufacture,2010,PdE,Boeing,Longbow LLC,Aircraft,2016,Lockheed-Sikorsky,sub-Lockheed,10468.7,639,16.383,12606.7,639,19.729,8856.9,634,13.97,10976,634,17.312
+2017-12-31,Army,AB3B New Build,2010,PdE,Boeing,Longbow LLC,Aircraft,2016,Lockheed-Sikorsky,sub-Lockheed,2134.6,56,38.118,1704,61,27.934,2134.6,56,38.118,1704,61,27.934
+2017-12-31,Army,AMF JTRS,2008,DE,Lockheed Martin,,"Electronics, Comms, and Sensors",0,,,7141.3,25124,0.284,2921.4,14400,0.203,5459.7,24920,0.219,1421.7,14180,0.1
+2017-12-31,Army,AMPV,2015,DE,BAE Systems,,Land Vehicles,0,,,10724.8,2936,3.653,10914.2,2936,3.717,9736.6,2897,3.361,9841.4,2897,3.397
+2017-12-31,Army,CH-47F,2005,PdE,Boeing,,Aircraft,0,,,10614.8,512,20.732,12846.3,538,23.878,10435.1,510,20.461,12663,536,23.625
+2017-12-31,Army,CH-47F Block II,2017,DE,Boeing,,Aircraft,0,,,16219.8,542,29.926,16224.4,542,29.934,15208.8,539,28.217,15208.4,539,28.216
+2017-12-31,Army,CIRCM,2015,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,2537.1,1124,2.257,2538.6,1124,2.259,1782.5,1076,1.657,1781.1,1076,1.655
+2017-12-31,Army,GMLRS/GMLRS AW,2003,PdE,Lockheed Martin,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,4578.4,43795,0.105,11588.1,96606,0.12,3966.7,43560,0.091,10446.3,96186,0.109
+2017-12-31,Army,IAMD,2009,DE,Northrop Grumman,,Air and Missile Defense,0,,,4806.8,296,16.239,6253.6,479,13.056,3316,285,11.635,3340.6,454,7.358
+2017-12-31,Army,JAGM,2015,DE,Lockheed Martin,Aerojet Rocketdyne,Ordnance and Missiles,0,,,5669.9,26437,0.214,5800.4,26437,0.219,4691.4,26319,0.178,4736.8,26319,0.18
+2017-12-31,Army,JLTV,2012,PdE,AM General,,Ordnance and Missiles,0,,,22780.2,54730,0.416,21718.4,58306,0.372,21782,54599,0.399,20613.5,58190,0.354
+2017-12-31,Army,M88A2 Hercules,1997,PdE,BAE Systems,,Land Vehicles,0,,,2359.1,938,2.515,2378.2,938,2.535,2298.7,933,2.464,2311.3,933,2.477
+2017-12-31,Army,MQ-1C UAS Gray Eagle,2010,PdE,General Atomics,,Aircraft,0,,,5252,31,169.419,5509.4,45,122.431,3364.7,29,116.024,3900.4,43,90.707
+2017-12-31,Army,PAC-3 MSE,2004,PdE,Lockheed Martin,Boeing,Air and Missile Defense,0,,,6220.9,1528,4.071,6805.1,1723,3.95,5760,1528,3.77,6031.9,1723,3.501
+2017-12-31,Army,PIM,2011,PdE,BAE Systems,,"Electronics, Comms, and Sensors",0,,,6641,582,11.411,6852.8,576,11.897,5640.1,580,9.724,5782.4,574,10.074
+2017-12-31,Army,UH-60M Black Hawk,2005,PdE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,16801.7,1235,13.605,21943.3,1370,16.017,16084.2,1227,13.109,21046.9,1362,15.453
+2017-12-31,Army,WIN-T Inc 2,2010,PdE,General Dynamics,,"Electronics, Comms, and Sensors",0,,,3617.2,1893,1.911,4166.5,1623,2.567,3384.5,1837,1.842,3890.9,1567,2.483
+2017-12-31,Navy ,Advanced Arresting Gear,2016,DE,General Atomics,,Other Products,0,,,1994.1,3,664.7,2207,3,735.661,778.7,3,259.567,784.8,3,257.193
+2017-12-31,Navy,ACV 1.1,2014,DE,BAE Systems,,Land Vehicles,0,,,1826.9,240,7.612,1716.4,240,7.152,1015.5,204,4.978,1026.9,204,5.034
+2017-12-31,Navy,AGM-88E AARGM,2003,PdE,Alliant TechSystems (ATK),,Ordnance and Missiles,2019,Northrop-Orbital ATK,prime-ATK,1339.8,1790,0.748,2105.2,2475,0.851,806.5,1750,0.461,1431.9,2435,0.588
+2017-12-31,Navy ,AIM-9X Block II,2011,DE,Raytheon,Alliant TechSystems (ATK),Ordnance and Missiles,2021,Northrop-Orbital ATK,sub-ATK,3967.3,6000,0.661,3194.2,6000,0.532,3798.5,6000,0.633,2617.3,6000,0.436
+2017-12-31,Navy,AMDR,2013,DE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,5735.7,22,260.714,5088.7,22,231.305,3846.9,22,174.859,3308.8,22,150.4
+2017-12-31,Navy,CEC,2002,PdE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,2443.4,183,13.352,5029.1,300,16.764,1262.8,174,7.257,1783.1,270,6.604
+2017-12-31,Navy,CH-53K,2006,PdE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,14980.9,156,96.031,23308,200,116.54,11018.9,152,72.493,17264.35,194,88.991
+2017-12-31,Navy,CVN 78 - CVN 78,2000,DE,Newport News,,Ships and Submarines,0,,,28701.2,3,9567.067,33064.2,4,8266.05,24825.9,3,8275.3,29404.4,4,7351.1
+2017-12-31,Navy,CVN 78 - EMALS,2000,DE,General Atomics,,Ships and Submarines,0,,,2263.4,3,754.467,2317.4,4,579.35,1593.4,3,531.133,1449.2,4,362.3
+2017-12-31,Navy,DDG 1000,2005,DE,General Dynamics,Raytheon,Ships and Submarines,2021,Raytheon-UTC,sub-Raytheon,19189.3,3,6396.433,19920.8,3,6640.267,10195.3,3,3398.433,10611.8,3,3537.267
+2017-12-31,Navy,DDG 51,1987,PdE,General Dynamics,Northrop Grumman,Ships and Submarines,0,,,16723.8,23,727.122,72802.8,95,766.345,15745.3,23,684.578,69222.8,95,728.661
+2017-12-31,Navy,E-2D AHE,2009,PdE,Northrop Grumman,,Aircraft,0,,,17468.6,75,232.915,19253.9,75,256.719,13281.9,70,189.741,13028.7,70,186.124
+2017-12-31,Navy,EA-18G,2004,PdE,Boeing,General Electric,Aircraft,0,,,7662.6,90,85.14,12974.2,160,81.089,6030.5,90,67.006,10767,160,67.294
+2017-12-31,Navy,G/ATOR,2012,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,2987.3,57,52.409,2808.2,45,62.404,2103.1,57,36.896,1753.3,45,38.962
+2017-12-31,Navy,H-1 Upgrades (4BW/4BN),2008,PdE,Bell Helicopters,,Aircraft,0,,,7852.2,284,27.649,11505,346,33.251,6352.9,280,22.689,9784.9,342,28.611
+2017-12-31,Navy,IDECM - Blocks 2/3,2008,PdE,ITT Electronic Systems,BAE Systems,"Electronics, Comms, and Sensors",0,,,1410.9,12809,0.11,1068.2,3930,0.272,956,12809,0.075,611.8,3930,0.156
+2017-12-31,Navy,IDECM - Block 4,2008,DE,Harris Corporation,BAE Systems,"Electronics, Comms, and Sensors",2020,L3-Harris,prime-Harris,660.7,160,4.129,1082.1,324,3.34,451.2,160,2.82,728.1,324,2.247
+2017-12-31,Navy,IRST,2008,PdE,Boeing,Lockheed Martin,"Electronics, Comms, and Sensors",0,,,1914.6,179,10.696,1907.6,179,10.657,1150.6,170,6.768,1153.7,170,6.786
+2017-12-31,Navy,JPALS,2008,DE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,963.2,37,26.032,1629.8,33,49.388,202.9,25,8.116,352.8,23,15.339
+2017-12-31,Navy,KC-130J,2010,PdE,Lockheed Martin,Rolls Royce,Aircraft,0,,,9233.9,104,88.788,8798.3,104,84.599,9198.3,104,88.445,8760.2,104,84.233
+2017-12-31,Navy,LCS,2010,DE,General Dynamics,Lockheed Martin,Ships and Submarines,0,,,32008.2,55,581.967,18504.2,32,578.256,28369.2,53,535.268,15222.2,30,507.407
+2017-12-31,Navy,LCS Mission Modules,2010,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,6379.5,64,99.68,5580.6,48,116.262,4116.7,59,69.775,3259,43,75.791
+2017-12-31,Navy,LHA 6,2006,DE,Huntington Ingalls,,Ships and Submarines,0,,,2877.4,1,2877.4,8625.9,3,2875.3,2677.5,1,2677.5,8199.6,3,2733.2
+2017-12-31,Navy,LPD 17,1996,DE,Huntington Ingalls,,Ships and Submarines,0,,,12955.2,12,1079.6,16328.8,13,1256.062,12842.4,12,1070.2,16212.7,13,1247.131
+2017-12-31,Navy,MQ-4C UAS BAMS,2008,PdE,Northrop Grumman,,Aircraft,0,,,12224.5,70,174.636,113449.7,70,192.139,8871.2,65,136.48,8344,65,128.369
+2017-12-31,Navy,MQ-8 Fire Scout,2017,PdE,Northrop Grumman,,Aircraft,0,,,2949.1,60,49.152,3003.9,63,47.681,1533.6,51,30.071,1581.9,54,29.294
+2017-12-31,Navy,MUOS,2004,PdE,Lockheed Martin,,"Electronics, Comms, and Sensors",0,,,5738,6,956.333,5394,5,1078.8,2591,4,647.75,1695.2,3,565.067
+2017-12-31,Navy ,NGJ Mid-Band,2016,DE,Raytheon,Boeing,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,7463.7,135,55.287,7739.6,135,57.33,4002.6,131,30.554,3865,128,30.195
+2017-12-31,Navy,NMT,2002,PdE,Raytheon,,"Electronics, Comms, and Sensors",0,,,1923.4,333,5.776,1845.3,267,6.911,1345.6,305,4.412,1094.6,239,4.58
+2017-12-31,Navy,OASuW Inc 1 LRASM,2014,DE,Lockheed Martin,,Ordnance and Missiles,0,,,1467.3,124,11.833,1753.4,174,10.077,292.3,110,2.657,468.6,161,2.911
+2017-12-31,Navy,P-8A,2010,PdE,Boeing,CFM International,Aircraft,0,,,30271.9,115,263.234,31815,122,260.779,22791.2,108,211.03,22202.9,117,189.768
+2017-12-31,Navy,SSC,2011,DE,Textron Systems,L-3 Communications,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,4214.7,73,57.736,3354.4,71,47.245,3688.5,72,51.229
+2017-12-31,Navy,SM-6,2004,PdE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,4866.3,1200,4.055,6564.3,1800,3.647,3949.6,1200,3.291,5729.6,1800,3.183
+2017-12-31,Navy,SSBN 826,2017,DE,General Dynamics,Newport News,Ships and Submarines,0,,,100221.9,12,8351.825,99842.2,12,8320.183,87426.5,12,7285.542,87018.7,12,7251.558
+2017-12-31,Navy,SSN 774,1995,PdE,General Dynamics,,Ships and Submarines,0,,,45633.1,30,1521.103,94258.3,48,1963.715,42228.1,30,1407.603,87301.3,48,1818.777
+2017-12-31,Navy,Tactical Tomahawk,1999,PdE,Raytheon,,Ordnance and Missiles,0,,,1683.7,1365,1.233,5470.2,4439,1.232,1158.4,1353,0.856,4841,4429,1.093
+2017-12-31,Navy,T-AO 205 Class,2016,DE,General Dynamics,,Ships and Submarines,0,,,8543.5,17,502.559,8587.3,17,505.135,8475.9,17,498.582,8519.6,17,501.153
+2017-12-31,Navy,Trident II Missile,1983,PdE,Lockheed Martin,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,25943.7,568,45.676,27839.9,561,49.625,17155.2,540,31.769,18393.4,533,34.509
+2017-12-31,Navy,V-22,2005,PdE,Boeing,Bell Helicopters,Aircraft,0,,,50250.4,458,109.717,51775.9,462,112.069,38562.8,456,84.568,38714.1,460,84.161
+2017-12-31,Navy ,VH-92A,2014,DE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,4649.7,23,202.161,4503.7,23,195.813,2043.6,17,120.212,1990.4,17,117.082
+2017-12-31,Air Force,AEHF SV 5-6,2002,PdE,Lockheed Martin,,Space Systems,0,,,2715.1,2,1357.55,2080,2,1040,2656,2,1328,2029.7,2,1014.85
+2017-12-31,Air Force,AMRAAM,1992,PdE,Raytheon,Alliant TechSystems (ATK),Ordnance and Missiles,0,,,12302.9,13038,0.944,16328.4,17312,0.943,10205.7,13038,0.783,13914.7,17312,0.804
+2017-12-31,Air Force,AWACS Block 40/45 Upgrade,2012,PdE,Boeing,,Aircraft,0,,,2822.4,31,91.045,2778.6,31,89.632,1503.4,31,48.497,1505.9,31,48.577
+2017-12-31,Air Force,B-2 DMS-M,2016,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,2556.2,20,127.81,2624,20,131.2,734.3,16,45.894,774.6,16,48.412
+2017-12-31,Air Force,B61 Mod 12 LEP TKA,2012,DE,Boeing,,Ordnance and Missiles,0,,,1321.6,890,1.485,1125.1,890,1.264,314,813,0.386,340.4,813,0.419
+2017-12-31,Air Force,C-130J,1996,PdE,Lockheed Martin,Rolls Royce,Aircraft,0,,,730.7,11,66.427,11246.3,170,66.155,721.8,11,65.618,10797,170,63.512
+2017-12-31,Air Force,CRH,2014,DE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,8090.9,112,72.24,7781,112,69.473,6108.4,103,59.305,5852.5,103,56.82
+2017-12-31,Air Force,EELV,2012,PdE,Boeing,Lockheed Martin,Space Systems,0,,,61443.4,152,404.233,51492.7,161,319.83,59078.3,151,391.247,47195.1,160,294.969
+2017-12-31,Air Force,F-15 EPAWSS,2016,DE,Boeing,BAE Systems,"Electronics, Comms, and Sensors",0,,,4251.5,413,10.294,2596.3,221,11.748,3375,413,8.172,1746.1,217,8.047
+2017-12-31,Air Force,F-22 Inc 3.2B Mod,2013,PdE,Lockheed Martin,,Aircraft,0,,,1537.6,152,10.116,1426.6,152,9.385,338.2,143,2.365,296.5,143,2.074
+2017-12-31,Air Force,FAB-T - CPT,2015,PdE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,1639.1,95,17.254,1789.3,109,16.416,939.8,84,11.188,630.7,84,7.508
+2017-12-31,Air Force,FAB-T - FET,2015,PdE,Raytheon,,"Electronics, Comms, and Sensors",0,,,2144.8,127,16.888,2635.4,137,19.236,1204,113,10.655,789.4,109,7.242
+2017-12-31,Air Force,GPS IIIA,2010,PdE,Lockheed Martin,,Space Systems,0,,,3840.8,8,480.1,5079.5,10,507.95,1381,6,230.167,2095.2,8,261.9
+2017-12-31,Air Force,GPS OCX,2012,DE,Raytheon,,Space Systems,2021,Raytheon-UTC,prime-Raytheon,3347.2,1,3347.2,5667.4,1,5667.4,0,0,,0,0,
+2017-12-31,Air Force,HC/MC-130 Recapitalization,2009,PdE,Lockheed Martin,,Aircraft,0,,,8078.1,74,109.164,12646.1,133,95.083,7436,74,100.486,12256.6,133,92.155
+2017-12-31,Air Force,ICBM Fuze Mod,2014,DE,Lockheed Martin,,Ordnance and Missiles,0,,,1814.8,781,2.324,1856,781,2.376,663.5,693,0.957,673,693,0.971
+2017-12-31,Air Force,JASSM - ER,2010,PdE,Lockheed Martin,,Ordnance and Missiles,0,,,3631.6,2531,1.435,3926.4,2897,1.355,3366.1,2500,1.346,3459.3,2866,1.207
+2017-12-31,Air Force,JDAM,1995,PdE,Boeing,,Ordnance and Missiles,0,,,2720.4,88126,0.031,8513.7,431026,0.02,2090.6,87496,0.024,7918.6,430222,0.018
+2017-12-31,Air Force,KC-46A,2011,PdE,Boeing,Pratt & Whitney,Aircraft,2013,UTC-Goodrich,sub-UTC,43518.2,179,243.118,36557.8,179,204.234,33040.3,175,188.802,28485.8,175,162.776
+2017-12-31,Air Force,MGUE Inc 1,2017,DE,L-3 Communications,,"Electronics, Comms, and Sensors",2020,L3-Harris,prime-L3,1505.7,0,,1413.6,0,,0,0,,0,0,
+2017-12-31,Air Force,MQ-9 UAS Reaper,2008,PdE,General Atomics,,Aircraft,0,,,11541.3,404,28.568,11506.3,436,26.391,10402.1,401,25.94,10045,433,23.199
+2017-12-31,Air Force,SBIRS HIGH - Block Buy,1995,PdE,Lockheed Martin,,Space Systems,0,,,2681.6,2,1340.8,2364.5,2,1182.25,2681.6,2,1340.8,2364.5,2,1182.25
+2017-12-31,Air Force,SDB II,2010,PdE,Raytheon,,Ordnance and Missiles,2021,Raytheon-UTC,prime-Raytheon,4577.5,17163,0.267,3928.7,17163,0.229,2976.3,17000,0.175,2247,17000,0.132
+2017-12-31,Air Force,Space Fence Inc 1,2014,DE,Lockheed Martin,,Space Systems,0,,,1567.7,1,1567.7,1477.6,1,1477.6,0,0,,0,0,
+2017-12-31,DoD,CHEM DEMIL - ACWA,1994,PdE,Bechtel,,Other Services,0,,,5413,3136,1.726,9092.5,3136,2.899,0,0,,0,0,
+2017-12-31,DoD,F-35 - Aircraft,2012,DE,Lockheed Martin,Northrop Grumman,Aircraft,0,,,276482.2,2458,112.483,271715.6,2470,110.006,224333.7,2443,91.827,220601.2,2456,89.821
+2017-12-31,DoD,F-35 - Engine,2012,DE,Pratt & Whitney,Hamilton Sundstrand,Aircraft,2013,UTC-Goodrich,prime-UTC,53916.4,2458,21.935,53380.2,2470,21.611,42332.9,2443,17.328,40263.3,2456,16.394
+2017-12-31,DoD,JTRS HMS,2004,PdE,Harris Corporation,Rockwell Collins,"Electronics, Comms, and Sensors",2019,UTC-Rockwell Collins,sub-Rockwell,8569,329574,0.026,7251.6,271202,0.027,8104,328514,0.025,6082.7,270369,0.022
+2017-12-31,DoD,MIDS,2003,PdE,BAE Systems,Rockwell Collins,"Electronics, Comms, and Sensors",2019,UTC-Rockwell Collins,sub-Rockwell,1091.4,672,1.624,4232,9646,0.439,523.7,630,0.831,2354.5,8939,0.263
+2018-12-31,Army,AB3A Remanufacture,2010,PdE,Boeing,Longbow LLC,Aircraft,2016,Lockheed-Sikorsky,sub-Lockheed,10468.7,639,16.383,12584.4,639,19.694,8856.9,634,13.97,10974.8,634,17.31
+2018-12-31,Army,AB3B New Build,2010,PdE,Boeing,Longbow LLC,Aircraft,2016,Lockheed-Sikorsky,sub-Lockheed,2134.6,56,38.118,2076.4,74,28.059,2134.6,56,38.118,2076.4,74,28.059
+2018-12-31,Army,AMF JTRS,2008,DE,Lockheed Martin,,"Electronics, Comms, and Sensors",0,,,7141.3,25124,0.284,1423.2,0,,5459.7,24920,0.219,0,0,
+2018-12-31,Army,AMPV,2015,DE,BAE Systems,,Land Vehicles,0,,,10724.8,2936,3.653,10812.6,2936,3.683,9736.6,2897,3.361,9763,2897,3.37
+2018-12-31,Army,CH-47F Block II,2017,DE,Boeing,,Aircraft,0,,,16219.8,542,29.926,17439.3,542,32.176,15208.8,539,28.217,16281.3,539,30.206
+2018-12-31,Army,CIRCM,2018,PdE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,2537.1,1124,2.257,3737.2,1829,2.043,1782.5,1076,1.657,2906.4,1781,1.632
+2018-12-31,Army,GMLRS/GMLRS AW,2003,PdE,Lockheed Martin,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,4578.4,43795,0.105,11153.6,97471,0.114,3966.7,43560,0.091,10052.6,97051,0.104
+2018-12-31,Army,IAMD,2009,DE,Northrop Grumman,,Air and Missile Defense,0,,,4806.8,296,16.239,6132.8,479,12.803,3316,285,11.635,3125.8,454,6.885
+2018-12-31,Army,JAGM,2015,PdE,Lockheed Martin,Aerojet Rocketdyne,Ordnance and Missiles,0,,,5669.9,26437,0.214,6651.1,26437,0.252,4691.4,26319,0.178,5568.784,26319,0.212
+2018-12-31,Army,JLTV,2012,PdE,AM General,,Land Vehicles,0,,,22780.2,54730,0.416,19960.8,58322,0.342,21782,54599,0.399,18950.8,58190,0.326
+2018-12-31,Army,M88A2 Hercules,1997,PdE,BAE Systems,,Land Vehicles,0,,,2359.1,938,2.515,2394.4,938,2.553,2298.7,933,2.464,2327.5,933,2.495
+2018-12-31,Army,MQ-1C UAS Gray Eagle,2010,PdE,General Atomics,,Aircraft,0,,,5252,31,169.419,5696,45,126.578,3364.7,29,116.024,4087.7,43,95.063
+2018-12-31,Army,PAC-3 MSE,2004,PdE,Lockheed Martin,Boeing,Air and Missile Defense,0,,,6220.9,1528,4.071,10778.6,3100,3.477,5760,1528,3.77,9964.2,3100,3.214
+2018-12-31,Army,PIM,2011,PdE,BAE Systems,,"Electronics, Comms, and Sensors",0,,,6641,582,11.411,8136.2,691,11.775,5640.1,580,9.724,7077.5,689,10.272
+2018-12-31,Army,UH-60M Black Hawk,2005,PdE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,16801.7,1235,13.605,22154,1370,16.171,16084.2,1227,13.109,21267.8,1362,15.615
+2018-12-31,Army,WIN-T Inc 2,2010,PdE,General Dynamics,,"Electronics, Comms, and Sensors",0,,,3617.2,1893,1.911,3860.1,1621,2.381,3384.5,1837,1.842,3588.6,1565,2.293
+2018-12-31,Navy,AARGM-ER,2019,DE,Alliant TechSystems (ATK),,Ordnance and Missiles,2019,Northrop-Orbital ATK,prime-ATK,3442.1,2097,1.641,3420.4,2097,1.631,2693.5,2080,1.295,2690.8,2080,1.294
+2018-12-31,Navy ,Advanced Arresting Gear,2016,DE,General Atomics,,Other Products,0,,,1994.1,3,664.7,2321.5,4,580.381,778.7,3,259.567,952.2,4,238.046
+2018-12-31,Navy,ACV 1.1,2014,DE,BAE Systems,,Land Vehicles,0,,,1826.9,240,7.612,1815.6,240,7.565,1015.5,204,4.978,1028.4,204,5.041
+2018-12-31,Navy,AGM-88E AARGM,2003,PdE,Alliant TechSystems (ATK),,Ordnance and Missiles,2019,Northrop-Orbital ATK,prime-ATK,1339.8,1790,0.748,2102.8,2475,0.85,806.5,1750,0.461,1429.5,2435,0.587
+2018-12-31,Navy ,AIM-9X Block II,2011,DE,Raytheon,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,3967.3,6000,0.661,5544.7,11635,0.477,3798.5,6000,0.633,4700.3,11635,0.41
+2018-12-31,Navy,AMDR,2013,DE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,5735.7,22,260.714,5219.3,22,237.241,3846.9,22,174.859,3270,22,148.636
+2018-12-31,Navy,CEC,2002,PdE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,2443.4,183,13.352,5394.1,361,14.942,1262.8,174,7.257,2014.6,331,6.358
+2018-12-31,Navy,CH-53K,2006,PdE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,14980.9,156,96.031,23332.4,200,116.662,11018.9,152,72.493,17069.5,194,87.987
+2018-12-31,Navy,CVN 78 - CVN 78,2000,DE,Newport News,,Ships and Submarines,0,,,28701.2,3,9567.067,31759.7,4,7939.925,24825.9,3,8275.3,27865.9,4,6966.475
+2018-12-31,Navy,CVN 78 - EMALS,2000,DE,General Atomics,,Ships and Submarines,0,,,2263.4,3,754.467,2259,4,564.75,1593.4,3,531.133,1403.8,4,350.95
+2018-12-31,Navy,DDG 1000,2005,DE,General Dynamics,Raytheon,Ships and Submarines,2021,Raytheon-UTC,sub-Raytheon,19189.3,3,6396.433,19912.1,3,6637.367,10195.3,3,3398.433,10668.2,3,3556.067
+2018-12-31,Navy,DDG 51,1987,PdE,General Dynamics,Northrop Grumman,Ships and Submarines,0,,,16723.8,23,727.122,74288.5,97,765.861,15745.3,23,684.578,70652.3,97,728.374
+2018-12-31,Navy,E-2D AHE,2009,PdE,Northrop Grumman,,Aircraft,0,,,17468.6,75,232.915,19748.3,75,263.311,13281.9,70,189.741,12970.4,70,185.291
+2018-12-31,Navy,ESB,2011,PdE,General Dynamics,,Ships and Submarines,0,,,4528.9,8,566.112,4480.5,8,560.062,4416.9,8,552.112,4368.6,8,546.075
+2018-12-31,Navy,G/ATOR,2012,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,2987.3,57,52.409,2788.4,45,61.964,2103.1,57,36.896,1725.6,45,38.347
+2018-12-31,Navy,H-1 Upgrades (4BW/4BN),2008,PdE,Bell Helicopters,,Aircraft,0,,,7852.2,284,27.649,11642.2,353,32.981,6352.9,280,22.689,9922.2,349,28.43
+2018-12-31,Navy,IDECM - Block 4,2008,PdE,Harris Corporation,BAE Systems,"Electronics, Comms, and Sensors",2020,L3-Harris,prime-Harris,660.7,160,4.129,1080.1,324,3.333,451.2,160,2.82,726.7,324,2.243
+2018-12-31,Navy,IRST,2008,PdE,Boeing,Lockheed Martin,"Electronics, Comms, and Sensors",0,,,1914.6,179,10.696,1978.8,173,11.438,1150.6,170,6.768,1182.1,170,6.954
+2018-12-31,Navy,JPALS,2008,DE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,963.2,37,26.032,1541.6,33,46.716,202.9,25,8.116,295.7,23,12.857
+2018-12-31,Navy,KC-130J,2010,PdE,Lockheed Martin,Rolls Royce,Aircraft,0,,,9233.9,104,88.788,9639.1,111,86.839,9198.3,104,88.445,9601,111,86.495
+2018-12-31,Navy,LCS,2010,DE,General Dynamics,Lockheed Martin,Ships and Submarines,0,,,32008.2,55,581.967,19520.5,35,557.729,28369.2,53,535.268,16224.7,33,491.658
+2018-12-31,Navy,LCS Mission Modules,2010,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,6379.5,64,99.68,5625.9,49,114.814,4116.7,59,69.775,3221.5,44,73.216
+2018-12-31,Navy,LHA 6,2006,DE,Huntington Ingalls,,Ships and Submarines,0,,,2877.4,1,2877.4,10892.3,4,2723.075,2677.5,1,2677.5,10462.4,4,2615.6
+2018-12-31,Navy,LPD 17,1996,DE,Huntington Ingalls,,Ships and Submarines,0,,,12955.2,12,1079.6,29086.4,26,1118.708,12842.4,12,1070.2,28816.8,26,1108.338
+2018-12-31,Navy,MQ-25,2018,DE,Boeing,,Aircraft,0,,,12618.3,76,166.03,10701.7,76,140.812,8766.1,72,121.751,8190.4,69,118.701
+2018-12-31,Navy,MQ-4C UAS BAMS,2008,PdE,Northrop Grumman,,Aircraft,0,,,12224.5,70,174.636,113749.7,70,196.424,8871.2,65,136.48,8483.3,65,130.513
+2018-12-31,Navy,MQ-8 Fire Scout,2017,PdE,Northrop Grumman,,Aircraft,0,,,2949.1,60,49.152,3166.5,68,46.566,1533.6,51,30.071,1698.4,59,28.786
+2018-12-31,Navy ,NGJ Mid-Band,2016,DE,Raytheon,Boeing,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,7463.7,135,55.287,7725.9,135,57.229,4002.6,131,30.554,3925.6,128,30.669
+2018-12-31,Navy,OASuW Inc 1 LRASM,2014,DE,Lockheed Martin,,Ordnance and Missiles,0,,,1467.3,124,11.833,2371.4,390,6.081,292.3,110,2.657,1022,374,2.733
+2018-12-31,Navy,P-8A,2010,PdE,Boeing,CFM International,Aircraft,0,,,30271.9,115,263.234,313804.9,122,260.696,22791.2,108,211.03,22136,117,189.197
+2018-12-31,Navy,SSC,2011,DE,Textron Systems,L-3 Communications,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,4165.3,73,57.059,3354.4,71,47.245,3625.5,72,50.354
+2018-12-31,Navy,SM-6,2004,PdE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,4866.3,1200,4.055,8259.4,2331,3.543,3949.6,1200,3.291,7424.7,2331,3.185
+2018-12-31,Navy,SSBN 826,2017,DE,General Dynamics,Newport News,Ships and Submarines,0,,,100221.9,12,8351.825,98919.7,12,8243.308,87426.5,12,7285.542,86117,12,7176.417
+2018-12-31,Navy,SSN 774,1995,PdE,General Dynamics,,Ships and Submarines,0,,,45633.1,30,1521.103,92877.7,48,1934.952,42228.1,30,1407.603,86163.5,48,1795.073
+2018-12-31,Navy,T-AO 205 Class,2016,DE,General Dynamics,,Ships and Submarines,0,,,8543.5,17,502.559,10283.7,20,514.185,8475.9,17,498.582,10216.3,20,510.815
+2018-12-31,Navy,Trident II Missile,1983,PdE,Lockheed Martin,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,25943.7,568,45.676,27932.6,561,49.791,17155.2,540,31.769,18482.6,533,34.677
+2018-12-31,Navy,V-22,2005,PdE,Boeing,Bell Helicopters,Aircraft,0,,,50250.4,458,109.717,51372.4,464,110.716,38562.8,456,84.568,38226.8,462,82.742
+2018-12-31,Navy ,VH-92A,2014,DE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,4649.7,23,202.161,4453.1,23,193.613,2043.6,17,120.212,1970.7,17,115.924
+2018-12-31,Air Force,AEHF SV 5-6,2002,PdE,Lockheed Martin,,Space Systems,0,,,2715.1,2,1357.55,2056.4,2,1028.2,2656,2,1328,2006.1,2,1003.05
+2018-12-31,Air Force,AMRAAM,1992,PdE,Raytheon,Alliant TechSystems (ATK),Ordnance and Missiles,0,,,12302.9,13038,0.944,16284.1,17312,0.941,10205.7,13038,0.783,13870.4,17312,0.801
+2018-12-31,Air Force,AWACS Block 40/45 Upgrade,2012,PdE,Boeing,,Aircraft,0,,,2822.4,31,91.045,2753.1,31,88.81,1503.4,31,48.497,1480.4,31,47.755
+2018-12-31,Air Force,B-2 DMS-M,2016,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,2556.2,20,127.81,2851.5,20,142.575,734.3,16,45.894,731.7,16,45.731
+2018-12-31,Air Force,B61 Mod 12 LEP TKA,2012,PdE,Boeing,,Ordnance and Missiles,0,,,1321.6,890,1.485,1031.5,890,1.159,314,813,0.386,306.3,813,0.377
+2018-12-31,Air Force,C-130J,1996,PdE,Lockheed Martin,Rolls Royce,Aircraft,0,,,730.7,11,66.427,11275.3,170,66.325,721.8,11,65.618,10806.7,170,63.569
+2018-12-31,Air Force,CRH,2014,DE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,8090.9,112,72.24,7741.9,113,68.512,6108.4,103,59.305,5804.6,103,56.355
+2018-12-31,Air Force,EELV,2012,PdE,Boeing,Lockheed Martin,Space Systems,0,,,61443.4,152,404.233,54414.3,180,302.302,59078.3,151,391.247,49209.1,179,274.911
+2018-12-31,Air Force,F-15 EPAWSS,2016,DE,Boeing,BAE Systems,"Electronics, Comms, and Sensors",0,,,4521.5,413,10.294,2828.8,2212,12.8,3375,413,8.172,1890.3,221,8.553
+2018-12-31,Air Force,F-22 Inc 3.2B Mod,2013,PdE,Lockheed Martin,,Aircraft,0,,,1537.6,152,10.116,1381.1,152,9.086,338.2,143,2.365,252.5,143,1.766
+2018-12-31,Air Force,FAB-T - CPT,2015,PdE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,1639.1,95,17.254,1771.1,109,16.249,939.8,84,11.188,559.8,84,6.664
+2018-12-31,Air Force,FAB-T - FET,2015,PdE,Raytheon,,"Electronics, Comms, and Sensors",0,,,2144.8,127,16.888,2632.2,144,18.279,1204,113,10.655,781.8,109,7.172
+2018-12-31,Air Force,GPS IIIA,2010,PdE,Lockheed Martin,,Space Systems,0,,,3840.8,8,480.1,4919.5,10,491.95,1381,6,230.167,1940.3,8,242.538
+2018-12-31,Air Force,GPS IIIF,2018,DE,Lockheed Martin,,Space Systems,0,,,9273.8,22,421.536,9233.4,22,419.7,6113,20,305.65,6089,20,304.45
+2018-12-31,Air Force,GPS OCX,2012,DE,Raytheon,,Space Systems,2021,Raytheon-UTC,prime-Raytheon,3347.2,1,3347.2,5824.9,1,5824.9,0,0,,0,0,
+2018-12-31,Air Force,HC/MC-130 Recapitalization,2009,PdE,Lockheed Martin,,Aircraft,0,,,8078.1,74,109.164,12496.7,134,93.259,7436,74,100.486,12135.1,134,90.56
+2018-12-31,Air Force,ICBM Fuze Mod,2014,DE,Lockheed Martin,,Ordnance and Missiles,0,,,1814.8,781,2.324,1818.4,781,2.328,663.5,693,0.957,657.9,693,0.949
+2018-12-31,Air Force,JASSM - ER,2010,PdE,Lockheed Martin,,Ordnance and Missiles,0,,,3631.6,2531,1.435,8304.8,7231,1.148,3366.1,2500,1.346,7761.5,7200,1.078
+2018-12-31,Air Force,JDAM,1995,PdE,Boeing,,Ordnance and Missiles,0,,,2720.4,88126,0.031,9211.5,470656,0.02,2090.6,87496,0.024,8625.8,469852,0.018
+2018-12-31,Air Force,KC-46A,2011,PdE,Boeing,Pratt & Whitney,Aircraft,2013,UTC-Goodrich,sub-UTC,43518.2,179,243.118,35909.3,179,200.61,33040.3,175,188.802,27892.3,175,159.384
+2018-12-31,Air Force,MGUE Inc 1,2017,DE,L-3 Communications,,"Electronics, Comms, and Sensors",2020,L3-Harris,prime-L3,1505.7,0,,1419.5,0,,0,0,,0,0,
+2018-12-31,Air Force,MQ-9 UAS Reaper,2008,PdE,General Atomics,,Aircraft,0,,,11541.3,404,28.568,11055.7,433,25.533,10402.1,401,25.94,9571.2,430,22.259
+2018-12-31,Air Force,SBIRS HIGH - Block Buy,1995,PdE,Lockheed Martin,,Space Systems,0,,,2681.6,2,1340.8,2263.5,2,1131.75,2681.6,2,1340.8,2263.5,2,1131.75
+2018-12-31,Air Force,SDB II,2010,PdE,Raytheon,,Ordnance and Missiles,2021,Raytheon-UTC,prime-Raytheon,4577.5,17163,0.267,3923.2,17163,0.229,2976.3,17000,0.175,2249.4,17000,0.132
+2018-12-31,Air Force,Space Fence Inc 1,2014,DE,Lockheed Martin,,Space Systems,0,,,1567.7,1,1567.7,1445.4,1,1445.4,0,0,,0,0,
+2018-12-31,Air Force,VC-25B,2018,PdE,Boeing,,Aircraft,0,,,5014,2,2507,4881.8,2,2440.9,51,0,,50.9,0,
+2018-12-31,Air Force,WGS,2010,PdE,Boeing,,Space Systems,0,,,3610.6,7,515.8,4177.8,9,464.2,3193.4,7,456.2,3733.5,9,414.833
+2018-12-31,DoD,CHEM DEMIL - ACWA,1994,PdE,Bechtel,,Other Services,0,,,5413,3136,1.726,9045.4,3136,2.884,0,0,,0,0,
+2018-12-31,DoD,F-35 - Aircraft,2012,DE,Lockheed Martin,Northrop Grumman,Aircraft,0,,,276482.2,2458,112.483,286438.5,2470,115.967,224333.7,2443,91.827,225144.5,2456,91.671
+2018-12-31,DoD,F-35 - Engine,2012,DE,Pratt & Whitney,Hamilton Sundstrand,Aircraft,2013,UTC-Goodrich,prime-UTC,53916.4,2458,21.935,54016.5,2470,21.869,42332.9,2443,17.328,40483.1,2456,16.483
+2018-12-31,DoD,JTRS HMS,2004,PdE,Harris Corporation,Rockwell Collins,"Electronics, Comms, and Sensors",2019,UTC-Rockwell Collins,sub-Rockwell,8569,329574,0.026,7336.1,271202,0.027,8104,328514,0.025,6190.1,270369,0.023
+2018-12-31,DoD,MIDS,2003,PdE,BAE Systems,Rockwell Collins,"Electronics, Comms, and Sensors",2019,UTC-Rockwell Collins,sub-Rockwell,1091.4,672,1.624,4355.6,9809,0.444,523.7,630,0.831,2430.9,9029,0.269
+2019-12-31,Army,AB3A Remanufacture,2010,PdE,Boeing,Longbow LLC,Aircraft,2016,Lockheed-Sikorsky,sub-Lockheed,10468.7,639,16.383,12476.9,631,19.773,8856.9,634,13.97,10880.1,626,17.38
+2019-12-31,Army,AB3B New Build,2010,PdE,Boeing,Longbow LLC,Aircraft,2016,Lockheed-Sikorsky,sub-Lockheed,2134.6,56,38.118,2132.5,79,26.994,2134.6,56,38.118,2132.5,79,26.994
+2019-12-31,Army,AMPV,2015,PdE,BAE Systems,,Land Vehicles,0,,,10724.8,2936,3.653,11695.3,2936,3.983,9736.6,2897,3.361,10619.1,2897,3.666
+2019-12-31,Army,AN/TPQ-53,2019,PdE,Lockheed Martin,,"Electronics, Comms, and Sensors",0,,,3658.3,193,18.955,3655.7,193,18.941,3299.2,189,17.456,3296.9,189,17.444
+2019-12-31,Army,CH-47F Block II,2017,DE,Boeing,,Aircraft,0,,,16219.8,542,29.926,16012,542,29.708,15208.8,539,28.217,15092.9,539,28.002
+2019-12-31,Army,CIRCM,2015,PdE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,2537.1,1124,2.257,3739.6,1829,2.045,1782.5,1076,1.657,2911.5,1781,1.634
+2019-12-31,Army,GMLRS/GMLRS AW,2003,PdE,Lockheed Martin,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,4578.4,43795,0.105,9334.9,79481,0.117,3966.7,43560,0.091,8204.6,79082,0.104
+2019-12-31,Army,IAMD,2009,DE,Northrop Grumman,,Air and Missile Defense,0,,,4806.8,296,16.239,6297.1,479,13.146,3316,285,11.635,3182.1,454,7.009
+2019-12-31,Army,ITEP,2019,DE,General Electric,,Aircraft,0,,,12088.4,6258,1.932,12089.1,6258,1.932,10030.5,6189,1.621,10032.3,6189,1.621
+2019-12-31,Army,JAGM,2015,PdE,Lockheed Martin,Aerojet Rocketdyne,Ordnance and Missiles,0,,,5669.9,26437,0.214,6425.2,26437,0.243,4691.4,26319,0.178,5337.5,26319,0.203
+2019-12-31,Army,JLTV,2012,PdE,AM General,,Land Vehicles,0,,,22780.2,54730,0.416,23642.2,64621,0.366,21782,54599,0.399,22583.1,64489,0.35
+2019-12-31,Army,M88A2 Hercules,1997,PdE,BAE Systems,,Land Vehicles,0,,,2359.1,938,2.515,2359.4,935,2.523,2298.7,933,2.464,2292.5,930,2.465
+2019-12-31,Army,MQ-1C UAS Gray Eagle,2010,PdE,General Atomics,,Aircraft,0,,,5252,31,169.419,5602.9,45,124.509,3364.7,29,116.024,3994.5,43,92.895
+2019-12-31,Army,PAC-3 MSE,2004,PdE,Lockheed Martin,Boeing,Air and Missile Defense,0,,,6220.9,1528,4.071,10648,3100,3.435,5760,1528,3.77,9833.5,3100,3.172
+2019-12-31,Army,PIM,2011,PdE,BAE Systems,,"Electronics, Comms, and Sensors",0,,,6641,582,11.411,8339.5,691,12.069,5640.1,580,9.724,7264.6,689,10.544
+2019-12-31,Army,UH-60M Black Hawk,2005,PdE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,16801.7,1235,13.605,22140.6,1370,16.161,16084.2,1227,13.109,21269.2,1362,15.616
+2019-12-31,Navy,AARGM-ER,2019,DE,Alliant TechSystems (ATK),,Ordnance and Missiles,2019,Northrop-Orbital ATK,prime-ATK,3442.1,2097,1.641,3420.4,2097,1.631,2693.5,2080,1.295,2690.8,2080,1.294
+2019-12-31,Navy ,Advanced Arresting Gear,2016,DE,General Atomics,,Other Products,0,,,1994.1,3,664.7,2362.3,4,590.581,778.7,3,259.567,995,4,248.738
+2019-12-31,Navy,ACV 1.1,2014,DE,BAE Systems,,Land Vehicles,0,,,1826.9,240,7.612,4256.1,682,6.241,1015.5,204,4.978,3152.1,636,4.956
+2019-12-31,Navy,AGM-88E AARGM,2003,PdE,Alliant TechSystems (ATK),,Ordnance and Missiles,2019,Northrop-Orbital ATK,prime-ATK,1339.8,1790,0.748,1795.3,1843,0.974,806.5,1750,0.461,1122.2,1803,0.622
+2019-12-31,Navy ,AIM-9X Block II,2011,DE,Raytheon,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,3967.3,6000,0.661,5353,11635,0.46,3798.5,6000,0.633,4739,11635,0.407
+2019-12-31,Navy,AMDR,2013,DE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,5735.7,22,260.714,5247.4,20,262.37,3846.9,22,174.859,3250.4,20,162.52
+2019-12-31,Navy,CEC,2002,PdE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,2443.4,183,13.352,5483.8,358,15.318,1262.8,174,7.257,2137.4,328,6.516
+2019-12-31,Navy,CH-53K,2006,PdE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,14980.9,156,96.031,24824.8,200,124.124,11018.9,152,72.493,17905.6,196,91.355
+2019-12-31,Navy,CVN 78 - CVN 78,2000,DE,Newport News,,Ships and Submarines,0,,,28701.2,3,9567.067,31954.3,4,7988.575,24825.9,3,8275.3,28087.4,4,7021.85
+2019-12-31,Navy,CVN 78 - EMALS,2000,DE,General Atomics,,Ships and Submarines,0,,,2263.4,3,754.467,2257,4,564.25,1593.4,3,531.133,1402.6,4,350.65
+2019-12-31,Navy,DDG 1000,2005,DE,General Dynamics,Raytheon,Ships and Submarines,2021,Raytheon-UTC,sub-Raytheon,19189.3,3,6396.433,20344,3,6781.333,10195.3,3,3398.433,11001.9,3,3667.3
+2019-12-31,Navy,DDG 51,1987,PdE,General Dynamics,Northrop Grumman,Ships and Submarines,0,,,16723.8,23,727.122,73394.4,95,772.573,15745.3,23,684.578,69514.9,95,731.736
+2019-12-31,Navy,E-2D AHE,2009,PdE,Northrop Grumman,,Aircraft,0,,,17468.6,75,232.915,21897.2,86,254.619,13281.9,70,189.741,14832.9,81,183.122
+2019-12-31,Navy,ESB,2011,PdE,General Dynamics,,Ships and Submarines,0,,,4528.9,8,566.112,3939.1,7,562.729,4416.9,8,552.112,3827.2,7,546.743
+2019-12-31,Navy,G/ATOR,2012,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,2987.3,57,52.409,2795,45,62.111,2103.1,57,36.896,1720.3,45,38.229
+2019-12-31,Navy,H-1 Upgrades (4BW/4BN),2008,PdE,Bell Helicopters,,Aircraft,0,,,7852.2,284,27.649,11482.3,353,32.528,6352.9,280,22.689,9762.3,349,27.972
+2019-12-31,Navy,IDECM - Block 4,2008,PdE,Harris Corporation,BAE Systems,"Electronics, Comms, and Sensors",2020,L3-Harris,prime-Harris,660.7,160,4.129,1094.5,324,3.378,451.2,160,2.82,727.1,324,2.244
+2019-12-31,Navy,IRST,2008,PdE,Boeing,Lockheed Martin,"Electronics, Comms, and Sensors",0,,,1914.6,179,10.696,1934.2,173,11.18,1150.6,170,6.768,1134,170,6.671
+2019-12-31,Navy,JPALS,2008,DE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,963.2,37,26.032,1538.2,33,46.611,202.9,25,8.116,297.2,23,12.923
+2019-12-31,Navy,KC-130J,2010,PdE,Lockheed Martin,Rolls Royce,Aircraft,0,,,9233.9,104,88.788,9613.3,111,86.606,9198.3,104,88.445,9575.2,111,86.263
+2019-12-31,Navy,LCS,2010,DE,General Dynamics,Lockheed Martin,Ships and Submarines,0,,,32008.2,55,581.967,19277.5,35,550.786,28369.2,53,535.268,15982.8,33,484.327
+2019-12-31,Navy,LCS Mission Modules,2010,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,6379.5,64,99.68,5685.3,49,116.027,4116.7,59,69.775,3265.8,44,74.223
+2019-12-31,Navy,LHA 6,2006,DE,Huntington Ingalls,,Ships and Submarines,0,,,2877.4,1,2877.4,10824.8,4,2706.2,2677.5,1,2677.5,10399.7,4,2599.925
+2019-12-31,Navy,LPD 17,1996,DE,Huntington Ingalls,,Ships and Submarines,0,,,12955.2,12,1079.6,28914.4,26,1112.092,12842.4,12,1070.2,28654,26,1102.077
+2019-12-31,Navy,MQ-25,2018,DE,Boeing,,Aircraft,0,,,12618.3,76,166.03,11169.2,76,146.963,8766.1,72,121.751,8350.7,69,121.025
+2019-12-31,Navy,MQ-4C UAS BAMS,2008,PdE,Northrop Grumman,,Aircraft,0,,,12224.5,70,174.636,14305.7,70,204.367,8871.2,65,136.48,8667.4,65,133.345
+2019-12-31,Navy,MQ-8 Fire Scout,2017,PdE,Northrop Grumman,,Aircraft,0,,,2949.1,60,49.152,3141.5,68,46.199,1533.6,51,30.071,1740.6,59,29.502
+2019-12-31,Navy ,NGJ Mid-Band,2016,DE,Raytheon,Boeing,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,7463.7,135,55.287,7579.3,135,56.143,4002.6,131,30.554,3839.4,128,29.995
+2019-12-31,Navy,OASuW Inc 1 LRASM,2014,DE,Lockheed Martin,,Ordnance and Missiles,0,,,1467.3,124,11.833,2869.7,504,5.694,292.3,110,2.657,1475,488,3.023
+2019-12-31,Navy,P-8A,2010,PdE,Boeing,CFM International,Aircraft,0,,,30271.9,115,263.234,32211.7,125,257.694,22791.2,108,211.03,22460.8,120,187.173
+2019-12-31,Navy,SSC,2011,DE,Textron Systems,L-3 Communications,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,4225.5,73,57.884,3354.4,71,47.245,3673.3,72,51.018
+2019-12-31,Navy,SM-6,2004,PdE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,4866.3,1200,4.055,8007.6,2311,3.465,3949.6,1200,3.291,7172.9,2311,3.104
+2019-12-31,Navy,SSBN 826,2017,DE,General Dynamics,Newport News,Ships and Submarines,0,,,100221.9,12,8351.825,99483.7,12,8920.308,87426.5,12,7285.542,86684,12,7223.667
+2019-12-31,Navy,SSN 774,1995,PdE,General Dynamics,,Ships and Submarines,0,,,45633.1,30,1521.103,94357.3,48,1965.777,42228.1,30,1407.603,87252.6,48,1817.762
+2019-12-31,Navy,T-AO 205 Class,2016,DE,General Dynamics,,Ships and Submarines,0,,,8543.5,17,502.559,10889.8,20,544.49,8475.9,17,498.582,10822.4,20,541.12
+2019-12-31,Navy,Trident II Missile,1983,PdE,Lockheed Martin,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,25943.7,568,45.676,27984.7,561,49.884,17155.2,540,31.769,18535.6,533,34.776
+2019-12-31,Navy,V-22,2005,PdE,Boeing,Bell Helicopters,Aircraft,0,,,50250.4,458,109.717,51361.6,464,110.693,38562.8,456,84.568,38105,462,82.478
+2019-12-31,Navy ,VH-92A,2014,DE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,4649.7,23,202.161,4427.7,23,192.509,2043.6,17,120.212,1946.7,17,114.512
+2019-12-31,Air Force,AEHF SV 5-6,2002,PdE,Lockheed Martin,,Space Systems,0,,,2715.1,2,1357.55,2040.1,2,1020.05,2656,2,1328,1989.8,2,994.9
+2019-12-31,Air Force,APT,2018,DE,Boeing,,Aircraft,0,,,8075.4,351,23.007,8145.1,351,23.205,6669,346,19.275,6736.7,346,19.47
+2019-12-31,Air Force,AWACS Block 40/45 Upgrade,2012,PdE,Boeing,,Aircraft,0,,,2822.4,31,91.045,2782.8,31,89.768,1503.4,31,48.497,1510.1,31,48.713
+2019-12-31,Air Force,B-2 DMS-M,2016,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,2556.2,20,127.81,2394.7,20,119.735,734.3,16,45.894,223.2,16,13.95
+2019-12-31,Air Force,B61 Mod 12 LEP TKA,2012,PdE,Boeing,,Ordnance and Missiles,0,,,1321.6,890,1.485,986.2,890,1.108,314,813,0.386,296.1,813,0.364
+2019-12-31,Air Force,C-130J,1996,PdE,Lockheed Martin,Rolls Royce,Aircraft,0,,,730.7,11,66.427,11708.2,178,65.776,721.8,11,65.618,11244,178,63.169
+2019-12-31,Air Force,CRH,2014,PdE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,8090.9,112,72.24,8534.6,113,75.527,6108.4,103,59.305,6553.5,103,63.626
+2019-12-31,Air Force,EELV,2012,PdE,Boeing,Lockheed Martin,Space Systems,0,,,61443.4,152,404.233,55615.7,192,289.665,59078.3,151,391.247,50380.4,191,263.772
+2019-12-31,Air Force,EPS,2014,DE,Northrop Grumman,,Space Systems,0,,,1389.1,2,694.55,2488.8,4,622.2,0,0,,0,0,
+2019-12-31,Air Force,F-15 EPAWSS,2016,DE,Boeing,BAE Systems,"Electronics, Comms, and Sensors",0,,,4251.5,413,10.294,4421.4,363,12.18,3375,413,8.172,3175.9,361,8.798
+2019-12-31,Air Force,F-22 Inc 3.2B Mod,2016,PdE,Lockheed Martin,,Aircraft,0,,,1537.6,152,10.116,1379.8,152,9.078,338.2,143,2.365,251.2,143,1.756
+2019-12-31,Air Force,FAB-T - CPT,2015,PdE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,,,,,,,,,,,,
+2019-12-31,Air Force,FAB-T - FET,2015,PdE,Raytheon,,"Electronics, Comms, and Sensors",0,,,,,,,,,,,,,,
+2019-12-31,Air Force,GPS IIIA,2010,PdE,Lockheed Martin,,Space Systems,0,,,3840.8,8,480.1,4915.7,10,491.57,1381,6,230.167,1936.5,8,242.062
+2019-12-31,Air Force,GPS IIIF,2018,DE,Lockheed Martin,,Space Systems,0,,,9273.8,22,421.536,9131.3,22,415.059,6113,20,305.65,6048.6,20,302.43
+2019-12-31,Air Force,GPS OCX,2012,DE,Raytheon,,Space Systems,2021,Raytheon-UTC,prime-Raytheon,3347.2,1,3347.2,5805,1,5805,0,0,,0,0,
+2019-12-31,Air Force,HC/MC-130 Recapitalization,2009,PdE,Lockheed Martin,,Aircraft,0,,,8078.1,74,109.164,12150.7,134,90.677,7436,74,100.486,11787.8,134,87.969
+2019-12-31,Air Force,ICBM Fuze Mod,2014,DE,Lockheed Martin,,Ordnance and Missiles,0,,,1814.8,781,2.324,1933.9,781,2.476,663.5,693,0.957,725.5,693,1.047
+2019-12-31,Air Force,JASSM - ER,2010,PdE,Lockheed Martin,,Ordnance and Missiles,0,,,3631.6,2531,1.435,8470.7,7231,1.171,3366.1,2500,1.346,7813.4,7200,1.085
+2019-12-31,Air Force,KC-46A,2011,PdE,Boeing,Pratt & Whitney,Aircraft,2013,UTC-Goodrich,sub-UTC,43518.2,179,243.118,36144.6,179,201.925,33040.3,175,188.802,27992.9,175,159.959
+2019-12-31,Air Force,MGUE Inc 1,2017,DE,L-3 Communications,,"Electronics, Comms, and Sensors",2020,L3-Harris,prime-L3,1505.7,0,,1376.5,0,,0,0,,0,0,
+2019-12-31,Air Force,MQ-9 UAS Reaper,2008,PdE,General Atomics,,Aircraft,0,,,11541.3,404,28.568,9982.7,414,24.113,10402.1,401,25.94,8530.3,411,20.755
+2019-12-31,Air Force,SBIRS HIGH - Block Buy,1995,PdE,Lockheed Martin,,Space Systems,0,,,2681.6,2,1340.8,2228.3,2,1114.15,2681.6,2,1340.8,2228.3,2,1114.15
+2019-12-31,Air Force,SDB II,2010,PdE,Raytheon,,Ordnance and Missiles,2021,Raytheon-UTC,prime-Raytheon,4577.5,17163,0.267,4635.4,17163,0.27,2976.3,17000,0.175,2804.6,17000,0.165
+2019-12-31,Air Force,Space Fence Inc 1,2014,DE,Lockheed Martin,,Space Systems,0,,,1567.7,1,1567.7,1437.6,1,1437.6,0,0,,0,0,
+2019-12-31,Air Force,VC-25B,2018,PdE,Boeing,,Aircraft,0,,,5014,2,2507,4911.2,2,2455.6,51,0,,20.5,0,
+2019-12-31,Air Force,WGS,2010,PdE,Boeing,,Space Systems,0,,,3610.6,7,515.8,4177.9,9,464.211,3193.4,7,456.2,3733.6,9,414.844
+2019-12-31,DoD,CHEM DEMIL - ACWA,1994,PdE,Bechtel,,Other Services,0,,,5413,3136,1.726,8887.7,3136,2.834,0,0,,0,0,
+2019-12-31,DoD,F-35 - Aircraft,2012,DE,Lockheed Martin,Northrop Grumman,Aircraft,0,,,276482.2,2458,112.483,266939.1,2470,108.073,224333.7,2443,91.827,204166,2456,83.109
+2019-12-31,DoD,F-35 - Engine,2012,DE,Pratt & Whitney,Hamilton Sundstrand,Aircraft,2013,UTC-Goodrich,prime-UTC,53916.4,2458,21.935,54510.2,2470,22.069,42332.9,2443,17.328,40905.3,2456,16.655
+2019-12-31,DoD,JTRS HMS,2004,PdE,Harris Corporation,Rockwell Collins,"Electronics, Comms, and Sensors",2019,UTC-Rockwell Collins,sub-Rockwell,8569,329574,0.026,7684.2,299972,0.026,8104,328514,0.025,6553.9,299139,0.022
+2019-12-31,DoD,MIDS,2003,PdE,BAE Systems,Rockwell Collins,"Electronics, Comms, and Sensors",2019,UTC-Rockwell Collins,sub-Rockwell,1091.4,672,1.624,4445.3,10936,0.406,523.7,630,0.831,2392.2,10086,0.237
+2020-12-31,Army,AB3A Remanufacture,2010,PdE,Boeing,Longbow LLC,Aircraft,2016,Lockheed-Sikorsky,sub-Lockheed,10468.7,639,16.383,,,,8856.9,634,13.97,,,
+2020-12-31,Army,AB3B New Build,2010,PdE,Boeing,Longbow LLC,Aircraft,2016,Lockheed-Sikorsky,sub-Lockheed,2134.6,56,38.118,,,,2134.6,56,38.118,,,
+2020-12-31,Army,AMPV,2015,PdE,BAE Systems,,Land Vehicles,0,,,10724.8,2936,3.653,,,,9736.6,2897,3.361,,,
+2020-12-31,Army,CH-47F Block II,2017,DE,Boeing,,Aircraft,0,,,16219.8,542,29.926,,,,15208.8,539,28.217,,,
+2020-12-31,Army,CIRCM,2015,PdE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,2537.1,1124,2.257,,,,1782.5,1076,1.657,,,
+2020-12-31,Army,GMLRS/GMLRS AW,2003,PdE,Lockheed Martin,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,4578.4,43795,0.105,,,,3966.7,43560,0.091,,,
+2020-12-31,Army,IAMD,2009,DE,Northrop Grumman,,Air and Missile Defense,0,,,4806.8,296,16.239,,,,3316,285,11.635,,,
+2020-12-31,Army,ITEP,2019,DE,General Electric,,Aircraft,0,,,12088.4,6258,1.932,,,,10030.5,6189,1.621,,,
+2020-12-31,Army,JAGM,2015,PdE,Lockheed Martin,Aerojet Rocketdyne,Ordnance and Missiles,0,,,5669.9,26437,0.214,,,,4691.4,26319,0.178,,,
+2020-12-31,Army,JLTV,2012,PdE,AM General,,Land Vehicles,0,,,22780.2,54730,0.416,,,,21782,54599,0.399,,,
+2020-12-31,Army,PAC-3 MSE,2004,PdE,Lockheed Martin,Boeing,Air and Missile Defense,0,,,6220.9,1528,4.071,,,,5760,1528,3.77,,,
+2020-12-31,Army,PIM,2011,PdE,BAE Systems,,"Electronics, Comms, and Sensors",0,,,6641,582,11.411,,,,5640.1,580,9.724,,,
+2020-12-31,Army,PrSM,2021,DE,Lockheed Martin,,Ordnance and Missiles,0,,,6685.3,4021,1.663,,,,5542.2,3896,1.39,,,
+2020-12-31,Army,UH-60M Black Hawk,2005,PdE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,16801.7,1235,13.605,,,,16084.2,1227,13.109,,,
+2020-12-31,Navy,AARGM-ER,2019,DE,Alliant TechSystems (ATK),,Ordnance and Missiles,2019,Northrop-Orbital ATK,prime-ATK,3442.1,2097,1.641,,,,2693.5,2080,1.295,,,
+2020-12-31,Navy ,Advanced Arresting Gear,2016,DE,General Atomics,,Other Products,0,,,1994.1,3,664.7,,,,778.7,3,259.567,,,
+2020-12-31,Navy,ACV 1.1,2014,DE,BAE Systems,,Land Vehicles,0,,,1826.9,240,7.612,,,,1015.5,204,4.978,,,
+2020-12-31,Navy,AGM-88E AARGM,2003,PdE,Alliant TechSystems (ATK),,Ordnance and Missiles,2019,Northrop-Orbital ATK,prime-ATK,1339.8,1790,0.748,,,,806.5,1750,0.461,,,
+2020-12-31,Navy ,AIM-9X Block II,2011,DE,Raytheon,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,3967.3,6000,0.661,,,,3798.5,6000,0.63,,,
+2020-12-31,Navy,AMDR,2013,DE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,5735.7,22,260.714,,,,3846.9,22,174.859,,,
+2020-12-31,Navy,CEC,2002,PdE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,2443.4,183,13.352,,,,1262.8,174,7.257,,,
+2020-12-31,Navy,CH-53K,2006,PdE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,14980.9,156,96.031,,,,11018.9,152,72.493,,,
+2020-12-31,Navy,CVN 78 - CVN 78,2000,DE,Newport News,,Ships and Submarines,0,,,28701.2,3,9567.067,,,,24825.9,3,8275.3,,,
+2020-12-31,Navy,CVN 78 - EMALS,2000,DE,General Atomics,,Ships and Submarines,0,,,2263.4,3,754.467,,,,1593.4,3,531.133,,,
+2020-12-31,Navy,DDG 1000,2005,DE,General Dynamics,Raytheon,Ships and Submarines,2021,Raytheon-UTC,sub-Raytheon,19189.3,3,6396.433,,,,10195.3,3,3398.433,,,
+2020-12-31,Navy,DDG 51,1987,PdE,General Dynamics,Northrop Grumman,Ships and Submarines,0,,,16723.8,23,727.122,,,,15745.3,23,684.578,,,
+2020-12-31,Navy,E-2D AHE,2009,PdE,Northrop Grumman,,Aircraft,0,,,17468.6,75,232.915,,,,13281.9,70,189.741,,,
+2020-12-31,Navy,EPF,2008,PdE,Austal,,Ships and Submarines,0,,,3460,18,192.222,,,,3337.8,18,185.433,,,
+2020-12-31,Navy,ESB,2011,PdE,General Dynamics,,Ships and Submarines,0,,,4528.9,8,566.112,,,,4416.9,8,552.112,,,
+2020-12-31,Navy,FFG-62,2020,DE,Fincantieri Marinette,,Ships and Submarines,0,,,20839.6,20,1041.98,20839.6,20,1041.98,19003,20,950.15,19003,20,950.15
+2020-12-31,Navy,G/ATOR,2012,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,2987.3,57,52.409,,,,2103.1,57,36.896,,,
+2020-12-31,Navy,IDECM - Block 4,2008,PdE,L3Harris,BAE Systems,"Electronics, Comms, and Sensors",2020,L3-Harris,prime-Harris,660.7,160,4.129,,,,451.2,160,2.82,,,
+2020-12-31,Navy,IRST,2008,PdE,Boeing,Lockheed Martin,"Electronics, Comms, and Sensors",0,,,1914.6,179,10.696,,,,1150.6,170,6.768,,,
+2020-12-31,Navy,JPALS,2008,DE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,963.2,37,26.032,,,,202.9,25,8.116,,,
+2020-12-31,Navy,KC-130J,2010,PdE,Lockheed Martin,Rolls Royce,Aircraft,0,,,9233.9,104,88.788,,,,9198.3,104,88.445,,,
+2020-12-31,Navy,LCS,2010,DE,General Dynamics,Lockheed Martin,Ships and Submarines,0,,,32008.2,55,581.967,,,,28369.2,53,535.268,,,
+2020-12-31,Navy,LCS Mission Modules,2010,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,6379.5,64,99.68,,,,4116.7,59,69.775,,,
+2020-12-31,Navy,LHA 6,2006,DE,Huntington Ingalls,,Ships and Submarines,0,,,2877.4,1,2877.4,,,,2677.5,1,2677.5,,,
+2020-12-31,Navy,LPD 17,1996,DE,Huntington Ingalls,,Ships and Submarines,0,,,12955.2,12,1079.6,,,,12842.4,12,1070.2,,,
+2020-12-31,Navy,MQ-25,2018,DE,Boeing,,Aircraft,0,,,12618.3,76,166.03,,,,8766.1,72,121.751,,,
+2020-12-31,Navy,MQ-4C UAS BAMS,2008,PdE,Northrop Grumman,,Aircraft,0,,,12224.5,70,174.636,,,,8871.2,65,136.48,,,
+2020-12-31,Navy ,NGJ Mid-Band,2016,DE,Raytheon,Boeing,"Electronics, Comms, and Sensors",0,,,7463.7,135,55.287,,,,4002.6,131,30.555,,,
+2020-12-31,Navy,NGJ Low-Band,2020,DE,L3Harris,Boeing,"Electronics, Comms, and Sensors",0,,,4116.4,135,30.492,4116.4,135,30.492,2070,135,15.333,2070,135,15.333
+2020-12-31,Navy,OASuW Inc 1 LRASM,2014,DE,Lockheed Martin,,Ordnance and Missiles,0,,,1467.3,124,11.833,,,,292.3,110,2.657,,,
+2020-12-31,Navy,P-8A,2010,PdE,Boeing,CFM International,Aircraft,0,,,30271.9,115,263.234,,,,22791.2,108,211.03,,,
+2020-12-31,Navy,SSC,2011,DE,Textron Systems,L3 Communications,Ships and Submarines,0,,,3925.6,73,53.775,,,,3354.4,72,47.245,,,
+2020-12-31,Navy,SM-6,2004,PdE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,4866.3,1200,4.055,,,,3949.6,1200,3.291,,,
+2020-12-31,Navy,SSBN 826,2017,DE,General Dynamics,Newport News,Ships and Submarines,0,,,100221.9,12,8351.825,,,,87426.5,12,7285.542,,,
+2020-12-31,Navy,SSN 774,1995,PdE,General Dynamics,,Ships and Submarines,0,,,45633.1,30,1521.103,,,,42228.1,30,1407.603,,,
+2020-12-31,Navy,T-AO 205 Class,2016,DE,General Dynamics,,Ships and Submarines,0,,,8543.5,17,502.559,,,,8475.9,17,498.582,,,
+2020-12-31,Navy,Trident II Missile,1983,PdE,Lockheed Martin,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,25943.7,568,45.676,,,,17155.2,540,31.769,,,
+2020-12-31,Navy ,VH-92A,2014,DE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,4649.7,23,202.16,,,,2043.6,17,120.21,,,
+2020-12-31,Air Force,APT,2018,DE,Boeing,,Aircraft,0,,,8075.4,351,23.007,,,,6669,346,19.275,,,
+2020-12-31,Air Force,B-2 DMS-M,2016,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,2556.2,20,127.81,,,,734.3,16,45.894,,,
+2020-12-31,Air Force,C-130J,1996,PdE,Lockheed Martin,Rolls Royce,Aircraft,0,,,730.7,11,66.427,,,,721.8,11,65.618,,,
+2020-12-31,Air Force,EELV,2012,PdE,Boeing,Lockheed Martin,Space Systems,0,,,61443.4,152,404.233,,,,59078.3,151,391.247,,,
+2020-12-31,Air Force,F-15 EPAWSS,2016,DE,Boeing,BAE Systems,"Electronics, Comms, and Sensors",0,,,4251.5,413,10.294,,,,3375,413,8.172,,,
+2020-12-31,Air Force,FAB-T - CPT,2015,PdE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,1639.1,95,17.254,,,,939.8,84,11.188,,,
+2020-12-31,Air Force,GPS IIIF,2018,DE,Lockheed Martin,,Space Systems,0,,,9273.8,22,421.536,,,,6113,20,305.65,,,
+2020-12-31,Air Force,GPS OCX,2012,DE,Raytheon,,Space Systems,2021,Raytheon-UTC,prime-Raytheon,3347.2,1,3347.2,,,,0,0,,,,
+2020-12-31,Air Force,HH-60W,2019,PdE,Sikorsky,,Aircraft,0,,,8090.9,105,77.1,,,,6108.4,95,64.3,,,
+2020-12-31,Air Force,ICBM Fuze Mod,2014,PdE,Lockheed Martin,,Ordnance and Missiles,0,,,1814.8,781,2.324,,,,663.5,693,0.957,,,
+2020-12-31,Air Force,JASSM - ER,2010,PdE,Lockheed Martin,,Ordnance and Missiles,0,,,3631.6,2531,1.435,,,,3366.1,2500,1.346,,,
+2020-12-31,Air Force,KC-46A,2011,PdE,Boeing,Pratt & Whitney,Aircraft,2013,UTC-Goodrich,sub-UTC,43518.2,179,243.118,,,,33040.3,175,188.802,,,
+2020-12-31,Air Force,LGM-35,2020,DE,Northrop Grumman,,Ordnance and Missiles,0,,,77740.7,659,117.968,77740.7,659,117.968,47858.4,634,75.486,47858.4,634,75.486
+2020-12-31,Air Force,MGUE Inc 1,2017,DE,L-3 Communications,,"Electronics, Comms, and Sensors",2020,L3-Harris,prime-L3,1505.7,0,,,0,,0,0,,0,0,
+2020-12-31,Air Force,MH-139A,2018,PdE,Boeing,,Aircraft,0,,,3308.8,84,39.39,,,,2422.5,80,30.281,,,
+2020-12-31,Air Force,SDB II,2010,PdE,Raytheon,,Ordnance and Missiles,2021,Raytheon-UTC,prime-Raytheon,4577.5,17163,0.267,,,,2976.3,17000,0.175,,,
+2020-12-31,Air Force,VC-25B,2018,PdE,Boeing,,Aircraft,0,,,5014,2,2507,,,,51,0,,,,
+2020-12-31,Air Force,WSF,2019,DE,Ball Aerospace,,Space Systems,0,,,982.7,2,491.35,,,,0,0,,,,
+2020-12-31,DoD,CHEM DEMIL - ACWA,1994,PdE,Bechtel,,Other Services,0,,,5413,3136,1.726,,,,0,0,,,,
+2020-12-31,DoD,F-35 - Aircraft,2012,DE,Lockheed Martin,Northrop Grumman,Aircraft,0,,,276482.2,2458,112.483,,,,224333.7,2443,91.827,,,
+2020-12-31,DoD,F-35 - Engine,2012,DE,Pratt & Whitney,Hamilton Sundstrand,Aircraft,2013,UTC-Goodrich,prime-UTC,53916.4,2458,21.935,,,,42332.9,2443,17.328,,,
+2020-12-31,DoD,JTRS HMS,2004,PdE,Harris Corporation,Rockwell Collins,"Electronics, Comms, and Sensors",2019,UTC-Rockwell Collins,sub-Rockwell,8569,329574,0.026,,,,8104,328514,0.025,,,
+2020-12-31,DoD,MIDS,2003,PdE,BAE Systems,Rockwell Collins,"Electronics, Comms, and Sensors",2019,UTC-Rockwell Collins,sub-Rockwell,1091.4,672,1.624,,,,523.7,630,0.831,,,
+2021-12-31,Army,AB3A Remanufacture,2010,PdE,Boeing,Longbow LLC,Aircraft,2016,Lockheed-Sikorsky,sub-Lockheed,10468.7,639,16.383,12372.6,631,19.608,8856.9,634,13.97,10843.6,626,17.322
+2021-12-31,Army,AB3B New Build,2010,PdE,Boeing,Longbow LLC,Aircraft,2016,Lockheed-Sikorsky,sub-Lockheed,2134.6,56,38.118,2130.7,79,26.971,2134.6,56,38.118,2130.7,79,26.971
+2021-12-31,Army,AMPV,2015,PdE,BAE Systems,,Land Vehicles,0,,,10724.8,2936,3.653,11904.5,2936,4.055,9736.6,2897,3.361,10797.6,2897,3.727
+2021-12-31,Army,CH-47F Block II,2017,DE,Boeing,,Aircraft,0,,,16219.8,542,29.926,15548.2,542,28.687,15208.8,539,28.217,14753.8,539,27.373
+2021-12-31,Army,CIRCM,2015,PdE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,2537.1,1124,2.257,4137.5,1829,2.262,1782.5,1076,1.657,3241.4,1781,1.82
+2021-12-31,Army,GMLRS/GMLRS AW,2003,PdE,Lockheed Martin,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,4578.4,43795,0.105,10318.2,87605,0.118,3966.7,43560,0.091,9069.9,87174,0.104
+2021-12-31,Army,IAMD,2009,DE,Northrop Grumman,,Air and Missile Defense,0,,,4806.8,296,16.239,7548.1,485,15.563,3316,285,11.635,3225,460,7.011
+2021-12-31,Army,ITEP,2019,DE,General Electric,,Aircraft,0,,,12088.4,6258,1.932,11623.2,6258,1.857,10030.5,6189,1.621,9700.2,6189,1.567
+2021-12-31,Army,JAGM,2015,PdE,Lockheed Martin,Aerojet Rocketdyne,Ordnance and Missiles,0,,,5669.9,26437,0.214,6317.5,26437,0.239,4691.4,26319,0.178,5223.9,26319,0.198
+2021-12-31,Army,JLTV,2012,PdE,AM General,,Land Vehicles,0,,,22780.2,54730,0.416,23030.9,61733,0.373,21782,54599,0.399,21947.9,61599,0.356
+2021-12-31,Army,PAC-3 MSE,2004,PdE,Lockheed Martin,Boeing,Air and Missile Defense,0,,,6220.9,1528,4.071,10227.8,3100,3.299,5760,1528,3.77,9414,3100,3.037
+2021-12-31,Army,PIM,2011,PdE,BAE Systems,,"Electronics, Comms, and Sensors",0,,,6641,582,11.411,8552.8,691,12.377,5640.1,580,9.724,7506.4,689,10.895
+2021-12-31,Army,PrSM,2021,DE,Lockheed Martin,,Ordnance and Missiles,0,,,6685.3,4021,1.663,6546.7,4021,1.628,5542.2,3896,1.39,5412,3986,1.358
+2021-12-31,Army,UH-60M Black Hawk,2005,PdE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,16801.7,1235,13.605,22420.9,1375,16.306,16084.2,1227,13.109,21551.2,1367,15.765
+2021-12-31,Navy,AARGM-ER,2019,DE,Alliant TechSystems (ATK),,Ordnance and Missiles,2019,Northrop-Orbital ATK,prime-ATK,3442.1,2097,1.641,3296,2097,1.572,2693.5,2080,1.295,2548.1,2080,1.225
+2021-12-31,Navy ,Advanced Arresting Gear,2016,DE,General Atomics,,Other Products,0,,,1994.1,3,664.7,2430.9,4,607.737,778.7,3,259.567,1090.22,4,272.555
+2021-12-31,Navy,ACV 1.1,2014,DE,BAE Systems,,Land Vehicles,0,,,1826.9,240,7.612,4930.8,677,7.283,1015.5,204,4.978,3749.2,632,5.932
+2021-12-31,Navy,AGM-88E AARGM,2003,PdE,Alliant TechSystems (ATK),,Ordnance and Missiles,2019,Northrop-Orbital ATK,prime-ATK,1339.8,1790,0.748,1787.2,1847,0.968,806.5,1750,0.461,1114.1,1807,0.617
+2021-12-31,Navy ,AIM-9X Block II,2011,DE,Raytheon,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,3967.3,6000,0.661,5364.46,11635,0.46,3798.5,6000,0.63,4613.87,11635,0.4
+2021-12-31,Navy,AMDR,2013,DE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,5735.7,22,260.714,5851.3,26,225.1,3846.9,22,174.859,4035.1,26,152.5
+2021-12-31,Navy,CEC,2002,PdE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,2443.4,183,13.352,5485.82,366,14.99,1262.8,174,7.257,2070.72,336,6.16
+2021-12-31,Navy,CH-53K,2006,PdE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,14980.9,156,96.031,25109.8,200,125.549,11018.9,152,72.493,18214.4,196,92.931
+2021-12-31,Navy,CVN 78 - CVN 78,2000,DE,Newport News,,Ships and Submarines,0,,,28701.2,3,9567.067,34194.41,4,8548.6,24825.9,3,8275.3,30178.64,4,7544.66
+2021-12-31,Navy,CVN 78 - EMALS,2000,DE,General Atomics,,Ships and Submarines,0,,,2263.4,3,754.467,2452.77,4,613.19,1593.4,3,531.133,1568.15,4,392.04
+2021-12-31,Navy,DDG 1000,2005,DE,General Dynamics,Raytheon,Ships and Submarines,2021,Raytheon-UTC,sub-Raytheon,19189.3,3,6396.433,20325.2,3,6775.067,10195.3,3,3398.433,11054,3,3684.667
+2021-12-31,Navy,DDG 51,1987,PdE,General Dynamics,Northrop Grumman,Ships and Submarines,0,,,16723.8,23,727.122,78615.5,101,778.4,15745.3,23,684.578,74655.3,101,739.2
+2021-12-31,Navy,E-2D AHE,2009,PdE,Northrop Grumman,,Aircraft,0,,,17468.6,75,232.915,22266.6,86,258.914,13281.9,70,189.741,14669.3,81,181.102
+2021-12-31,Navy,EPF,2008,PdE,Austal,,Ships and Submarines,0,,,3460,18,192.222,3242,17,189.054,3337.8,18,185.433,3127.3,17,182.302
+2021-12-31,Navy,ESB,2011,PdE,General Dynamics,,Ships and Submarines,0,,,4528.9,8,566.112,4403.34,8,550.413,4416.9,8,552.112,4291.3,8,536.413
+2021-12-31,Navy,FFG-62,2020,DE,Fincantieri Marinette,,Ships and Submarines,0,,,20839.6,20,1041.98,20751.7,20,1037.58,19003,20,950.15,18874.7,20,943.73
+2021-12-31,Navy,G/ATOR,2012,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,2987.3,57,52.409,2826.8,45,62.818,2103.1,57,36.896,1743.6,45,38.747
+2021-12-31,Navy,IDECM - Block 4,2008,PdE,L3Harris ,BAE Systems,"Electronics, Comms, and Sensors",2020,L3-Harris,prime-Harris,660.7,160,4.129,1382.4,425,3.253,451.2,160,2.82,1013.2,425,2.384
+2021-12-31,Navy,IRST,2008,PdE,Boeing,Lockheed Martin,"Electronics, Comms, and Sensors",0,,,1914.6,179,10.696,2052.4,173,11.86,1150.6,170,6.768,1226.7,170,7.2
+2021-12-31,Navy,JPALS,2008,DE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,963.2,37,26.032,1503.8,33,45.569,202.9,25,8.116,272,23,11.824
+2021-12-31,Navy,KC-130J,2010,PdE,Lockheed Martin,Rolls Royce,Aircraft,0,,,9233.9,104,88.788,9672.9,111,87.14,9198.3,104,88.445,9634.9,111,86.8
+2021-12-31,Navy,LCS,2010,DE,General Dynamics,Lockheed Martin,Ships and Submarines,0,,,32008.2,55,581.967,19151.8,35,547.194,28369.2,53,535.268,15867.6,33,480.836
+2021-12-31,Navy,LCS Mission Modules,2010,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,6379.5,64,99.68,5475,40,137,4116.7,59,69.775,3058,35,87
+2021-12-31,Navy,LHA 6,2006,DE,Huntington Ingalls,,Ships and Submarines,0,,,2877.4,1,2877.4,10639.22,4,2659.8,2677.5,1,2677.5,10216.13,4,2554
+2021-12-31,Navy,LPD 17,1996,DE,Huntington Ingalls,,Ships and Submarines,0,,,12955.2,12,1079.6,28385.2,26,1091.74,12842.4,12,1070.2,28121.4,26,1081.594
+2021-12-31,Navy,MQ-25,2018,DE,Boeing,,Aircraft,0,,,12618.3,76,166.03,11449.6,76,150.653,8766.1,72,121.751,8481.9,69,122.927
+2021-12-31,Navy,MQ-4C UAS BAMS,2008,PdE,Northrop Grumman,,Aircraft,0,,,12224.5,70,174.636,14068.4,70,200.977,8871.2,65,136.48,8559.8,65,131.689
+2021-12-31,Navy ,NGJ Mid-Band,2016,DE,Raytheon,Boeing,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,7463.7,135,55.287,7617.6,135,56.427,4002.6,131,30.555,3875.7,129,30.045
+2021-12-31,Navy,NGJ Low-Band,2020,DE,L3Harris,Boeing,"Electronics, Comms, and Sensors",0,,,4116.4,135,30.492,4170.7,135,30.895,2070,135,15.333,1979.1,135,14.66
+2021-12-31,Navy,OASuW Inc 1 LRASM,2014,DE,Lockheed Martin,,Ordnance and Missiles,0,,,1467.3,124,11.833,3248.8,645,5.037,292.3,110,2.657,1832.3,629,2.913
+2021-12-31,Navy,P-8A,2010,PdE,Boeing,CFM International,Aircraft,0,,,30271.9,115,263.234,33318.6,133,250.516,22791.2,108,211.03,23398.1,128,182.798
+2021-12-31,Navy,SSC,2011,DE,Textron Systems,L3 Communications,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,4742.4,73,64.964,3354.4,72,47.245,4176.9,72,58.013
+2021-12-31,Navy,SM-6,2004,PdE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,4866.3,1200,4.055,8345.9,2345,3.559,3949.6,1200,3.291,7510.9,2345,3.203
+2021-12-31,Navy,SSBN 826,2017,DE,General Dynamics,Newport News,Ships and Submarines,0,,,100221.9,12,8351.825,98815.2,12,8234.6,87426.5,12,7285.542,85454.1,12,7121.2
+2021-12-31,Navy,SSN 774,1995,PdE,General Dynamics,,Ships and Submarines,0,,,45633.1,30,1521.103,94016.2,48,1958.7,42228.1,30,1407.603,86754.8,48,1807.4
+2021-12-31,Navy,T-AO 205 Class,2016,DE,General Dynamics,,Ships and Submarines,0,,,8543.5,17,502.559,12231.95,20,594.9,8475.9,17,498.582,12166.41,20,591.6
+2021-12-31,Navy,Trident II Missile,1983,PdE,Lockheed Martin,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,25943.7,568,45.676,28283.5,561,50.416,17155.2,540,31.769,18834.8,533,35.337
+2021-12-31,Navy ,VH-92A,2014,DE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,4649.7,23,202.16,4412.88,23,191.86,2043.6,17,120.21,1897.02,17,111.59
+2021-12-31,Air Force,APT,2018,DE,Boeing,,Aircraft,0,,,8075.4,351,23.007,8028.1,351,22.872,6669,346,19.275,6421,346,18.558
+2021-12-31,Air Force,B-2 DMS-M,2016,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,2556.2,20,127.81,2126.48,20,106.32,734.3,16,45.894,58.38,16,3.65
+2021-12-31,Air Force,B-52 CERP,2021,DE,Boeing,Rolls Royce,Aircraft,0,,,8959,76,117.882,9233.86,76,121.498,6757.4,74,91.316,6028.58,74,81.467
+2021-12-31,Air Force,B-52 RMP,2021,DE,Boeing,Raytheon,"Electronics, Comms, and Sensors",0,,,2042.1,76,26.87,2022.35,76,26.61,885,74,11.959,885,74,11.959
+2021-12-31,Air Force,C-130J,1996,PdE,Lockheed Martin,Rolls Royce,Aircraft,0,,,730.7,11,66.427,13420.9,202,66.4,721.8,11,65.618,12940.3,202,64.061
+2021-12-31,Air Force,EELV,2012,PdE,Boeing,Lockheed Martin,Space Systems,0,,,61443.4,152,404.233,53589.1,203,263.986,59078.3,151,391.247,48502.7,202,240.112
+2021-12-31,Air Force,F-15 EPAWSS,2016,DE,Boeing,BAE Systems,"Electronics, Comms, and Sensors",0,,,4251.5,413,10.294,3951.7,299,13.217,3375,413,8.172,2814.5,297,9.476
+2021-12-31,Air Force,FAB-T - CPT,2015,PdE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,1639.1,95,17.254,1889.3,109,17.33,939.8,84,11.188,671.3,84,7.991
+2021-12-31,Air Force,GPS IIIF,2018,DE,Lockheed Martin,,Space Systems,0,,,9273.8,22,421.536,9350,22,425.002,6113,20,305.65,6227.8,20,311.389
+2021-12-31,Air Force,GPS OCX,2012,DE,Raytheon,,Space Systems,2021,Raytheon-UTC,prime-Raytheon,3347.2,1,3347.2,5678.3,1,5678.3,0,0,,0,0,
+2021-12-31,Air Force,HH-60W,2019,PdE,Sikorsky,,Aircraft,0,,,8090.9,105,77.1,6478.2,75,90,6108.4,95,64.3,4564.4,65,70.2
+2021-12-31,Air Force,ICBM Fuze Mod,2014,PdE,Lockheed Martin,,Ordnance and Missiles,0,,,1814.8,781,2.324,2123.8,743,2.858,663.5,693,0.957,791,655,1.208
+2021-12-31,Air Force,JASSM - ER,2010,PdE,Lockheed Martin,,Ordnance and Missiles,0,,,3631.6,2531,1.435,9777.3,7578,1.29,3366.1,2500,1.346,9013.5,7547,1.194
+2021-12-31,Air Force,KC-46A,2011,PdE,Boeing,Pratt & Whitney,Aircraft,2013,UTC-Goodrich,sub-UTC,43518.2,179,243.118,34058,179,190.268,33040.3,175,188.802,26207.9,175,149.759
+2021-12-31,Air Force,LGM-35,2020,DE,Northrop Grumman,,Ordnance and Missiles,0,,,77740.7,659,117.968,77740.7,659,117.968,47858.4,634,75.486,47858.4,534,75.486
+2021-12-31,Air Force,MGUE Inc 1,2017,DE,L-3 Communications,,"Electronics, Comms, and Sensors",2020,L3-Harris,prime-L3,1505.7,0,,1674.9,0,,0,0,,0,0,
+2021-12-31,Air Force,MH-139A,2018,PdE,Boeing,,Aircraft,0,,,3308.8,84,39.39,3208.7,80,38.9,2422.5,80,30.281,2275,74,30.7
+2021-12-31,Air Force,SDB II,2010,PdE,Raytheon,,Ordnance and Missiles,2021,Raytheon-UTC,prime-Raytheon,4577.5,17163,0.267,4749,17163,0.277,2976.3,17000,0.175,2926.3,17000,0.172
+2021-12-31,Air Force,VC-25B,2018,PdE,Boeing,,Aircraft,0,,,5014,2,2507,5047.5,2,2523.75,51,0,,22,0,
+2021-12-31,Air Force,WSF,2019,DE,Ball Aerospace,,Space Systems,0,,,982.7,2,491.35,896.7,2,448.35,0,0,,0,0,
+2021-12-31,DoD,CHEM DEMIL - ACWA,1994,PdE,Bechtel,,Other Services,0,,,5413,3136,1.726,9160.8,3136,2.921,0,0,,0,0,
+2021-12-31,DoD,F-35 - Aircraft,2012,DE,Lockheed Martin,Northrop Grumman,Aircraft,0,,,276482.2,2458,112.483,271368.7,2470,109.866,224333.7,2443,91.827,206340.7,2456,84.015
+2021-12-31,DoD,F-35 - Engine,2012,DE,Pratt & Whitney,Hamilton Sundstrand,Aircraft,2013,UTC-Goodrich,prime-UTC,53916.4,2458,21.935,56694.7,2470,22.953,42332.9,2443,17.328,41893.7,2456,17.058
+2021-12-31,DoD,JTRS HMS,2004,PdE,Harris Corporation,Rockwell Collins,"Electronics, Comms, and Sensors",2019,UTC-Rockwell Collins,sub-Rockwell,8569,329574,0.026,7815.5,255995,0.031,8104,328514,0.025,6704.8,255162,0.026
+2021-12-31,DoD,MIDS,2003,PdE,BAE Systems,Rockwell Collins,"Electronics, Comms, and Sensors",2019,UTC-Rockwell Collins,sub-Rockwell,1091.4,672,1.624,4801.7,11881,0.404,523.7,630,0.831,2627.1,10925,0.24
+2022-12-31,Army,AB3A Remanufacture,2010,PdE,Boeing,Longbow LLC,Aircraft,2016,Lockheed-Sikorsky,sub-Lockheed,10468.7,639,16.383,12292.4,622,19.763,8857,634,13.97,10765.9,617,17.449
+2022-12-31,Army,AB3B New Build,2010,PdE,Boeing,Longbow LLC,Aircraft,2016,Lockheed-Sikorsky,sub-Lockheed,2134.6,56,38.118,2130.7,79,26.971,2134.6,56,38.118,2130.7,79,26.971
+2022-12-31,Army,AMPV,2015,PdE,BAE Systems,,Land Vehicles,0,,,10724.8,2936,3.653,12183,2936,4.205,9736.6,2897,3.361,11076.5,2897,3.823
+2022-12-31,Army,CH-47F Block II,2017,DE,Boeing,,Aircraft,0,,,16219.8,542,29.926,15548.2,542,28.687,15208.8,539,28.217,14753.8,539,27.373
+2022-12-31,Army,CIRCM,2015,PdE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,2537.1,1124,2.257,4507.2,2036,2.214,1782.5,1076,1.657,3599.2,1988,1.811
+2022-12-31,Army,GMLRS/GMLRS AW,2003,PdE,Lockheed Martin,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,4758.4,43795,0.105,21096.8,104507,0.116,3966.7,43560,0.091,10845.5,104070,0.104
+2022-12-31,Army,IAMD,2009,DE,Northrop Grumman,,Air and Missile Defense,0,,,4806.8,296,16.239,8352.5,511,16.435,3316,285,11.635,2833.2,486,7.887
+2022-12-31,Army,ITEP,2019,DE,General Electric,,Aircraft,0,,,12088.4,6258,1.932,12000.9,6258,1.918,10030.5,6189,1.621,9894.2,6189,1.599
+2022-12-31,Army,JAGM,2015,PdE,Lockheed Martin,Aerojet Rocketdyne,Ordnance and Missiles,0,,,5669.9,26437,0.214,6317.5,26437,0.239,4691.4,26319,0.178,5223.9,26319,0.198
+2022-12-31,Army,JLTV,2012,PdE,AM General,,Land Vehicles,0,,,22780.2,54730,0.416,23435,61733,0.38,21782,54599,0.399,22210.6,61599,0.361
+2022-12-31,Army,PAC-3 MSE,2004,PdE,Lockheed Martin,Boeing,Air and Missile Defense,0,,,6220.9,1528,4.071,10303.1,3180,3.24,5760,1528,3.77,9488,3180,2.984
+2022-12-31,Army,PIM,2011,PdE,BAE Systems,,"Electronics, Comms, and Sensors",0,,,6641,582,11.411,8658.2,691,12.53,5640.1,580,9.724,7611.5,689,11.047
+2022-12-31,Army,PrSM,2021,DE,Lockheed Martin,,Ordnance and Missiles,0,,,6685.3,4021,1.663,6972.4,4021,1.734,5542.2,3986,1.39,5813,3986,1.459
+2022-12-31,Army,UH-60M Black Hawk,2005,PdE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,16801.7,1235,13.605,22074.1,1375,16.054,16084.2,1227,13.109,21207.4,1367,15.514
+2022-12-31,Navy,AARGM-ER,2019,DE,Alliant TechSystems (ATK),,Ordnance and Missiles,2019,Northrop-Orbital ATK,prime-ATK,3442.1,2097,1.641,3315.2,2097,1.581,2693.5,2080,1.295,2590.8,2080,1.246
+2022-12-31,Navy ,Advanced Arresting Gear,2016,DE,General Atomics,,Other Products,0,,,1994.1,3,664.7,2440.7,4,610.17,778.7,3,259.567,1054.4,4,263.608
+2022-12-31,Navy,ACV 1.1,2014,DE,BAE Systems,,Land Vehicles,0,,,1826.9,240,7.612,4815.8,677,7.113,1015.5,204,4.978,3649.1,632,5.774
+2022-12-31,Navy ,AIM-9X Block II,2011,DE,Raytheon,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,3967.3,6000,0.661,5193.5,11635,0.446,3798,6000,0.633,4374.4,11635,0.376
+2022-12-31,Navy,AMDR,2013,DE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,5735.7,22,260.714,6213.6,27,230.133,2846.9,22,174.859,4389.9,27,162.589
+2022-12-31,Navy,CEC,2002,PdE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,2443.4,183,13.352,5422.2,366,14.815,1262.8,174,7.257,2070.9,336,6.163
+2022-12-31,Navy,CH-53K,2006,PdE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,14980.9,156,96.031,24679.8,200,123.399,11018.9,152,72.493,17782.1,196,90.725
+2022-12-31,Navy,CVN 78 - CVN 78,2000,DE,Newport News,,Ships and Submarines,0,,,28701.2,3,9567.067,34485.9,4,8621.475,24825.9,3,8275.3,30313.2,4,7578.3
+2022-12-31,Navy,CVN 78 - EMALS,2000,DE,General Atomics,,Ships and Submarines,0,,,2263.4,3,754.467,2416.2,4,604.05,1593.4,3,531.133,1522.3,4,380.575
+2022-12-31,Navy,DDG 1000,2005,DE,General Dynamics,Raytheon,Ships and Submarines,2021,Raytheon-UTC,sub-Raytheon,19189.3,3,6396.433,20165.3,3,6271.767,10195.3,3,3398.433,10920.5,3,3640.167
+2022-12-31,Navy,DDG 51,1987,PdE,General Dynamics,Northrop Grumman,Ships and Submarines,0,,,16723.8,23,727.122,80589.8,104,774.902,15745.3,23,684.578,76350,104,734.135
+2022-12-31,Navy,E-2D AHE,2009,PdE,Northrop Grumman,,Aircraft,0,,,17468.6,75,232.915,22408.5,86,260.564,13281.9,70,189.741,14252.9,81,175.962
+2022-12-31,Navy,EPF,2008,PdE,Austal,,Ships and Submarines,0,,,3460,18,192.222,3835.5,19,201.868,3337.8,18,185.433,3720.7,19,195.826
+2022-12-31,Navy,ESB,2011,PdE,General Dynamics,,Ships and Submarines,0,,,4528.9,8,566.112,4585.8,8,573.225,4416.9,8,552.112,4468.3,8,558.538
+2022-12-31,Navy,FFG-62,2020,DE,Fincantieri Marinette,,Ships and Submarines,0,,,20839.6,20,1041.98,20342.5,20,1017.125,19003,20,950.15,18502.5,20,925.125
+2022-12-31,Navy,G/ATOR,2012,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,2987.3,57,52.409,3103.4,53,58.555,2103.1,57,36.896,1997,53,37.679
+2022-12-31,Navy,IDECM - Block 4,2008,PdE,L3Harris,BAE Systems,"Electronics, Comms, and Sensors",2020,L3-Harris,prime-Harris,660.7,160,4.129,1352.2,425,3.182,451.2,160,2.82,990,425,2.351
+2022-12-31,Navy,IRST,2008,PdE,Boeing,Lockheed Martin,"Electronics, Comms, and Sensors",0,,,1914.6,179,10.696,1968.5,173,11.379,1150.6,170,6.768,1148.2,170,6.754
+2022-12-31,Navy,JPALS,2008,DE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,963.2,37,26.032,1495.6,33,45.322,202.9,25,8.116,267.1,23,11.615
+2022-12-31,Navy,KC-130J,2010,PdE,Lockheed Martin,Rolls Royce,Aircraft,0,,,9233.9,104,88.788,9496.6,111,85.555,9198.3,104,88.445,9458.5,111,85.212
+2022-12-31,Navy,LCS Mission Modules,2010,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,6379.5,64,99.68,4929,40,123.225,4116.7,59,69.775,2524.4,35,72.126
+2022-12-31,Navy,LHA 6,2006,DE,Huntington Ingalls,,Ships and Submarines,0,,,2877.4,1,2877.4,12761.9,5,2552.372,2677.5,1,2677.5,12332.2,5,2466.432
+2022-12-31,Navy,LPD 17,1996,DE,Huntington Ingalls,,Ships and Submarines,0,,,12955.2,12,1079.6,27682.3,26,1064.703,12842.4,12,1070.2,27354.2,26,1052.083
+2022-12-31,Navy,MQ-25,2018,DE,Boeing,,Aircraft,0,,,12618.3,76,166.03,12879.5,76,169.467,8766.1,72,121.751,9605.1,69,139.204
+2022-12-31,Navy,MQ-4C UAS BAMS,2008,PdE,Northrop Grumman,,Aircraft,0,,,12224.5,70,174.636,9562.1,27,354.151,8871.2,65,136.48,4344.3,22,197.47
+2022-12-31,Navy ,NGJ Mid-Band,2016,DE,Raytheon,Boeing,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,7463.7,135,55.287,7779.4,135,57.625,4002.6,131,30.554,4062.8,129,31.495
+2022-12-31,Navy,NGJ Low-Band,2020,DE,L3Harris,Boeing,"Electronics, Comms, and Sensors",0,,,4116.4,135,30.492,4012.7,135,29.724,2070,135,15.333,1956.5,135,14.493
+2022-12-31,Navy,OASuW Inc 1 LRASM,2014,DE,Lockheed Martin,,Ordnance and Missiles,0,,,1467.3,124,11.833,4407.4,1231,3.58,292.3,110,2.657,3000.5,1215,2.47
+2022-12-31,Navy,SSC,2011,DE,Textron Systems,L3 Communications,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,4771.6,73,65.365,3354.4,71,47.245,4188.3,72,58.171
+2022-12-31,Navy,SM-6,2004,PdE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,4866.3,1200,4.055,8423.5,2356,3.575,3949.6,1200,3.291,7588.7,2356,3.221
+2022-12-31,Navy,SSBN 826,2017,DE,General Dynamics,Newport News,Ships and Submarines,0,,,100221.9,12,8351.825,93263,12,7771.917,87426.5,12,7285.542,80015.6,12,6667.967
+2022-12-31,Navy,SSN 774,1995,PdE,General Dynamics,,Ships and Submarines,0,,,45633.1,30,1521.103,98562.7,51,1932.602,42228.1,30,1407.603,90750.6,51,1779.424
+2022-12-31,Navy,T-AO 205 Class,2016,DE,General Dynamics,,Ships and Submarines,0,,,8543.5,17,502.559,11669.5,20,583.475,8475.9,17,498.582,11604.2,20,580.21
+2022-12-31,Navy,Trident II Missile,1983,PdE,Lockheed Martin,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,25943.7,568,45.676,28116.6,561,50.119,17155.2,540,31.769,18668.3,533,35.025
+2022-12-31,Navy ,VH-92A,2014,DE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,4649.7,23,202.161,4351.5,23,189.193,2043.6,17,120.212,1856.4,17,109.199
+2022-12-31,Air Force,APT,2018,DE,Boeing,,Aircraft,0,,,8075.4,351,23.007,7677.1,351,21.872,6669,346,19.275,5959.9,346,17.225
+2022-12-31,Air Force,B-52 CERP,2021,DE,Boeing,Rolls Royce,Aircraft,0,,,8959,76,117.882,9150.4,76,120.4,6757.4,74,91.316,5645,74,76.283
+2022-12-31,Air Force,B-52 RMP,2021,DE,Boeing,Raytheon,"Electronics, Comms, and Sensors",0,,,2042.1,76,26.87,2238.6,76,29.455,885,74,11.959,954.8,74,12.903
+2022-12-31,Air Force,EELV,2012,PdE,Boeing,Lockheed Martin,Space Systems,0,,,61443.4,152,404.233,51335.8,201,255.402,59078.3,151,391.247,46272.7,200,231.364
+2022-12-31,Air Force,F-15 EPAWSS,2016,DE,Boeing,BAE Systems,"Electronics, Comms, and Sensors",0,,,4251.5,413,10.294,2953.9,206,14.339,3375,413,8.172,1856,203,9.143
+2022-12-31,Air Force,FAB-T - CPT,2015,PdE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,1639.1,95,17.254,1875.8,109,17.209,939.8,84,11.188,657.3,84,7.825
+2022-12-31,Air Force,GPS IIIF,2018,DE,Lockheed Martin,,Space Systems,0,,,9273.8,22,421.536,8535.5,22,387.977,6113,20,305.65,5647.7,20,282.385
+2022-12-31,Air Force,GPS OCX,2012,DE,Raytheon,,Space Systems,2021,Raytheon-UTC,prime-Raytheon,3347.2,1,3347.2,5591,1,5591,0,0,,0,0,
+2022-12-31,Air Force,HH-60W,2019,PdE,Sikorsky,,Aircraft,0,,,8090.9,112,72.24,6947.2,85,81.7,6018.4,103,59.305,4707.7,75,62.8
+2022-12-31,Air Force,ICBM Fuze Mod,2014,PdE,Lockheed Martin,,Ordnance and Missiles,0,,,1814.8,781,2.324,2085.8,743,2.807,663.5,693,0.957,769.3,655,1.175
+2022-12-31,Air Force,JASSM-ER,2010,PdE,Lockheed Martin,,Ordnance and Missiles,0,,,3631.6,2531,1.435,8116.7,6252,1.298,3366.1,2500,1.346,7080.8,6221,1.138
+2022-12-31,Air Force,KC-46A,2011,PdE,Boeing,Pratt & Whitney,Aircraft,2013,UTC-Goodrich,sub-UTC,43518.2,179,243.118,29569.9,179,165.194,33040.3,175,188.802,23158.7,175,132.336
+2022-12-31,Air Force,LGM-35A,2020,DE,Northrop Grumman,,Ordnance and Missiles,0,,,77740.7,659,117.968,71123.4,659,107.926,47858.1,634,75.486,43546.4,634,68.685
+2022-12-31,Air Force,MGUE Inc 1,2017,DE,L-3 Communications,,"Electronics, Comms, and Sensors",2020,L3-Harris,prime-L3,1505.7,0,,1634.9,0,,0,0,,0,0,
+2022-12-31,Air Force,MH-139A,2018,PdE,Boeing,,Aircraft,0,,,3308.8,84,39.39,2773,80,34.663,2422.5,80,30.281,1981.1,74,26.772
+2022-12-31,Air Force,SDB II,2010,PdE,Raytheon,,Ordnance and Missiles,2021,Raytheon-UTC,prime-Raytheon,4577.5,17163,0.267,6727.3,26773,0.251,2976.3,17000,0.175,4763.8,26610,0.179
+2022-12-31,Air Force,VC-25B,2018,PdE,Boeing,,Aircraft,0,,,5014,2,2507,4763.6,2,2381.8,51,0,,21.5,0,
+2022-12-31,Air Force,WSF,2019,DE,Ball Aerospace,,Space Systems,0,,,982.7,2,491.35,938.9,2,469.438,0,0,,0,0,
+2022-12-31,DoD,CHEM DEMIL - ACWA,1994,PdE,Bechtel,,Other Services,0,,,5413,3136,1.726,9534.2,3136,3.04,0,0,,0,0,
+2022-12-31,DoD,F-35 - Aircraft,2012,DE,Lockheed Martin,Northrop Grumman,Aircraft,0,,,276482.2,2458,112.483,272774.3,2470,110.435,224333.7,2443,91.827,206200.5,2456,83.958
+2022-12-31,DoD,F-35 - Engine,2012,DE,Pratt & Whitney,Hamilton Sundstrand,Aircraft,2013,UTC-Goodrich,prime-UTC,53916.4,2458,21.935,56988.3,2470,23.072,42332.9,2443,17.328,41865.3,2456,17.046
+2022-12-31,DoD,JTRS HMS,2004,PdE,Harris Corporation,Rockwell Collins,"Electronics, Comms, and Sensors",2019,UTC-Rockwell Collins,sub-Rockwell,8569,329574,0.026,7994.3,255995,0.031,8104,328514,0.025,6858.7,255162,0.027
+2022-12-31,DoD,MIDS,2003,PdE,BAE Systems,Rockwell Collins,"Electronics, Comms, and Sensors",2019,UTC-Rockwell Collins,sub-Rockwell,1091.4,672,1.624,5016.1,12922,0.388,523.7,630,0.831,2540.3,11942,0.213
+2023-12-31,Army,AB3A Remanufacture,2010,PdE,Boeing,Longbow LLC,Aircraft,2016,Lockheed-Sikorsky,sub-Lockheed,10468.7,639,16.383,12418.3,622,19.531,8856.9,634,13.97,10619.9,617,17.212
+2023-12-31,Army,AMPV,2015,PdE,BAE Systems,,Land Vehicles,0,,,10724.8,2936,3.653,14271.5,2933,4.866,9736.6,2897,3.361,13157.8,2897,4.542
+2023-12-31,Army,CH-47F Block II,2017,DE,Boeing,,Aircraft,0,,,16219.8,542,29.926,14580.2,542,26.901,15208.8,539,28.217,13803.3,539,25.609
+2023-12-31,Army,CIRCM,2018,PdE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,2537.1,1124,2.257,4697.8,2036,2.307,1782.5,1076,1.657,3772,1988,1.897
+2023-12-31,Army,GMLRS/GMLRS AW,2003,PdE,Lockheed Martin,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,4578.4,43795,0.105,10939.3,91781,0.119,3966.7,43560,0.091,9719.9,91320,0.106
+2023-12-31,Army,IAMD,2009,DE,Northrop Grumman,,Air and Missile Defense,0,,,4806.8,296,16.239,9290.9,511,18.182,3316,285,11.635,4211,486,8.665
+2023-12-31,Army,ITEP,2019,DE,General Electric,,Aircraft,0,,,12088.4,6258,1.932,12863.8,6258,2.056,10030.5,6189,1.621,10653.6,6189,1.721
+2023-12-31,Army,JAGM,2015,PdE,Lockheed Martin,Aerojet Rocketdyne,Ordnance and Missiles,0,,,5669.9,26437,0.214,6334.3,26139,0.242,4691.4,26319,0.178,5262.7,26021,0.202
+2023-12-31,Army,JLTV,2012,PdE,AM General,,Land Vehicles,0,,,22780.2,54730,0.416,23200.2,61746,0.376,21782,54599,0.399,21925.9,61599,0.356
+2023-12-31,Army,PAC-3 MSE,2004,PdE,Lockheed Martin,Boeing,Air and Missile Defense,0,,,6220.9,1528,4.071,12031.8,3624,3.32,5760,1528,3.77,11219.8,3624,3.096
+2023-12-31,Army,PIM,2011,PdE,BAE Systems,,"Electronics, Comms, and Sensors",0,,,6641,582,11.411,8704.3,691,12.597,5640.1,580,9.724,7658.1,689,11.115
+2023-12-31,Army,PrSM,2021,DE,Lockheed Martin,,Ordnance and Missiles,0,,,6685.3,4021,1.663,6522.9,4021,1.622,5542.2,3986,1.39,5437.3,3986,1.364
+2023-12-31,Navy,AARGM-ER,2019,DE,Alliant TechSystems (ATK),,Ordnance and Missiles,2019,Northrop-Orbital ATK,prime-ATK,3442.1,2097,1.641,3635.8,2097,1.734,2693.5,2080,1.295,2894.8,2080,1.392
+2023-12-31,Navy ,Advanced Arresting Gear,2016,DE,General Atomics,,Other Products,0,,,1994.1,3,664.7,2693.3,4,673.313,778.7,3,259.567,1292.5,4,323.114
+2023-12-31,Navy,ACV 1.1,2014,DE,BAE Systems,,Land Vehicles,0,,,1826.9,240,7.612,4550.8,633,7.189,1015.5,204,4.978,3395,588,5.774
+2023-12-31,Navy ,AIM-9X Block II,2011,DE,Raytheon,Alliant TechSystems (ATK),Ordnance and Missiles,2019,Northrop-Orbital ATK,sub-ATK,3967.3,6000,0.661,5509,11635,0.473,3798.5,6000,0.633,4672.2,11635,0.402
+2023-12-31,Navy,AMDR,2013,DE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,5735.7,22,260.714,6661.7,30,222.057,3846.9,22,174.859,4815.3,30,160.51
+2023-12-31,Navy,CEC,2002,PdE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,2443.4,183,13.352,5460.2,380,14.369,1262.8,174,7.257,2080.4,350,5.944
+2023-12-31,Navy,CH-53K,2006,PdE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,14980.9,156,96.031,29559.7,200,147.799,11018.9,152,72.493,21298.1,196,108.664
+2023-12-31,Navy,CVN 78 - CVN 78,2000,DE,Newport News,,Ships and Submarines,0,,,28701.2,3,9567.067,35408,4,8852,24825.9,3,8275.3,31213.4,4,7803.35
+2023-12-31,Navy,CVN 78 - EMALS,2000,DE,General Atomics,,Ships and Submarines,0,,,2263.4,3,754.467,2616.6,4,654.15,1593.4,3,531.133,1713.9,4,428.475
+2023-12-31,Navy,DDG 51,1987,PdE,General Dynamics,Northrop Grumman,Ships and Submarines,0,,,16723.8,23,727.122,87000.3,109,798.168,15745.3,23,684.578,82394.9,109,755.917
+2023-12-31,Navy,E-2D AHE,2009,PdE,Northrop Grumman,,Aircraft,0,,,17468.6,75,232.915,22673.7,86,263.648,13281.9,70,189.741,14257.5,81,176.019
+2023-12-31,Navy,EPF,2008,PdE,Austal,,Ships and Submarines,0,,,3460,18,192.222,3571.3,19,187.965,3337.8,18,185.433,3456.6,19,181.928
+2023-12-31,Navy,ESB,2011,PdE,General Dynamics,,Ships and Submarines,0,,,4528.9,8,566.112,4432,8,554.003,4416.9,8,552.112,4314.5,8,539.313
+2023-12-31,Navy,FFG-62,2020,DE,Fincantieri Marinette,,Ships and Submarines,0,,,20839.6,20,1041.98,19072.4,20,953.62,19003,20,950.15,17688.3,20,884.415
+2023-12-31,Navy,G/ATOR,2012,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,2987.3,57,52.409,3397.4,54,62.915,2103.1,57,36.896,2132.1,54,39.483
+2023-12-31,Navy,IDECM - Block 4,2008,PdE,L3Harris,BAE Systems,"Electronics, Comms, and Sensors",2020,L3-Harris,prime-Harris,660.7,160,4.129,1591.6,425,3.745,451.2,160,2.82,1178.6,425,2.773
+2023-12-31,Navy,IRST,2008,PdE,Boeing,Lockheed Martin,"Electronics, Comms, and Sensors",0,,,1914.6,179,10.696,2044.5,173,11.818,1150.6,170,6.768,1222.4,170,7.191
+2023-12-31,Navy,KC-130J,2010,PdE,Lockheed Martin,Rolls Royce,Aircraft,0,,,9233.9,104,88.788,9630.8,113,85.228,9198.3,104,88.445,9592.7,113,84.891
+2023-12-31,Navy,LCS Mission Modules,2010,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,6379.5,64,99.68,4692.8,40,117.32,4116.7,59,69.775,2293.1,35,65.517
+2023-12-31,Navy,LHA 6,2006,DE,Huntington Ingalls,,Ships and Submarines,0,,,2877.4,1,2877.4,12941.8,5,2588.36,2677.5,1,2677.5,12505.3,5,2501.06
+2023-12-31,Navy,LPD 17,1996,DE,Huntington Ingalls,,Ships and Submarines,0,,,12955.2,12,1079.6,27593.4,26,1061.283,12842.4,12,1070.2,27258.6,26,1048.407
+2023-12-31,Navy,MQ-25,2018,DE,Boeing,,Aircraft,0,,,12618.3,76,166.03,12701.2,76,167.121,8766.1,72,121.751,8912.2,67,133.018
+2023-12-31,Navy,MQ-4C UAS BAMS,2008,PdE,Northrop Grumman,,Aircraft,0,,,12224.5,70,174.636,9703.1,27,359.373,8871.2,65,136.48,4498,22,204.456
+2023-12-31,Navy ,NGJ Mid-Band,2016,DE,Raytheon,Boeing,"Electronics, Comms, and Sensors",0,,,7463.7,135,55.287,8119.5,135,60.145,4002.6,131,30.554,4197.5,129,32.539
+2023-12-31,Navy,NGJ Low-Band,2020,DE,L3Harris,Boeing,"Electronics, Comms, and Sensors",0,,,4116.4,135,30.492,3542.8,135,26.243,2070,135,15.333,1952.6,135,14.464
+2023-12-31,Navy,OASuW Inc 1 LRASM,2014,DE,Lockheed Martin,,Ordnance and Missiles,0,,,1467.3,124,11.833,6004.4,1612,3.725,292.3,110,2.657,4166.4,1589,2.622
+2023-12-31,Navy,SSC,2011,DE,Textron Systems,L3 Communications,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,4980,73,68.219,3354.4,71,47.245,4393.1,72,61.015
+2023-12-31,Navy,SM-6,2004,PdE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,4866.3,1200,4.055,8197.3,2478,3.308,3949.6,1200,3.291,7362.4,2478,2.971
+2023-12-31,Navy,SSBN 826,2017,DE,General Dynamics,Newport News,Ships and Submarines,0,,,100221.9,12,8351.825,99097.1,12,8258.092,87426.5,12,7285.542,85711.2,12,7142.6
+2023-12-31,Navy,SSN 774,1995,PdE,General Dynamics,,Ships and Submarines,0,,,45633.1,30,1521.103,101334,51,1986.941,42228.1,30,1407.603,93657,51,1836.412
+2023-12-31,Navy,T-AO 205 Class,2016,DE,General Dynamics,,Ships and Submarines,0,,,8543.5,17,502.559,12470.9,20,623.543,8475.9,17,498.582,12405.6,20,620.278
+2023-12-31,Air Force,APT,2018,DE,Boeing,,Aircraft,0,,,8075.4,351,23.007,7053.5,351,20.095,6669,346,19.275,5368.5,346,15.516
+2023-12-31,Air Force,B-52 CERP,2021,DE,Boeing,Rolls Royce,Aircraft,0,,,8959,76,117.882,9512.4,76,125.164,6757.4,74,91.316,5767,74,77.932
+2023-12-31,Air Force,B-52 RMP,2021,DE,Boeing,Raytheon,"Electronics, Comms, and Sensors",0,,,2042.1,76,26.87,2227.3,76,29.307,885,74,11.959,976.8,74,13.201
+2023-12-31,Air Force,EELV,2012,PdE,Boeing,Lockheed Martin,Space systems,0,,,61443.4,152,404.233,54566.4,247,220.917,59078.3,151,391.247,49508.6,246,201.254
+2023-12-31,Air Force,F-15 EPAWSS,2016,DE,Boeing,BAE Systems,"Electronics, Comms, and Sensors",0,,,4251.5,413,10.294,2878.8,200,14.394,3375,413,8.172,1841.6,195,9.444
+2023-12-31,Air Force,GPS IIIF,2018,DE,Lockheed Martin,,Space Systems,0,,,9273.8,22,421.536,8454.2,22,384.28,6113,20,305.65,5563.8,20,278.192
+2023-12-31,Air Force,HH-60W,2019,PdE,Sikorsky,,Aircraft,0,,,8090.9,112,72.24,6790.9,96,70.739,6108.4,103,59.305,4872.4,85,57.322
+2023-12-31,Air Force,ICBM Fuze Mod,2014,PdE,Lockheed Martin,,Ordnance and Missiles,0,,,1814.8,781,2.324,2026,743,2.727,663.5,693,0.957,734.7,655,1.122
+2023-12-31,Air Force,JASSM-ER,2010,PdE,Lockheed Martin,,Ordnance and Missiles,0,,,3631.6,2531,1.435,15259.8,12872,1.186,3366.1,2500,1.346,14233.8,12822,1.11
+2023-12-31,Air Force,KC-46A,2011,PdE,Boeing,Pratt & Whitney,Aircraft,2013,UTC-Goodrich,sub-UTC,43518.2,179,243.118,32511.6,183,177.659,33040.3,175,188.802,25346.6,179,141.601
+2023-12-31,Air Force,LGM-35A,2020,DE,Northrop Grumman,,Ordnance and Missiles,0,,,77740.7,659,117.968,106426.9,659,161.498,47858.4,634,75.486,57665.4,634,90.955
+2023-12-31,Air Force,MH-139A,2018,PdE,Boeing,,Aircraft,0,,,3308.8,84,39.39,2052.7,42,48.874,2422.5,80,30.281,1206.8,36,33.523
+2023-12-31,Air Force,SDB II,2010,PdE,Raytheon,,Ordnance and Missiles,2021,Raytheon-UTC,prime-Raytheon,4577.5,17163,0.267,6451.4,26773,0.241,2976.3,17000,0.175,4529.3,26610,0.17
+2023-12-31,Air Force,VC-25B,2018,PdE,Boeing,,Aircraft,0,,,5014,2,2507,5130.9,2,2565.466,51,0,,20.2,0,
+2023-12-31,Air Force,WSF,2019,DE,Ball Aerospace,,Space Systems,0,,,982.7,2,491.35,930.3,2,465.161,0,0,,0,0,
+2023-12-31,DoD,F-35 - Aircraft,2012,DE,Lockheed Martin,Northrop Grumman,Aircraft,0,,,276482.2,2458,112.483,291770.4,2470,118.126,224333.7,2443,91.827,221345.2,2456,90.124
+2023-12-31,DoD,F-35 - Engine,2012,DE,Pratt & Whitney,Hamilton Sundstrand,Aircraft,2013,UTC-Goodrich,prime-UTC,53916.4,2458,21.935,60957,2470,24.679,42332.9,2443,17.328,44940.1,2456,18.298
+2023-12-31,DoD,JTRS HMS,2004,PdE,Harris Corporation,Rockwell Collins,"Electronics, Comms, and Sensors",2019,UTC-Rockwell Collins,sub-Rockwell,8569,329574,0.026,8019.5,255995,0.031,8104,328514,0.025,6905.1,255162,0.027
+2023-12-31,DoD,MIDS,2003,PdE,BAE Systems,Rockwell Collins,"Electronics, Comms, and Sensors",2019,UTC-Rockwell Collins,sub-Rockwell,1091.4,672,1.624,4962.1,12034,0.412,523.7,630,0.831,2577.4,10963,0.235

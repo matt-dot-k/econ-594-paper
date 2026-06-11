@@ -4,7 +4,7 @@ This appendix provides more detail on how the dataset used in this thesis was co
 
 ## Data Sources
 
-The figures in this dataset were constructed from tables of unit cost estimates published in the annual SAR for each MDAP active in the reporting period. These figures were cross-referenced with the SAR Summary Tables published by the DoD to resolve discrepancies and obtain the baseline type for each program during its reporting period. Unless otherwise stated, all observations in this dataset are from the individual SARs.
+The figures in this dataset were constructed from tables of unit cost estimates published in the annual Selected Acquisition Report (SAR) for each MDAP active in the reporting period. These figures were cross-referenced with the SAR Summary Tables published by the DoD to resolve discrepancies and obtain the baseline type for each program during its reporting period. Unless otherwise stated, all observations in this dataset are from the individual SARs.
 
 ## Variables
 

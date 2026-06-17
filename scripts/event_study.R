@@ -2,31 +2,31 @@ library(fixest)
 library(didimputation)
 library(ggthemes)
 
-source("data_clean.R")
+source("tidy_sar_panel.R")
 
-outcomes <- c("pauc_diff_baseline", "apuc_diff_baseline", "pauc_diff_yoy", "apuc_diff_yoy")
+outcomes <- c("current_pauc_log", "pauc_growth", "current_apuc_log", "apuc_growth")
 
 # Run baseline BJS event study
-es_baseline <- lapply(setNames(outcomes, outcomes), \(y)
+es_baseline <- lapply(setNames(outcomes, outcomes), \(y) {
     did_imputation(
         data = sar_panel,
         yname = y,
         gname = "cohort",
         tname = "report_date",
         idname = "program",
-        horizon = 1:6,
-        pretrends = TRUE,
+        horizon = 1:10,
+        pretrends = -6:-1,
         cluster_var = "program",
-        wname = "cohort_size"
+        first_stage = ~ milestone_c + duration
     )
-)
+})
 
 # Baseline event study estimates
 outcome_labels <- c(
-    pauc_diff_baseline = "Program Acquisition Unit Cost: Change from Baseline",
-    apuc_diff_baseline = "Average Procurement Unit Cost: Change from Baseline",
-    pauc_diff_yoy = "Program Acquisition Unit Cost: Year-over-Year Change",
-    apuc_diff_yoy = "Average Procurement Acquisition Cost: Year-over-Year Change"
+    current_pauc_log = "Event Study: Program Acquisition Unit Cost (Logged)",
+    pauc_growth = "Program Acquisition Unit Cost: Change from Baseline",
+    current_apuc_log = "Event Study: Average Procurement Unit Cost (Logged)",
+    apuc_growth = "Average Procurement Unit Cost: Change from Baseline"
 )
 
 plot_data <- bind_rows(es_baseline, .id = "outcome") |>
@@ -36,8 +36,7 @@ plot_data <- bind_rows(es_baseline, .id = "outcome") |>
             -as.numeric(str_extract(term, "\\d+")),
             as.numeric(term)
         ),
-        pre_period = term < 0
-    )
+        pre_period = term < 0)
 
 event_plots <- lapply(setNames(outcomes, outcomes), \(y) {
     plot_data |>
@@ -53,10 +52,13 @@ event_plots <- lapply(setNames(outcomes, outcomes), \(y) {
             xintercept = 0, linetype = "dashed", color = "grey60"
     ) +
         geom_point(
-            size = 3.0
+            size = 1.5
+    ) +
+        geom_line(
+            linewidth = 0.75
     ) +
         geom_errorbar(
-            aes(ymin = conf.low, ymax = conf.high), width = 0.25, linewidth = 1.0
+            aes(ymin = conf.low, ymax = conf.high), width = 0.25, linewidth = 0.75
     ) +
         scale_x_continuous(
             breaks = \(x) seq(floor(min(x)), ceiling(max(x)))
@@ -65,16 +67,15 @@ event_plots <- lapply(setNames(outcomes, outcomes), \(y) {
             values = c("TRUE" = "#ff7741", "FALSE" = "#3eb489"),
             guide  = "none"
     ) +
-        coord_cartesian(xlim = c(-6, 6)) +
+        coord_cartesian(xlim = c(-6, 10)) +
         labs(
             title = outcome_labels[[y]],
-            x = "Event time (years relative to merger)",
-            y = "Estimated effect",
-            caption = "95% CIs. Red = pre-treatment, blue = post-treatment."
+            x = "Years relative to merger",
+            y = "Estimated effect"
     ) +
         theme(
-            plot.title = element_text(size = 20, face = "bold"),
-            axis.title = element_text(size = 18, face = "bold"),
-            axis.text = element_text(size = 16, face = "bold")
+            plot.title = element_text(size = 10, face = "bold"),
+            axis.title = element_text(size = 8, face = "bold"),
+            axis.text = element_text(size = 8, face = "bold")
     )
 })

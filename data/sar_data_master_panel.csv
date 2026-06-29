@@ -67,7 +67,7 @@ report_date,service,program,base_year,baseline_type,prime_contractor,secondary_c
 2010-12-31,Air Force,JDAM,1995,PdE,Boeing,,Ordnance and Missiles,0,,,2720.4,88126,0.031,4965.4,223874,0.022,2090.6,87496,0.024,4396.5,223070,0.02
 2010-12-31,Air Force,JPATS,2002,PdE,Hawker Beechcraft,,Aircraft,0,,,4918.6,768,6.404,4743.1,748,6.341,4512.4,767,5.883,4337.3,747,5.806
 2010-12-31,Air Force,MP-RTIP,2000,DE,Northrop Grumman,,"Electronics, Comms, and Sensors",0,,,1449.3,0,,1151.3,0,,0,0,,0,0,
-2010-12-31,Air Force,MQ-9 UAS Reaper,2008,PdE,General Atomics,,Aircraft,0,,,,,,11315.3,399,28.359,,,,10306.7,396,26.027
+2010-12-31,Air Force,MQ-9 UAS Reaper,2008,PdE,General Atomics,,Aircraft,0,,,11541.3,404,28.568,11315.3,399,28.359,10402.1,401,25.94,10306.7,396,26.027
 2010-12-31,Air Force,NAS,2005,PdE,Raytheon,,"Electronics, Comms, and Sensors",0,,,762.1,53,14.379,1454.9,92,15.814,629.7,53,11.881,1319.8,92,14.346
 2010-12-31,Air Force,NAVSTAR GPS - Space & Control,2000,PdE,Boeing,,Space Systems,0,,,5105.6,33,151.988,6133.5,33,185.864,3239.4,33,98.164,3988.5,33,120.864
 2010-12-31,Air Force,NAVSTAR GPS - User Equipment,2000,PdE,Boeing,,Space Systems,0,,,797.8,0,,1216.6,0,,254.3,0,,0,0,
@@ -97,7 +97,7 @@ report_date,service,program,base_year,baseline_type,prime_contractor,secondary_c
 2011-12-31,Army,Patriot PAC-3,2002,PdE,Lockheed Martin,Raytheon,Air and Missile Defense,0,,,7084,1012,7,10205.6,1294,7.887,4156.4,1012,4.107,6775.4,1294,5.236
 2011-12-31,Army,Patriot MEADS CAP - Fire Unit,2004,DE,Lockheed Martin,MBDA,Air and Missile Defense,0,,,16530.5,48,344.385,2758.8,0,,11999.1,48,249.981,0,0,
 2011-12-31,Army,PAC-3 MSE,2004,DE,Lockheed Martin,Boeing,Air and Missile Defense,0,,,6220.9,1528,4.071,6869.6,1528,4.496,5760,1528,3.77,6165.7,1528,4.035
-2011-12-31,Army,PIM,2011,DE,BAE Systems,,"Electronics, Comms, and Sensors",0,,,,,,6630.2,582,11.392,,,,5629.7,580,9.706
+2011-12-31,Army,PIM,2011,DE,BAE Systems,,"Electronics, Comms, and Sensors",0,,,6630.2,582,11.392,6630.2,582,11.392,5629.7,580,9.706,5629.7,580,9.706
 2011-12-31,Army,Stryker,2004,PdE,General Dynamics,,Land Vehicles,0,,,6824.8,2131,3.203,14744.7,4536,3.251,6037.6,2128,2.837,13295.7,4507,2.95
 2011-12-31,Army,TWS,1998,PdE,Raytheon,,"Electronics, Comms, and Sensors",0,,,2467.7,237788,0.01,2456,237788,0.01,2395.5,237788,0.01,2382.9,237788,0.01
 2011-12-31,Army,UH-60M Black Hawk,2005,PdE,Sikorsky,,Aircraft,2016,Lockheed-Sikorsky,prime-Sikorsky,16801.7,1235,13.605,22859.2,1375,16.625,16084.2,1227,13.109,22097.9,1367,16.165
@@ -222,7 +222,7 @@ report_date,service,program,base_year,baseline_type,prime_contractor,secondary_c
 2012-12-31,Navy,NMT,2002,PdE,Raytheon,,"Electronics, Comms, and Sensors",0,,,1923.4,333,5.776,1525.8,278,5.488,1345.6,305,4.412,968,250,3.872
 2012-12-31,Navy,P-8A,2010,PdE,Boeing,CFM International,Aircraft,0,,,30271.9,115,263.234,31784.8,122,260.531,22791.2,108,211.03,23255.7,117,198.767
 2012-12-31,Navy,RMS,2006,DE,Lockheed Martin,,Other Products,0,,,1279.6,54,23.696,1258.6,54,23.307,630,52,12.115,613.5,52,11.798
-2012-12-31,Navy,SSC,2011,DE,Textron Systems,L-3 Communications,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,3827.1,73,52.426,3354.4,71,47.245,3269.7,21,46.052
+2012-12-31,Navy,SSC,2011,DE,Textron Systems,L3 Technologies,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,3827.1,73,52.426,3354.4,71,47.245,3269.7,21,46.052
 2012-12-31,Navy,SM-6,2004,PdE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,4866.3,1200,4.055,7259.1,1800,4.033,3949.6,1200,3.291,6424.6,1800,3.569
 2012-12-31,Navy,SSN 774,1995,PdE,General Dynamics,,Ships and Submarines,0,,,45633.1,30,1521.103,60538.3,30,2017.943,42228.1,30,1407.603,54856.5,30,1828.55
 2012-12-31,Navy,Tactical Tomahawk,1999,PdE,Raytheon,,Ordnance and Missiles,0,,,1683.7,1365,1.233,5636.5,4961,1.136,1158.4,1353,0.856,5071.4,4951,1.024
@@ -309,7 +309,7 @@ report_date,service,program,base_year,baseline_type,prime_contractor,secondary_c
 2013-12-31,Navy,NMT,2002,PdE,Raytheon,,"Electronics, Comms, and Sensors",0,,,1923.4,333,5.776,1541.2,278,5.544,1345.6,305,4.412,976.3,250,3.905
 2013-12-31,Navy,P-8A,2010,PdE,Boeing,CFM International,Aircraft,0,,,30271.9,115,263.234,30330.3,114,266.055,22791.2,108,211.03,21785.6,109,199.868
 2013-12-31,Navy,RMS,2006,DE,Lockheed Martin,,Other Products,0,,,1279.6,54,23.696,1298.3,54,24.043,630,52,12.115,652.9,52,12.556
-2013-12-31,Navy,SSC,2011,DE,Textron Systems,L-3 Communications,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,3801.1,73,52.07,3354.4,71,47.245,3253.9,71,45.83
+2013-12-31,Navy,SSC,2011,DE,Textron Systems,L3 Technologies,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,3801.1,73,52.07,3354.4,71,47.245,3253.9,71,45.83
 2013-12-31,Navy,SM-6,2004,PdE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,4866.3,1200,4.055,7420.5,1800,4.122,3949.6,1200,3.291,6585.8,1800,3.659
 2013-12-31,Navy,SSN 774,1995,PdE,General Dynamics,,Ships and Submarines,0,,,45633.1,30,1521.103,60813.2,30,2027.107,42228.1,30,1407.603,55151,30,1838.367
 2013-12-31,Navy,Tactical Tomahawk,1999,PdE,Raytheon,,Ordnance and Missiles,0,,,1683.7,1365,1.233,4395.7,3800,1.157,1158.4,1353,0.856,3787,3790,0.999
@@ -390,7 +390,7 @@ report_date,service,program,base_year,baseline_type,prime_contractor,secondary_c
 2014-12-31,Navy,NMT,2002,PdE,Raytheon,,"Electronics, Comms, and Sensors",0,,,1923.4,333,5.776,1646.8,278,5.924,1345.6,305,4.412,977.6,250,3.91
 2014-12-31,Navy,P-8A,2010,PdE,Boeing,CFM International,Aircraft,0,,,30271.9,115,263.234,30188.3,114,264.81,22791.2,108,211.03,21660.4,109,198.719
 2014-12-31,Navy,RMS,2006,DE,Lockheed Martin,,Other Products,0,,,1279.6,54,23.696,1327.7,54,24.587,630,52,12.115,666.9,52,12.825
-2014-12-31,Navy,SSC,2011,DE,Textron Systems,L-3 Communications,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,3782.1,73,51.81,3354.4,71,47.245,3277.3,72,45.518
+2014-12-31,Navy,SSC,2011,DE,Textron Systems,L3 Technologies,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,3782.1,73,51.81,3354.4,71,47.245,3277.3,72,45.518
 2014-12-31,Navy,SM-6,2004,PdE,Raytheon,,Air and Missile Defense,2021,,,4866.3,1200,4.055,7131.9,1800,3.962,3949.6,1200,3.291,6297.2,1800,3.498
 2014-12-31,Navy,SSN 774,1995,PdE,General Dynamics,,Ships and Submarines,0,,,45633.1,30,1521.103,64128.9,32,2004.028,42228.1,30,1407.603,58553.1,32,1829.784
 2014-12-31,Navy,Tactical Tomahawk,1999,PdE,Raytheon,,Ordnance and Missiles,0,,,1683.7,1365,1.233,4638.7,4068,1.14,1158.4,1353,0.856,4021.5,4058,0.991
@@ -475,7 +475,7 @@ report_date,service,program,base_year,baseline_type,prime_contractor,secondary_c
 2015-12-31,Navy,NMT,2002,PdE,Raytheon,,"Electronics, Comms, and Sensors",0,,,1923.4,333,5.776,1767.6,278,6.358,1345.6,305,4.412,1039.5,250,4.158
 2015-12-31,Navy,P-8A,2010,PdE,Boeing,CFM International,Aircraft,0,,,30271.9,115,263.234,30046,114,263.561,22791.2,108,211.03,21508.5,109,197.326
 2015-12-31,Navy,RMS,2006,DE,Lockheed Martin,,Other Products,0,,,1279.6,54,23.696,739.1,10,73.91,630,52,12.115,121.1,8,15.138
-2015-12-31,Navy,SSC,2011,DE,Textron Systems,L-3 Communications,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,3662.2,73,50.167,3354.4,71,47.245,3153.3,72,43.796
+2015-12-31,Navy,SSC,2011,DE,Textron Systems,L3 Technologies,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,3662.2,73,50.167,3354.4,71,47.245,3153.3,72,43.796
 2015-12-31,Navy,SM-6,2004,PdE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,4866.3,1200,4.055,7236.4,1800,4.02,3949.6,1200,3.291,6401.7,1800,3.556
 2015-12-31,Navy,SSN 774,1995,PdE,General Dynamics,,Ships and Submarines,0,,,45633.1,30,1521.103,66527.3,33,2015.979,42228.1,30,1407.603,60925.2,33,1846.218
 2015-12-31,Navy,Tactical Tomahawk,1999,PdE,Raytheon,,Ordnance and Missiles,0,,,1683.7,1365,1.233,5124.8,4225,1.213,1158.4,1353,0.856,4501.1,4215,1.068
@@ -564,7 +564,7 @@ report_date,service,program,base_year,baseline_type,prime_contractor,secondary_c
 2016-12-31,Navy,NMT,2002,PdE,Raytheon,,"Electronics, Comms, and Sensors",0,,,1923.4,333,5.776,1827.2,278,6.573,1345.6,305,4.412,1097.2,250,4.389
 2016-12-31,Navy,OASuW Inc 1 LRASM,2014,DE,Lockheed Martin,,Ordnance and Missiles,0,,,1467.3,124,11.833,1537,147,10.456,292.3,110,2.657,362.3,135,2.684
 2016-12-31,Navy,P-8A,2010,PdE,Boeing,CFM International,Aircraft,0,,,30271.9,115,263.234,30836,116,265.828,22791.2,108,211.03,21345.2,111,192.299
-2016-12-31,Navy,SSC,2011,DE,Textron Systems,L-3 Communications,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,4148.7,73,56.832,3354.4,71,47.245,3626.3,72,50.365
+2016-12-31,Navy,SSC,2011,DE,Textron Systems,L3 Technologies,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,4148.7,73,56.832,3354.4,71,47.245,3626.3,72,50.365
 2016-12-31,Navy,SM-6,2004,PdE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,4866.3,1200,4.055,7465.1,1800,4.147,3949.6,1200,3.291,6630.4,1800,3.684
 2016-12-31,Navy,SSBN 826,2017,DE,General Dynamics,Newport News,Ships and Submarines,0,,,100221.9,12,8351.825,99292.5,12,8274.375,87426.5,12,7285.542,86482.5,12,7206.875
 2016-12-31,Navy,SSN 774,1995,PdE,General Dynamics,,Ships and Submarines,0,,,45633.1,30,1521.103,93543.2,48,1948.817,42228.1,30,1407.603,86917.5,48,1810.781
@@ -595,7 +595,7 @@ report_date,service,program,base_year,baseline_type,prime_contractor,secondary_c
 2016-12-31,Air Force,JASSM - ER,2010,PdE,Lockheed Martin,,Ordnance and Missiles,0,,,3631.6,2531,1.435,3837.6,2897,1.325,3366.1,2500,1.346,3377.4,2866,1.178
 2016-12-31,Air Force,JDAM,1995,PdE,Boeing,,Ordnance and Missiles,0,,,2720.4,88126,0.031,7731.1,396336,0.02,2090.6,87496,0.024,7135.8,395532,0.018
 2016-12-31,Air Force,KC-46A,2016,PdE,Boeing,Pratt & Whitney,Aircraft,2013,UTC-Goodrich,sub-UTC,43518.2,179,243.118,36960.1,179,206.481,33040.3,175,188.802,28871.5,175,164.98
-2016-12-31,Air Force,MGUE Inc 1,2017,DE,L-3 Communications,,"Electronics, Comms, and Sensors",2020,L3-Harris,prime-L3,1505.7,0,,1155.7,0,,0,0,,0,0,
+2016-12-31,Air Force,MGUE Inc 1,2017,DE,L3 Technologies,,"Electronics, Comms, and Sensors",2020,L3-Harris,prime-L3,1505.7,0,,1155.7,0,,0,0,,0,0,
 2016-12-31,Air Force,MQ-9 UAS Reaper,2008,PdE,General Atomics,,Aircraft,0,,,11541.3,404,28.568,11216.9,366,30.647,10402.1,401,25.94,9778.4,363,26.938
 2016-12-31,Air Force,SBIRS HIGH - Block Buy,1995,PdE,Lockheed Martin,,Space Systems,0,,,2681.6,2,1340.8,2363.7,2,1181.85,2681.6,2,1340.8,2363.7,2,1181.85
 2016-12-31,Air Force,SDB II,2010,PdE,Raytheon,,Ordnance and Missiles,2021,Raytheon-UTC,prime-Raytheon,4577.5,17163,0.267,3862.9,17163,0.225,2976.3,17000,0.175,2209.3,17000,0.13
@@ -654,7 +654,7 @@ report_date,service,program,base_year,baseline_type,prime_contractor,secondary_c
 2017-12-31,Navy,NMT,2002,PdE,Raytheon,,"Electronics, Comms, and Sensors",0,,,1923.4,333,5.776,1845.3,267,6.911,1345.6,305,4.412,1094.6,239,4.58
 2017-12-31,Navy,OASuW Inc 1 LRASM,2014,DE,Lockheed Martin,,Ordnance and Missiles,0,,,1467.3,124,11.833,1753.4,174,10.077,292.3,110,2.657,468.6,161,2.911
 2017-12-31,Navy,P-8A,2010,PdE,Boeing,CFM International,Aircraft,0,,,30271.9,115,263.234,31815,122,260.779,22791.2,108,211.03,22202.9,117,189.768
-2017-12-31,Navy,SSC,2011,DE,Textron Systems,L-3 Communications,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,4214.7,73,57.736,3354.4,71,47.245,3688.5,72,51.229
+2017-12-31,Navy,SSC,2011,DE,Textron Systems,L3 Technologies,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,4214.7,73,57.736,3354.4,71,47.245,3688.5,72,51.229
 2017-12-31,Navy,SM-6,2004,PdE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,4866.3,1200,4.055,6564.3,1800,3.647,3949.6,1200,3.291,5729.6,1800,3.183
 2017-12-31,Navy,SSBN 826,2017,DE,General Dynamics,Newport News,Ships and Submarines,0,,,100221.9,12,8351.825,99842.2,12,8320.183,87426.5,12,7285.542,87018.7,12,7251.558
 2017-12-31,Navy,SSN 774,1995,PdE,General Dynamics,,Ships and Submarines,0,,,45633.1,30,1521.103,94258.3,48,1963.715,42228.1,30,1407.603,87301.3,48,1818.777
@@ -682,7 +682,7 @@ report_date,service,program,base_year,baseline_type,prime_contractor,secondary_c
 2017-12-31,Air Force,JASSM - ER,2010,PdE,Lockheed Martin,,Ordnance and Missiles,0,,,3631.6,2531,1.435,3926.4,2897,1.355,3366.1,2500,1.346,3459.3,2866,1.207
 2017-12-31,Air Force,JDAM,1995,PdE,Boeing,,Ordnance and Missiles,0,,,2720.4,88126,0.031,8513.7,431026,0.02,2090.6,87496,0.024,7918.6,430222,0.018
 2017-12-31,Air Force,KC-46A,2011,PdE,Boeing,Pratt & Whitney,Aircraft,2013,UTC-Goodrich,sub-UTC,43518.2,179,243.118,36557.8,179,204.234,33040.3,175,188.802,28485.8,175,162.776
-2017-12-31,Air Force,MGUE Inc 1,2017,DE,L-3 Communications,,"Electronics, Comms, and Sensors",2020,L3-Harris,prime-L3,1505.7,0,,1413.6,0,,0,0,,0,0,
+2017-12-31,Air Force,MGUE Inc 1,2017,DE,L3 Technologies,,"Electronics, Comms, and Sensors",2020,L3-Harris,prime-L3,1505.7,0,,1413.6,0,,0,0,,0,0,
 2017-12-31,Air Force,MQ-9 UAS Reaper,2008,PdE,General Atomics,,Aircraft,0,,,11541.3,404,28.568,11506.3,436,26.391,10402.1,401,25.94,10045,433,23.199
 2017-12-31,Air Force,SBIRS HIGH - Block Buy,1995,PdE,Lockheed Martin,,Space Systems,0,,,2681.6,2,1340.8,2364.5,2,1182.25,2681.6,2,1340.8,2364.5,2,1182.25
 2017-12-31,Air Force,SDB II,2010,PdE,Raytheon,,Ordnance and Missiles,2021,Raytheon-UTC,prime-Raytheon,4577.5,17163,0.267,3928.7,17163,0.229,2976.3,17000,0.175,2247,17000,0.132
@@ -738,7 +738,7 @@ report_date,service,program,base_year,baseline_type,prime_contractor,secondary_c
 2018-12-31,Navy ,NGJ Mid-Band,2016,DE,Raytheon,Boeing,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,7463.7,135,55.287,7725.9,135,57.229,4002.6,131,30.554,3925.6,128,30.669
 2018-12-31,Navy,OASuW Inc 1 LRASM,2014,DE,Lockheed Martin,,Ordnance and Missiles,0,,,1467.3,124,11.833,2371.4,390,6.081,292.3,110,2.657,1022,374,2.733
 2018-12-31,Navy,P-8A,2010,PdE,Boeing,CFM International,Aircraft,0,,,30271.9,115,263.234,31804.9,122,260.696,22791.2,108,211.03,22136,117,189.197
-2018-12-31,Navy,SSC,2011,DE,Textron Systems,L-3 Communications,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,4165.3,73,57.059,3354.4,71,47.245,3625.5,72,50.354
+2018-12-31,Navy,SSC,2011,DE,Textron Systems,L3 Technologies,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,4165.3,73,57.059,3354.4,71,47.245,3625.5,72,50.354
 2018-12-31,Navy,SM-6,2004,PdE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,4866.3,1200,4.055,8259.4,2331,3.543,3949.6,1200,3.291,7424.7,2331,3.185
 2018-12-31,Navy,SSBN 826,2017,DE,General Dynamics,Newport News,Ships and Submarines,0,,,100221.9,12,8351.825,98919.7,12,8243.308,87426.5,12,7285.542,86117,12,7176.417
 2018-12-31,Navy,SSN 774,1995,PdE,General Dynamics,,Ships and Submarines,0,,,45633.1,30,1521.103,92877.7,48,1934.952,42228.1,30,1407.603,86163.5,48,1795.073
@@ -766,7 +766,7 @@ report_date,service,program,base_year,baseline_type,prime_contractor,secondary_c
 2018-12-31,Air Force,JASSM - ER,2010,PdE,Lockheed Martin,,Ordnance and Missiles,0,,,3631.6,2531,1.435,8304.8,7231,1.148,3366.1,2500,1.346,7761.5,7200,1.078
 2018-12-31,Air Force,JDAM,1995,PdE,Boeing,,Ordnance and Missiles,0,,,2720.4,88126,0.031,9211.5,470656,0.02,2090.6,87496,0.024,8625.8,469852,0.018
 2018-12-31,Air Force,KC-46A,2011,PdE,Boeing,Pratt & Whitney,Aircraft,2013,UTC-Goodrich,sub-UTC,43518.2,179,243.118,35909.3,179,200.61,33040.3,175,188.802,27892.3,175,159.384
-2018-12-31,Air Force,MGUE Inc 1,2017,DE,L-3 Communications,,"Electronics, Comms, and Sensors",2020,L3-Harris,prime-L3,1505.7,0,,1419.5,0,,0,0,,0,0,
+2018-12-31,Air Force,MGUE Inc 1,2017,DE,L3 Technologies,,"Electronics, Comms, and Sensors",2020,L3-Harris,prime-L3,1505.7,0,,1419.5,0,,0,0,,0,0,
 2018-12-31,Air Force,MQ-9 UAS Reaper,2008,PdE,General Atomics,,Aircraft,0,,,11541.3,404,28.568,11055.7,433,25.533,10402.1,401,25.94,9571.2,430,22.259
 2018-12-31,Air Force,SBIRS HIGH - Block Buy,1995,PdE,Lockheed Martin,,Space Systems,0,,,2681.6,2,1340.8,2263.5,2,1131.75,2681.6,2,1340.8,2263.5,2,1131.75
 2018-12-31,Air Force,SDB II,2010,PdE,Raytheon,,Ordnance and Missiles,2021,Raytheon-UTC,prime-Raytheon,4577.5,17163,0.267,3923.2,17163,0.229,2976.3,17000,0.175,2249.4,17000,0.132
@@ -824,7 +824,7 @@ report_date,service,program,base_year,baseline_type,prime_contractor,secondary_c
 2019-12-31,Navy ,NGJ Mid-Band,2016,DE,Raytheon,Boeing,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,7463.7,135,55.287,7579.3,135,56.143,4002.6,131,30.554,3839.4,128,29.995
 2019-12-31,Navy,OASuW Inc 1 LRASM,2014,DE,Lockheed Martin,,Ordnance and Missiles,0,,,1467.3,124,11.833,2869.7,504,5.694,292.3,110,2.657,1475,488,3.023
 2019-12-31,Navy,P-8A,2010,PdE,Boeing,CFM International,Aircraft,0,,,30271.9,115,263.234,32211.7,125,257.694,22791.2,108,211.03,22460.8,120,187.173
-2019-12-31,Navy,SSC,2011,DE,Textron Systems,L-3 Communications,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,4225.5,73,57.884,3354.4,71,47.245,3673.3,72,51.018
+2019-12-31,Navy,SSC,2011,DE,Textron Systems,L3 Technologies,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,4225.5,73,57.884,3354.4,71,47.245,3673.3,72,51.018
 2019-12-31,Navy,SM-6,2004,PdE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,4866.3,1200,4.055,8007.6,2311,3.465,3949.6,1200,3.291,7172.9,2311,3.104
 2019-12-31,Navy,SSBN 826,2017,DE,General Dynamics,Newport News,Ships and Submarines,0,,,100221.9,12,8351.825,99483.7,12,8920.308,87426.5,12,7285.542,86684,12,7223.667
 2019-12-31,Navy,SSN 774,1995,PdE,General Dynamics,,Ships and Submarines,0,,,45633.1,30,1521.103,94357.3,48,1965.777,42228.1,30,1407.603,87252.6,48,1817.762
@@ -843,8 +843,8 @@ report_date,service,program,base_year,baseline_type,prime_contractor,secondary_c
 2019-12-31,Air Force,EPS,2014,DE,Northrop Grumman,,Space Systems,0,,,1389.1,2,694.55,2488.8,4,622.2,0,0,,0,0,
 2019-12-31,Air Force,F-15 EPAWSS,2016,DE,Boeing,BAE Systems,"Electronics, Comms, and Sensors",0,,,4251.5,413,10.294,4421.4,363,12.18,3375,413,8.172,3175.9,361,8.798
 2019-12-31,Air Force,F-22 Inc 3.2B Mod,2016,PdE,Lockheed Martin,,Aircraft,0,,,1537.6,152,10.116,1379.8,152,9.078,338.2,143,2.365,251.2,143,1.756
-2019-12-31,Air Force,FAB-T - CPT,2015,PdE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,,,,,,,,,,,,
-2019-12-31,Air Force,FAB-T - FET,2015,PdE,Raytheon,,"Electronics, Comms, and Sensors",0,,,,,,,,,,,,,,
+2019-12-31,Air Force,FAB-T - CPT,2015,PdE,Raytheon,,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,1639.1,95,17.254,,,,939.8,84,11.188,,,
+2019-12-31,Air Force,FAB-T - FET,2015,PdE,Raytheon,,"Electronics, Comms, and Sensors",0,,,2144.8,127,16.888,,,,1204,113,10.655,,,
 2019-12-31,Air Force,GPS IIIA,2010,PdE,Lockheed Martin,,Space Systems,0,,,3840.8,8,480.1,4915.7,10,491.57,1381,6,230.167,1936.5,8,242.062
 2019-12-31,Air Force,GPS IIIF,2018,DE,Lockheed Martin,,Space Systems,0,,,9273.8,22,421.536,9131.3,22,415.059,6113,20,305.65,6048.6,20,302.43
 2019-12-31,Air Force,GPS OCX,2012,DE,Raytheon,,Space Systems,2021,Raytheon-UTC,prime-Raytheon,3347.2,1,3347.2,5805,1,5805,0,0,,0,0,
@@ -852,7 +852,7 @@ report_date,service,program,base_year,baseline_type,prime_contractor,secondary_c
 2019-12-31,Air Force,ICBM Fuze Mod,2014,DE,Lockheed Martin,,Ordnance and Missiles,0,,,1814.8,781,2.324,1933.9,781,2.476,663.5,693,0.957,725.5,693,1.047
 2019-12-31,Air Force,JASSM - ER,2010,PdE,Lockheed Martin,,Ordnance and Missiles,0,,,3631.6,2531,1.435,8470.7,7231,1.171,3366.1,2500,1.346,7813.4,7200,1.085
 2019-12-31,Air Force,KC-46A,2011,PdE,Boeing,Pratt & Whitney,Aircraft,2013,UTC-Goodrich,sub-UTC,43518.2,179,243.118,36144.6,179,201.925,33040.3,175,188.802,27992.9,175,159.959
-2019-12-31,Air Force,MGUE Inc 1,2017,DE,L-3 Communications,,"Electronics, Comms, and Sensors",2020,L3-Harris,prime-L3,1505.7,0,,1376.5,0,,0,0,,0,0,
+2019-12-31,Air Force,MGUE Inc 1,2017,DE,L3 Technologies,,"Electronics, Comms, and Sensors",2020,L3-Harris,prime-L3,1505.7,0,,1376.5,0,,0,0,,0,0,
 2019-12-31,Air Force,MQ-9 UAS Reaper,2008,PdE,General Atomics,,Aircraft,0,,,11541.3,404,28.568,9982.7,414,24.113,10402.1,401,25.94,8530.3,411,20.755
 2019-12-31,Air Force,SBIRS HIGH - Block Buy,1995,PdE,Lockheed Martin,,Space Systems,0,,,2681.6,2,1340.8,2228.3,2,1114.15,2681.6,2,1340.8,2228.3,2,1114.15
 2019-12-31,Air Force,SDB II,2010,PdE,Raytheon,,Ordnance and Missiles,2021,Raytheon-UTC,prime-Raytheon,4577.5,17163,0.267,4635.4,17163,0.27,2976.3,17000,0.175,2804.6,17000,0.165
@@ -909,7 +909,7 @@ report_date,service,program,base_year,baseline_type,prime_contractor,secondary_c
 2020-12-31,Navy,NGJ Low-Band,2020,DE,L3Harris,Boeing,"Electronics, Comms, and Sensors",0,,,4116.4,135,30.492,4116.4,135,30.492,2070,135,15.333,2070,135,15.333
 2020-12-31,Navy,OASuW Inc 1 LRASM,2014,DE,Lockheed Martin,,Ordnance and Missiles,0,,,1467.3,124,11.833,,,,292.3,110,2.657,,,
 2020-12-31,Navy,P-8A,2010,PdE,Boeing,CFM International,Aircraft,0,,,30271.9,115,263.234,,,,22791.2,108,211.03,,,
-2020-12-31,Navy,SSC,2011,DE,Textron Systems,L3 Communications,Ships and Submarines,0,,,3925.6,73,53.775,,,,3354.4,72,47.245,,,
+2020-12-31,Navy,SSC,2011,DE,Textron Systems,L3 Technologies,Ships and Submarines,0,,,3925.6,73,53.775,,,,3354.4,72,47.245,,,
 2020-12-31,Navy,SM-6,2004,PdE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,4866.3,1200,4.055,,,,3949.6,1200,3.291,,,
 2020-12-31,Navy,SSBN 826,2017,DE,General Dynamics,Newport News,Ships and Submarines,0,,,100221.9,12,8351.825,,,,87426.5,12,7285.542,,,
 2020-12-31,Navy,SSN 774,1995,PdE,General Dynamics,,Ships and Submarines,0,,,45633.1,30,1521.103,,,,42228.1,30,1407.603,,,
@@ -929,7 +929,7 @@ report_date,service,program,base_year,baseline_type,prime_contractor,secondary_c
 2020-12-31,Air Force,JASSM - ER,2010,PdE,Lockheed Martin,,Ordnance and Missiles,0,,,3631.6,2531,1.435,,,,3366.1,2500,1.346,,,
 2020-12-31,Air Force,KC-46A,2011,PdE,Boeing,Pratt & Whitney,Aircraft,2013,UTC-Goodrich,sub-UTC,43518.2,179,243.118,,,,33040.3,175,188.802,,,
 2020-12-31,Air Force,LGM-35,2020,DE,Northrop Grumman,,Ordnance and Missiles,0,,,77740.7,659,117.968,77740.7,659,117.968,47858.4,634,75.486,47858.4,634,75.486
-2020-12-31,Air Force,MGUE Inc 1,2017,DE,L-3 Communications,,"Electronics, Comms, and Sensors",2020,L3-Harris,prime-L3,1505.7,0,,,0,,0,0,,0,0,
+2020-12-31,Air Force,MGUE Inc 1,2017,DE,L3 Technologies,,"Electronics, Comms, and Sensors",2020,L3-Harris,prime-L3,1505.7,0,,,0,,0,0,,0,0,
 2020-12-31,Air Force,MH-139A,2018,PdE,Boeing,,Aircraft,0,,,3308.8,84,39.39,,,,2422.5,80,30.281,,,
 2020-12-31,Air Force,SDB II,2010,PdE,Raytheon,,Ordnance and Missiles,2021,Raytheon-UTC,prime-Raytheon,4577.5,17163,0.267,,,,2976.3,17000,0.175,,,
 2020-12-31,Air Force,VC-25B,2018,PdE,Boeing,,Aircraft,0,,,5014,2,2507,,,,51,0,,,,
@@ -984,7 +984,7 @@ report_date,service,program,base_year,baseline_type,prime_contractor,secondary_c
 2021-12-31,Navy,NGJ Low-Band,2020,DE,L3Harris,Boeing,"Electronics, Comms, and Sensors",0,,,4116.4,135,30.492,4170.7,135,30.895,2070,135,15.333,1979.1,135,14.66
 2021-12-31,Navy,OASuW Inc 1 LRASM,2014,DE,Lockheed Martin,,Ordnance and Missiles,0,,,1467.3,124,11.833,3248.8,645,5.037,292.3,110,2.657,1832.3,629,2.913
 2021-12-31,Navy,P-8A,2010,PdE,Boeing,CFM International,Aircraft,0,,,30271.9,115,263.234,33318.6,133,250.516,22791.2,108,211.03,23398.1,128,182.798
-2021-12-31,Navy,SSC,2011,DE,Textron Systems,L3 Communications,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,4742.4,73,64.964,3354.4,72,47.245,4176.9,72,58.013
+2021-12-31,Navy,SSC,2011,DE,Textron Systems,L3 Technologies,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,4742.4,73,64.964,3354.4,72,47.245,4176.9,72,58.013
 2021-12-31,Navy,SM-6,2004,PdE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,4866.3,1200,4.055,8345.9,2345,3.559,3949.6,1200,3.291,7510.9,2345,3.203
 2021-12-31,Navy,SSBN 826,2017,DE,General Dynamics,Newport News,Ships and Submarines,0,,,100221.9,12,8351.825,98815.2,12,8234.6,87426.5,12,7285.542,85454.1,12,7121.2
 2021-12-31,Navy,SSN 774,1995,PdE,General Dynamics,,Ships and Submarines,0,,,45633.1,30,1521.103,94016.2,48,1958.7,42228.1,30,1407.603,86754.8,48,1807.4
@@ -1006,7 +1006,7 @@ report_date,service,program,base_year,baseline_type,prime_contractor,secondary_c
 2021-12-31,Air Force,JASSM - ER,2010,PdE,Lockheed Martin,,Ordnance and Missiles,0,,,3631.6,2531,1.435,9777.3,7578,1.29,3366.1,2500,1.346,9013.5,7547,1.194
 2021-12-31,Air Force,KC-46A,2011,PdE,Boeing,Pratt & Whitney,Aircraft,2013,UTC-Goodrich,sub-UTC,43518.2,179,243.118,34058,179,190.268,33040.3,175,188.802,26207.9,175,149.759
 2021-12-31,Air Force,LGM-35,2020,DE,Northrop Grumman,,Ordnance and Missiles,0,,,77740.7,659,117.968,77740.7,659,117.968,47858.4,634,75.486,47858.4,534,75.486
-2021-12-31,Air Force,MGUE Inc 1,2017,DE,L-3 Communications,,"Electronics, Comms, and Sensors",2020,L3-Harris,prime-L3,1505.7,0,,1674.9,0,,0,0,,0,0,
+2021-12-31,Air Force,MGUE Inc 1,2017,DE,L3 Technologies,,"Electronics, Comms, and Sensors",2020,L3-Harris,prime-L3,1505.7,0,,1674.9,0,,0,0,,0,0,
 2021-12-31,Air Force,MH-139A,2018,PdE,Boeing,,Aircraft,0,,,3308.8,84,39.39,3208.7,80,38.9,2422.5,80,30.281,2275,74,30.7
 2021-12-31,Air Force,SDB II,2010,PdE,Raytheon,,Ordnance and Missiles,2021,Raytheon-UTC,prime-Raytheon,4577.5,17163,0.267,4749,17163,0.277,2976.3,17000,0.175,2926.3,17000,0.172
 2021-12-31,Air Force,VC-25B,2018,PdE,Boeing,,Aircraft,0,,,5014,2,2507,5047.5,2,2523.75,51,0,,22,0,
@@ -1058,7 +1058,7 @@ report_date,service,program,base_year,baseline_type,prime_contractor,secondary_c
 2022-12-31,Navy ,NGJ Mid-Band,2016,DE,Raytheon,Boeing,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,7463.7,135,55.287,7779.4,135,57.625,4002.6,131,30.554,4062.8,129,31.495
 2022-12-31,Navy,NGJ Low-Band,2020,DE,L3Harris,Boeing,"Electronics, Comms, and Sensors",0,,,4116.4,135,30.492,4012.7,135,29.724,2070,135,15.333,1956.5,135,14.493
 2022-12-31,Navy,OASuW Inc 1 LRASM,2014,DE,Lockheed Martin,,Ordnance and Missiles,0,,,1467.3,124,11.833,4407.4,1231,3.58,292.3,110,2.657,3000.5,1215,2.47
-2022-12-31,Navy,SSC,2011,DE,Textron Systems,L3 Communications,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,4771.6,73,65.365,3354.4,71,47.245,4188.3,72,58.171
+2022-12-31,Navy,SSC,2011,DE,Textron Systems,L3 Technologies,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,4771.6,73,65.365,3354.4,71,47.245,4188.3,72,58.171
 2022-12-31,Navy,SM-6,2004,PdE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,4866.3,1200,4.055,8423.5,2356,3.575,3949.6,1200,3.291,7588.7,2356,3.221
 2022-12-31,Navy,SSBN 826,2017,DE,General Dynamics,Newport News,Ships and Submarines,0,,,100221.9,12,8351.825,93263,12,7771.917,87426.5,12,7285.542,80015.6,12,6667.967
 2022-12-31,Navy,SSN 774,1995,PdE,General Dynamics,,Ships and Submarines,0,,,45633.1,30,1521.103,98562.7,51,1932.602,42228.1,30,1407.603,90750.6,51,1779.424
@@ -1078,7 +1078,7 @@ report_date,service,program,base_year,baseline_type,prime_contractor,secondary_c
 2022-12-31,Air Force,JASSM-ER,2010,PdE,Lockheed Martin,,Ordnance and Missiles,0,,,3631.6,2531,1.435,8116.7,6252,1.298,3366.1,2500,1.346,7080.8,6221,1.138
 2022-12-31,Air Force,KC-46A,2011,PdE,Boeing,Pratt & Whitney,Aircraft,2013,UTC-Goodrich,sub-UTC,43518.2,179,243.118,29569.9,179,165.194,33040.3,175,188.802,23158.7,175,132.336
 2022-12-31,Air Force,LGM-35A,2020,DE,Northrop Grumman,,Ordnance and Missiles,0,,,77740.7,659,117.968,71123.4,659,107.926,47858.1,634,75.486,43546.4,634,68.685
-2022-12-31,Air Force,MGUE Inc 1,2017,DE,L-3 Communications,,"Electronics, Comms, and Sensors",2020,L3-Harris,prime-L3,1505.7,0,,1634.9,0,,0,0,,0,0,
+2022-12-31,Air Force,MGUE Inc 1,2017,DE,L3 Technologies,,"Electronics, Comms, and Sensors",2020,L3-Harris,prime-L3,1505.7,0,,1634.9,0,,0,0,,0,0,
 2022-12-31,Air Force,MH-139A,2018,PdE,Boeing,,Aircraft,0,,,3308.8,84,39.39,2773,80,34.663,2422.5,80,30.281,1981.1,74,26.772
 2022-12-31,Air Force,SDB II,2010,PdE,Raytheon,,Ordnance and Missiles,2021,Raytheon-UTC,prime-Raytheon,4577.5,17163,0.267,6727.3,26773,0.251,2976.3,17000,0.175,4763.8,26610,0.179
 2022-12-31,Air Force,VC-25B,2018,PdE,Boeing,,Aircraft,0,,,5014,2,2507,4763.6,2,2381.8,51,0,,21.5,0,
@@ -1126,7 +1126,7 @@ report_date,service,program,base_year,baseline_type,prime_contractor,secondary_c
 2023-12-31,Navy ,NGJ Mid-Band,2016,DE,Raytheon,Boeing,"Electronics, Comms, and Sensors",0,,,7463.7,135,55.287,8119.5,135,60.145,4002.6,131,30.554,4197.5,129,32.539
 2023-12-31,Navy,NGJ Low-Band,2020,DE,L3Harris,Boeing,"Electronics, Comms, and Sensors",0,,,4116.4,135,30.492,3542.8,135,26.243,2070,135,15.333,1952.6,135,14.464
 2023-12-31,Navy,OASuW Inc 1 LRASM,2014,DE,Lockheed Martin,,Ordnance and Missiles,0,,,1467.3,124,11.833,6004.4,1612,3.725,292.3,110,2.657,4166.4,1589,2.622
-2023-12-31,Navy,SSC,2011,DE,Textron Systems,L3 Communications,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,4980,73,68.219,3354.4,71,47.245,4393.1,72,61.015
+2023-12-31,Navy,SSC,2011,DE,Textron Systems,L3 Technologies,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,4980,73,68.219,3354.4,71,47.245,4393.1,72,61.015
 2023-12-31,Navy,SM-6,2004,PdE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,4866.3,1200,4.055,8197.3,2478,3.308,3949.6,1200,3.291,7362.4,2478,2.971
 2023-12-31,Navy,SSBN 826,2017,DE,General Dynamics,Newport News,Ships and Submarines,0,,,100221.9,12,8351.825,99097.1,12,8258.092,87426.5,12,7285.542,85711.2,12,7142.6
 2023-12-31,Navy,SSN 774,1995,PdE,General Dynamics,,Ships and Submarines,0,,,45633.1,30,1521.103,101334,51,1986.941,42228.1,30,1407.603,93657,51,1836.412

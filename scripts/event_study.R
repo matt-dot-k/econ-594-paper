@@ -17,65 +17,60 @@ es_baseline <- lapply(setNames(outcomes, outcomes), \(y) {
         horizon = 1:10,
         pretrends = -6:-1,
         cluster_var = "program",
-        first_stage = ~ milestone_c + duration
+        first_stage = ~ duration + milestone_c | report_date + program
     )
 })
 
 # Baseline event study estimates
 outcome_labels <- c(
-    current_pauc_log = "Event Study: Program Acquisition Unit Cost (Logged)",
-    pauc_growth = "Program Acquisition Unit Cost: Change from Baseline",
     current_apuc_log = "Event Study: Average Procurement Unit Cost (Logged)",
-    apuc_growth = "Average Procurement Unit Cost: Change from Baseline"
+    apuc_growth = "Average Procurement Unit Cost: Change from Baseline",
+    apuc_diff_yoy = "Average Procurement Unit Cost: Annual Change"
 )
 
-plot_data <- bind_rows(es_baseline, .id = "outcome") |>
-    mutate(
-        term = if_else(
-            str_starts(term, "pre"),
-            -as.numeric(str_extract(term, "\\d+")),
-            as.numeric(term)
-        ),
-        pre_period = term < 0)
+plot_event_study <- function(model, .id = "outcome") {
+    # Extract data from event study
+    plot_data <- bind_rows(model, .id = "outcome") |>
+        mutate(
+            term = if_else(
+                str_starts(term, "pre"),
+                -as.numeric(str_extract(term, "\\d+")),
+                as.numeric(term)
+            ),
+            pre_period = term < 1)
 
-event_plots <- lapply(setNames(outcomes, outcomes), \(y) {
+    # Create event study plots        
+    plots <- lapply(setNames(outcomes, outcomes), \(y) {
     plot_data |>
         filter(
             outcome == y) |>
         ggplot(
-            aes(x = term, y = estimate, color = pre_period)
-    ) +
+            aes(x = term, y = estimate, color = pre_period)) +
         geom_hline(
-            yintercept = 0, linetype = "dashed", color = "grey60"
-    ) +
+            yintercept = 0, linetype = "dashed", color = "grey10") +
         geom_vline(
-            xintercept = 0, linetype = "dashed", color = "grey60"
-    ) +
+            xintercept = 0.5, linetype = "dashed", color = "grey10") +
         geom_point(
-            size = 1.5
-    ) +
-        geom_line(
-            linewidth = 0.75
-    ) +
+            size = 2.5) +
         geom_errorbar(
-            aes(ymin = conf.low, ymax = conf.high), width = 0.25, linewidth = 0.75
-    ) +
+            aes(ymin = conf.low, ymax = conf.high), width = 0.25, linewidth = 1.0) +
         scale_x_continuous(
-            breaks = \(x) seq(floor(min(x)), ceiling(max(x)))
-    ) +
+            breaks = \(x) seq(floor(min(x)), ceiling(max(x)))) +
         scale_color_manual(
             values = c("TRUE" = "#ff7741", "FALSE" = "#3eb489"),
-            guide  = "none"
-    ) +
-        coord_cartesian(xlim = c(-6, 10)) +
+            guide  = "none") +
+        coord_cartesian(xlim = c(-11, 10)) +
         labs(
             title = outcome_labels[[y]],
             x = "Years relative to merger",
-            y = "Estimated effect"
-    ) +
+            y = "Estimated effect") +
+        theme_fivethirtyeight() +
         theme(
-            plot.title = element_text(size = 10, face = "bold"),
-            axis.title = element_text(size = 8, face = "bold"),
-            axis.text = element_text(size = 8, face = "bold")
-    )
-})
+            plot.title = element_text(size = 16, face = "bold"),
+            axis.title = element_text(size = 12, face = "bold"),
+            axis.text = element_text(size = 12, face = "bold"),
+            panel.background = element_rect(fill = "#ffffff"),
+            plot.background = element_rect(fill = "#ffffff"))
+    })
+    return(plots)
+}

@@ -31,12 +31,18 @@ sar_panel <- sar_panel |>
         current_apuc_est = case_when(
             current_apuc_qty == 0 ~ NA_real_,
             .default = current_apuc_total / current_apuc_qty),
+        baseline_pauc_log = case_when(
+            baseline_pauc_total == 0 ~ NA_real_,
+            .default = log(baseline_pauc_total)),
+        baseline_apuc_log = case_when(
+            baseline_apuc_total == 0 ~ NA_real_,
+            .default = log(baseline_apuc_total)),
         current_pauc_log = case_when(
             current_pauc_total == 0 ~ NA_real_,
-            .default = log(current_pauc_total)),
+            .default = log(current_pauc_est)),
         current_apuc_log = case_when(
             current_apuc_total == 0 ~ NA_real_,
-            .default = log(current_apuc_total)),
+            .default = log(current_apuc_est)),
         report_date = year(report_date),
         duration = report_date - base_year,
         milestone_c = as.integer(baseline_type == "PdE")) |>

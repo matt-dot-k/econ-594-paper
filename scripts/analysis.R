@@ -1,8 +1,8 @@
 library(fixest)
 library(didimputation)
 
-source("tidy_sar_panel.R")
-source("functions.R")
+source("./scripts/tidy_sar_panel.R")
+source("./scripts/functions.R")
 
 # ---------------------------------------------------------------
 # -------------------- BASELINE EVENT STUDIES -------------------
@@ -32,20 +32,20 @@ es_baseline_twfe <- twfe_wrapper(
 # -------------------- HETEROGENEITY CHECKS --------------------
 # --------------------------------------------------------------
 
-# ---------- Robustness check -- merging contractors only ----------
+# ---------- Identification check -- merging contractors only ----------
 merger_parties <- c(
     "Lockheed Martin", "Raytheon", "Sikorksy", "Northrop Grumman", "Harris Corporation",
     "L3 Technologies", "L3Harris", "ITT Exelis", "Longbow LLC", "Alliant TechSystems (ATK)",
     "Pratt & Whitney", "Rockwell Collins"
 )
 
-sar_panel_mergedprimes <- sar_panel |>
+sar_panel_subsample <- sar_panel |>
     filter(
         prime_contractor %in% merger_parties |
         secondary_contractor %in% merger_parties)
 
 es_subsample_bjs <- es_wrapper(
-    data = sar_panel_mergedprimes,
+    data = sar_panel_subsample,
     outcomes = outcomes,
     first_stage = list(
         ~ duration + I(duration^2) + milestone_c | report_date + program
@@ -55,7 +55,7 @@ es_subsample_bjs <- es_wrapper(
 )
 
 es_subsample_twfe <- twfe_wrapper(
-    data = sar_panel_mergedprimes,
+    data = sar_panel_subsample,
     outcomes = outcomes,
     first_stage = list(
         controls = ~ duration + I(duration^2) + milestone_c | program + report_date
@@ -70,7 +70,7 @@ sar_panel_usaf <- sar_panel |>
 
 es_usaf_bjs <- es_wrapper(
     data = sar_panel_usaf,
-    outcomes = c("current_apuc_log"),
+    outcomes = c("apuc_growth"),
     first_stage = list(
         ~ duration + I(duration^2) + milestone_c | program + report_date
     ),
@@ -80,7 +80,7 @@ es_usaf_bjs <- es_wrapper(
 
 es_usaf_twfe <- twfe_wrapper(
     data = sar_panel_usaf,
-    outcomes = c("current_apuc_log"),
+    outcomes = c("apuc_growth"),
     first_stage = list(
         controls = ~ duration + I(duration^2) + milestone_c | program + report_date
     )
@@ -88,12 +88,12 @@ es_usaf_twfe <- twfe_wrapper(
 
 sar_panel_usn <- sar_panel |>
     filter(
-        service == "Army"
+        service == "Navy"
     )
 
 es_usn_bjs <- es_wrapper(
     data = sar_panel_usn,
-    outcomes = c("current_apuc_log"),
+    outcomes = c("apuc_growth"),
     first_stage = list(
         ~ duration + I(duration^2) + milestone_c | program + report_date
     ),
@@ -103,7 +103,30 @@ es_usn_bjs <- es_wrapper(
 
 es_usn_twfe <- twfe_wrapper(
     data = sar_panel_usn,
-    outcomes = c("current_apuc_log"),
+    outcomes = c("apuc_growth"),
+    first_stage = list(
+        controls = ~ duration + I(duration^2) + milestone_c | program + report_date
+    )
+)
+
+sar_panel_army <- sar_panel |>
+    filter(
+        service == "Army"
+    )
+
+es_army_bjs <- es_wrapper(
+    data = sar_panel_army,
+    outcomes = c("apuc_growth"),
+    first_stage = list(
+        ~ duration + I(duration^2) + milestone_c | program + report_date
+    ),
+    horizon = TRUE,
+    pretrends = TRUE
+)
+
+es_army_twfe <- twfe_wrapper(
+    data = sar_panel_army,
+    outcomes = c("apuc_growth"),
     first_stage = list(
         controls = ~ duration + I(duration^2) + milestone_c | program + report_date
     )
@@ -142,30 +165,35 @@ es_usn_data <- bind_rows(
     tidy_twfe_es(es_usn_twfe) |> mutate(method = "Static TWFE")
 )
 
+es_army_data <- bind_rows(
+    tidy_event_study(es_army_bjs) |> mutate(method = "BJS Imputation"),
+    tidy_twfe_es(es_army_twfe) |> mutate(method = "Static TWFE")
+)
+
 baseline_chart <- es_baseline_data |>
     ggplot(
         aes(x = term, y = estimate, color = method, shape = method)) +
     geom_hline(
         yintercept = 0, linetype = "dashed", color = "grey10") +
     geom_vline(
-        xintercept = 0.5, linetype = "dashed", color = "grey10") +
+        xintercept = -0.5, linetype = "dashed", color = "grey10") +
     geom_errorbar(
         aes(ymin = conf.low, ymax = conf.high),
         width = 0.15,
         position = dodge,
-        linewidth = 0.75) +
+        linewidth = 0.5) +
     geom_point(
-        position = dodge, size = 1.5) +
+        position = position_dodge(width = 0.3), size = 1.5) +
     scale_x_continuous(
         breaks = seq(-6, 7)) +
     scale_y_continuous(
-        limits = c(-0.35, 0.35)) +
+        limits = c(-0.36, 0.32)) +
     facet_wrap(
         ~ outcome, ncol = 1) +
     scale_color_manual(
         values = c("#2a78d6", "#4a3aa7")) +
     labs(
-        x = "Time Until Merger", y = "Estimated Effect") +
+        x = "Time Relative to Merger", y = "Estimated Effect") +
     theme_thesis()
 
 subsample_chart <- es_subsample_data |>
@@ -174,51 +202,106 @@ subsample_chart <- es_subsample_data |>
     geom_hline(
         yintercept = 0, linetype = "dashed", color = "grey10") +
     geom_vline(
-        xintercept = 0.5, linetype = "dashed", color = "grey10") +
+        xintercept = -0.5, linetype = "dashed", color = "grey10") +
     geom_errorbar(
         aes(ymin = conf.low, ymax = conf.high),
         width = 0.15,
         position = dodge,
-        linewidth = 0.75) +
+        linewidth = 0.5) +
     geom_point(
-        position = dodge, size = 1.5) +
+        position = position_dodge(width = 0.3), size = 1.5) +
     scale_x_continuous(
         breaks = seq(-6, 7)) +
     scale_y_continuous(
-        limits = c(-0.35, 0.35)) +
+        limits = c(-0.36, 0.35)) +
     facet_wrap(
         ~ outcome, ncol = 1) +
     scale_color_manual(
         values = c("#2a78d6", "#4a3aa7")) +
     labs(
-        x = "Time Until Merger", y = "Estimated Effect") +
+        x = "Time Relative to Merger", y = "Estimated Effect") +
     theme_thesis()
 
-usaf_chart <- es_usn_data |>
+usaf_chart <- es_usaf_data |>
     ggplot(
         aes(x = term, y = estimate, color = method, shape = method)) +
     geom_hline(
         yintercept = 0, linetype = "dashed", color = "grey10") +
     geom_vline(
-        xintercept = 0.5, linetype = "dashed", color = "grey10") +
+        xintercept = -0.5, linetype = "dashed", color = "grey10") +
     geom_errorbar(
         aes(ymin = conf.low, ymax = conf.high),
         width = 0.15,
         position = dodge,
-        linewidth = 0.75) +
+        linewidth = 0.5) +
     geom_point(
         position = dodge, size = 1.5) +
     scale_x_continuous(
         breaks = seq(-6, 7)) +
     scale_y_continuous(
-        limits = c(-1.0, 1.0)) +
+        limits = c(-0.6, 0.6)) +
     facet_wrap(
         ~ outcome, ncol = 1) +
     scale_color_manual(
         values = c("#2a78d6", "#4a3aa7")) +
     labs(
-        x = "Time Until Merger", y = "Estimated Effect") +
+        x = "Time Relative to Merger", y = "Estimated Effect") +
+    theme_thesis()
+    
+usn_chart <- es_usn_data |>
+    ggplot(
+        aes(x = term, y = estimate, color = method, shape = method)) +
+    geom_hline(
+        yintercept = 0, linetype = "dashed", color = "grey10") +
+    geom_vline(
+        xintercept = -0.5, linetype = "dashed", color = "grey10") +
+    geom_errorbar(
+        aes(ymin = conf.low, ymax = conf.high),
+        width = 0.15,
+        position = dodge,
+        linewidth = 0.5) +
+    geom_point(
+        position = dodge, size = 1.5) +
+    scale_x_continuous(
+        breaks = seq(-6, 7)) +
+    scale_y_continuous(
+        limits = c(-0.6, 0.6)) +
+    facet_wrap(
+        ~ outcome, ncol = 1) +
+    scale_color_manual(
+        values = c("#2a78d6", "#4a3aa7")) +
+    labs(
+        x = "Time Relative to Merger", y = "Estimated Effect") +
+    theme_thesis()
+
+army_chart <- es_army_data |>
+    ggplot(
+        aes(x = term, y = estimate, color = method, shape = method)) +
+    geom_hline(
+        yintercept = 0, linetype = "dashed", color = "grey10") +
+    geom_vline(
+        xintercept = -0.5, linetype = "dashed", color = "grey10") +
+    geom_errorbar(
+        aes(ymin = conf.low, ymax = conf.high),
+        width = 0.15,
+        position = dodge,
+        linewidth = 0.5) +
+    geom_point(
+        position = dodge, size = 1.5) +
+    scale_x_continuous(
+        breaks = seq(-6, 7)) +
+    scale_y_continuous(
+        limits = c(-0.6, 0.6)) +
+    facet_wrap(
+        ~ outcome, ncol = 1) +
+    scale_color_manual(
+        values = c("#2a78d6", "#4a3aa7")) +
+    labs(
+        x = "Time Relative to Merger", y = "Estimated Effect") +
     theme_thesis()
 
 ggsave("chart_baseline.png", baseline_chart, width = 7, height = 9, units = "in")
 ggsave("chart_subsample.png", subsample_chart, width = 7, height = 9, units = "in")
+ggsave("chart_usaf.png", usaf_chart, width = 7, height = 4, units = "in" )
+ggsave("chart_usn.png", usn_chart, width = 7, height = 4, units = "in")
+ggsave("chart_army.png", army_chart, width = 7, height = 4, units = "in")

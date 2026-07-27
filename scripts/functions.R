@@ -2,6 +2,23 @@
 # -------------------- Helper Scripts --------------------
 # --------------------------------------------------------
 
+# ----- Wrapper function to calculate DoD deflator given a base year -----
+deflator_ratio <- function(base_year, to_year = 2024, deflator_path = "./data/dod_deflators.csv") {
+    deflators <- read_csv(deflator_path, show_col_types = FALSE)
+    base_index <- deflators$total_deflator[match(base_year, deflators$fiscal_year)]
+    to_index <- deflators$total_deflator[match(to_year, deflators$fiscal_year)]
+
+    if (anyNA(base_index)) {
+        missing_years <- unique(base_year[is.na(base_index)])
+        stop("No deflator found for base year(s): ", paste(missing_years, collapse = ", "))
+    }
+    if (anyNA(to_index)) stop("No deflator found for to_year: ", to_year)
+
+    ratio <- to_index / base_index
+    return(ratio)
+}
+
+# ----- Wrapper function for running BJS event studies -----
 es_wrapper <- function(data, outcomes, first_stage, horizon = TRUE, pretrends = TRUE,
                        gname = "cohort", tname = "report_date", idname = "program",
                        cluster_var = "program", wname = "baseline_pauc_log") {
@@ -34,6 +51,7 @@ es_wrapper <- function(data, outcomes, first_stage, horizon = TRUE, pretrends = 
     })
 }
 
+# ----- Wrapper function for static TWFE models -----
 twfe_wrapper <- function(data, outcomes, first_stage, wname = "baseline_pauc_log", cluster_var = "program") {
 
     if (inherits(first_stage, "formula")) first_stage <- list(first_stage)
@@ -53,6 +71,7 @@ twfe_wrapper <- function(data, outcomes, first_stage, wname = "baseline_pauc_log
     })
 }
 
+# ----- Wrapper functions for extracting event study data -----
 tidy_event_study <- function(model, xlim = c(-6, 7)) {
     bind_rows(lapply(model, bind_rows, .id = "outcome"), .id = "spec") |>
         mutate(
@@ -84,6 +103,7 @@ tidy_twfe_es <- function(model, xlim = c(-6, 7)) {
         filter(term >= xlim[1], term <= xlim[2])
 }
 
+# ----- Custom ggplot theme -----
 theme_thesis <- function(base_size = 12) {
     theme_minimal(base_size = base_size) +
         theme(

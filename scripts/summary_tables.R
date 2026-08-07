@@ -1,5 +1,5 @@
 source("./scripts/tidy_sar_panel.R")
-source("./scripts/functions.R")
+source("./scripts/setup.R")
 
 # ===== Apply DoD deflators for summary statistics =====
 sar_panel_real <- sar_panel |>

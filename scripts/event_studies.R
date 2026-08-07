@@ -3,7 +3,7 @@ library(didimputation)
 
 # ===== Load prelim R scripts =====
 source("./scripts/tidy_sar_panel.R")
-source("./scripts/functions.R")
+source("./scripts/setup.R")
 
 # ===============================================================
 # ==================== BASELINE EVENT STUDIES ===================

@@ -3,10 +3,11 @@ library(tidyverse)
 library(collapse)
 library(zoo)
 
+# Load SAR data
 sar_panel <- read_csv("./data/sar_data_master_panel.csv")
 interp_vars <- c("current_pauc_total", "current_pauc_qty", "current_apuc_total", "current_apuc_qty")
 
-# Transform panel to apply interpolation and construct cost-growth variables
+# Apply interpolation and construct cost-growth variables =====
 sar_panel <- sar_panel |>
     arrange(
         program, report_date) |>
@@ -47,9 +48,7 @@ sar_panel <- sar_panel |>
         milestone_c = as.integer(baseline_type == "PdE"),
         event_time = report_date - cohort,
         event_time = if_else(
-            cohort == 0,
-            -999L,
-            as.integer(event_time))) |>
+            cohort == 0, -1L, as.integer(event_time))) |>
     fmutate(
         pauc_growth = (current_pauc_est - baseline_pauc_est) / baseline_pauc_est,
         apuc_growth = (current_apuc_est - baseline_apuc_est) / baseline_apuc_est,

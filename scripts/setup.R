@@ -1,8 +1,17 @@
-# --------------------------------------------------------
-# -------------------- Helper Scripts --------------------
-# --------------------------------------------------------
+# ===== Check for missing packages =====
+if (!requireNamespace("pacman", quietly = TRUE)) {
+    install.packages("pacman")
+    library(pacman)
+}
 
-# ----- Wrapper function to calculate DoD deflator given a base year -----
+pacman::p_load(char = c("tidyverse", "readr", "collapse", "zoo", "fixest",
+               "didimputation", "stringdist"))
+
+# ===========================================================
+# ==================== AUXILIARY SCRIPTS ====================
+# ===========================================================
+
+# ===== Wrapper function to calculate DoD deflator given a base year =====
 deflator_ratio <- function(base_year, to_year = 2024, deflator_path = "./data/dod_deflators.csv") {
     deflators <- read_csv(deflator_path, show_col_types = FALSE)
     base_index <- deflators$total_deflator[match(base_year, deflators$fiscal_year)]
@@ -18,7 +27,7 @@ deflator_ratio <- function(base_year, to_year = 2024, deflator_path = "./data/do
     return(ratio)
 }
 
-# ----- Wrapper function for running BJS event studies -----
+# ===== Wrapper function for BJS event studies =====
 es_wrapper <- function(data, outcomes, first_stage, horizon = TRUE, pretrends = TRUE,
                        gname = "cohort", tname = "report_date", idname = "program",
                        cluster_var = "program", wname = "baseline_pauc_log") {
@@ -51,8 +60,9 @@ es_wrapper <- function(data, outcomes, first_stage, horizon = TRUE, pretrends = 
     })
 }
 
-# ----- Wrapper function for static TWFE models -----
-twfe_wrapper <- function(data, outcomes, first_stage, wname = "baseline_pauc_log", cluster_var = "program") {
+# ===== Wrapper function for static TWFE models =====
+twfe_wrapper <- function(data, outcomes, first_stage, wname = "baseline_pauc_log",
+                         cluster_var = "program") {
 
     if (inherits(first_stage, "formula")) first_stage <- list(first_stage)
     if (is.null(names(first_stage))) names(first_stage) <- paste0("fs", seq_along(first_stage))
@@ -60,7 +70,7 @@ twfe_wrapper <- function(data, outcomes, first_stage, wname = "baseline_pauc_log
     lapply(first_stage, \(fs) {
         fs_rhs <- sub("^~\\s*", "", paste(deparse(fs), collapse = " "))
         lapply(setNames(outcomes, outcomes), \(y) {
-            fml <- as.formula(paste(y, "~ i(event_time, ref = -999) +", fs_rhs))
+            fml <- as.formula(paste(y, "~ i(event_time, ref = -1) +", fs_rhs))
             feols(
                 fml,
                 data = data,
@@ -71,8 +81,8 @@ twfe_wrapper <- function(data, outcomes, first_stage, wname = "baseline_pauc_log
     })
 }
 
-# ----- Wrapper functions for extracting event study data -----
-tidy_event_study <- function(model, xlim = c(-6, 7)) {
+# ===== Wrapper functions for extracting event study data =====
+tidy_event_study <- function(model, xlim = c(-6, 6)) {
     bind_rows(lapply(model, bind_rows, .id = "outcome"), .id = "spec") |>
         mutate(
             term = if_else(
@@ -81,12 +91,12 @@ tidy_event_study <- function(model, xlim = c(-6, 7)) {
                 as.numeric(term)
             ),
             pre_period = term < 1,
-            outcome = outcome_labels[outcome]
+            outcome = factor(outcome_labels[outcome], levels = outcome_labels)
         ) |>
         filter(term >= xlim[1], term <= xlim[2])
 }
 
-tidy_twfe_es <- function(model, xlim = c(-6, 7)) {
+tidy_twfe_es <- function(model, xlim = c(-6, 6)) {
     bind_rows(
         lapply(model, \(spec) {
             bind_rows(
@@ -98,12 +108,12 @@ tidy_twfe_es <- function(model, xlim = c(-6, 7)) {
         mutate(
             term = as.numeric(str_extract(term, "-?\\d+$")),
             pre_period = term < 1,
-            outcome = outcome_labels[outcome]
+            outcome = factor(outcome_labels[outcome], levels = outcome_labels)
         ) |>
         filter(term >= xlim[1], term <= xlim[2])
 }
 
-# ----- Custom ggplot theme -----
+# ===== Custom ggplot theme =====
 theme_thesis <- function(base_size = 12) {
     theme_minimal(base_size = base_size) +
         theme(

@@ -97,7 +97,7 @@ tidy_event_study <- function(model, xlim = c(-6, 6)) {
 }
 
 tidy_twfe_es <- function(model, xlim = c(-6, 6)) {
-    bind_rows(
+    est <- bind_rows(
         lapply(model, \(spec) {
             bind_rows(
                 lapply(spec, \(m) broom::tidy(m, conf.int = TRUE)),
@@ -105,12 +105,21 @@ tidy_twfe_es <- function(model, xlim = c(-6, 6)) {
         }),
         .id = "spec"
     ) |>
+        mutate(term = as.numeric(str_extract(term, "-?\\d+$")))
+
+    # ref = -1 is the omitted reference period in i(event_time, ref = -1),
+    # so fixest/broom never emit a row for it; add it back explicitly at zero.
+    ref_rows <- est |>
+        distinct(spec, outcome) |>
+        mutate(term = -1, estimate = 0, conf.low = 0, conf.high = 0)
+
+    bind_rows(est, ref_rows) |>
         mutate(
-            term = as.numeric(str_extract(term, "-?\\d+$")),
             pre_period = term < 1,
             outcome = factor(outcome_labels[outcome], levels = outcome_labels)
         ) |>
-        filter(term >= xlim[1], term <= xlim[2])
+        filter(term >= xlim[1], term <= xlim[2]) |>
+        arrange(spec, outcome, term)
 }
 
 # ===== Custom ggplot theme =====

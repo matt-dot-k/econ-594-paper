@@ -905,11 +905,11 @@ report_date,service,program,base_year,baseline_type,prime_contractor,secondary_c
 2020-12-31,Navy,LPD 17,1996,DE,Huntington Ingalls,,Ships and Submarines,0,,,12955.2,12,1079.6,,,,12842.4,12,1070.2,,,
 2020-12-31,Navy,MQ-25,2018,DE,Boeing,,Aircraft,0,,,12618.3,76,166.03,,,,8766.1,72,121.751,,,
 2020-12-31,Navy,MQ-4C UAS BAMS,2008,PdE,Northrop Grumman,,Aircraft,0,,,12224.5,70,174.636,,,,8871.2,65,136.48,,,
-2020-12-31,Navy ,NGJ Mid-Band,2016,DE,Raytheon,Boeing,"Electronics, Comms, and Sensors",0,,,7463.7,135,55.287,,,,4002.6,131,30.555,,,
+2020-12-31,Navy ,NGJ Mid-Band,2016,DE,Raytheon,Boeing,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,7463.7,135,55.287,,,,4002.6,131,30.555,,,
 2020-12-31,Navy,NGJ Low-Band,2020,DE,L3Harris,Boeing,"Electronics, Comms, and Sensors",0,,,4116.4,135,30.492,4116.4,135,30.492,2070,135,15.333,2070,135,15.333
 2020-12-31,Navy,OASuW Inc 1 LRASM,2014,DE,Lockheed Martin,,Ordnance and Missiles,0,,,1467.3,124,11.833,,,,292.3,110,2.657,,,
 2020-12-31,Navy,P-8A,2010,PdE,Boeing,CFM International,Aircraft,0,,,30271.9,115,263.234,,,,22791.2,108,211.03,,,
-2020-12-31,Navy,SSC,2011,DE,Textron Systems,L3 Technologies,Ships and Submarines,0,,,3925.6,73,53.775,,,,3354.4,72,47.245,,,
+2020-12-31,Navy,SSC,2011,DE,Textron Systems,L3 Technologies,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,,,,3354.4,72,47.245,,,
 2020-12-31,Navy,SM-6,2004,PdE,Raytheon,,Air and Missile Defense,2021,Raytheon-UTC,prime-Raytheon,4866.3,1200,4.055,,,,3949.6,1200,3.291,,,
 2020-12-31,Navy,SSBN 826,2017,DE,General Dynamics,Newport News,Ships and Submarines,0,,,100221.9,12,8351.825,,,,87426.5,12,7285.542,,,
 2020-12-31,Navy,SSN 774,1995,PdE,General Dynamics,,Ships and Submarines,0,,,45633.1,30,1521.103,,,,42228.1,30,1407.603,,,
@@ -1123,7 +1123,7 @@ report_date,service,program,base_year,baseline_type,prime_contractor,secondary_c
 2023-12-31,Navy,LPD 17,1996,DE,Huntington Ingalls,,Ships and Submarines,0,,,12955.2,12,1079.6,27593.4,26,1061.283,12842.4,12,1070.2,27258.6,26,1048.407
 2023-12-31,Navy,MQ-25,2018,DE,Boeing,,Aircraft,0,,,12618.3,76,166.03,12701.2,76,167.121,8766.1,72,121.751,8912.2,67,133.018
 2023-12-31,Navy,MQ-4C UAS BAMS,2008,PdE,Northrop Grumman,,Aircraft,0,,,12224.5,70,174.636,9703.1,27,359.373,8871.2,65,136.48,4498,22,204.456
-2023-12-31,Navy ,NGJ Mid-Band,2016,DE,Raytheon,Boeing,"Electronics, Comms, and Sensors",0,,,7463.7,135,55.287,8119.5,135,60.145,4002.6,131,30.554,4197.5,129,32.539
+2023-12-31,Navy ,NGJ Mid-Band,2016,DE,Raytheon,Boeing,"Electronics, Comms, and Sensors",2021,Raytheon-UTC,prime-Raytheon,7463.7,135,55.287,8119.5,135,60.145,4002.6,131,30.554,4197.5,129,32.539
 2023-12-31,Navy,NGJ Low-Band,2020,DE,L3Harris,Boeing,"Electronics, Comms, and Sensors",0,,,4116.4,135,30.492,3542.8,135,26.243,2070,135,15.333,1952.6,135,14.464
 2023-12-31,Navy,OASuW Inc 1 LRASM,2014,DE,Lockheed Martin,,Ordnance and Missiles,0,,,1467.3,124,11.833,6004.4,1612,3.725,292.3,110,2.657,4166.4,1589,2.622
 2023-12-31,Navy,SSC,2011,DE,Textron Systems,L3 Technologies,Ships and Submarines,2020,L3-Harris,sub-L3,3925.6,73,53.775,4980,73,68.219,3354.4,71,47.245,4393.1,72,61.015

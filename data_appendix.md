@@ -4,27 +4,27 @@ This appendix provides more detail on how the dataset used in this thesis was co
 
 ## Data Sources
 
-The figures in this dataset were constructed from tables of unit cost estimates published in the annual Selected Acquisition Report (SAR) for each MDAP active in the reporting period. These figures were cross-referenced with the SAR Summary Tables published by the DoD to resolve discrepancies and obtain the baseline type for each program during its reporting period. Unless otherwise stated, all observations in this dataset are from the individual SARs.
+The figures in this dataset were constructed from tables of unit cost estimates published in the annual Selected Acquisition Report (SAR) for each MDAP active in the reporting period. These figures were cross-referenced with the SAR Summary Tables published by the DoD to resolve discrepancies and obtain the baseline year/type for each acquisition program during its reporting period. Unless otherwise stated, all observations in this dataset are from the individual SARs. The institutional background and content of these reports is sketched out in greater detail in Sections 2 and 3 of my thesis.
 
 ## Variables
 
 `report_date` - The current year  
-`service` - The service branch responsible for the program  
-`program` - Name of the program  
+`service` - The service branch responsible for the program (e.g. Air Force, Army, Navy)
+`program` - Name of the program (e.g. F-35)
 `base_year` - Base year of the program  
 `baseline_type` - Whether the program is in the development phase (DE) or production phase (PdE)  
-`prime_contractor` - The prime contractor in charge of the program  
+`prime_contractor` - The prime contractor in charge of the program 
 `secondary_contractor` - An applicable major secondary contractor or large subcontractor involved in the program  
-`platform_portfolio` - MDAP product market classification  
+`platform_portfolio` - MDAP product market classification
 `cohort` - Year cohort for a treated program  
-`merger_exposure` - Specific merger a treated program is exposed to  
+`merger_exposure` - Specific merger a treated program is exposed to (e.g. Lockheed-Sikorsky)
 `treatment_rule` - The channel treatment assignment operates through; For instance, `sub-ATK` means the program is treated by Alliant TechSystems (ATK) at the subcontractor level, while `prime-Raytheon` means treatment operates through Raytheon at the prime contractor level.  
 
 ## Manual Adjustments
 
 ### Program Transitions
 
-Several programs transitioned from the development phase (DE) to the production phase (PdE) during the reporting cycle. In these instances, the base year gets updated, and all dollar estimates in subsequent SARs are reported with respect to the new base year. To ensure consistency in cost estimates, I manually reanchor all estimates after the baseline change to the original base year using deflator tables published in the *National Defense Budget Estimates* for FY2024, also known as the DoD "Green Book". The following programs have had estimates rebased:
+Several programs transitioned from the development phase (DE) to the production phase (PdE) during the reporting cycle. In these instances, the base year gets updated, and all dollar estimates in subsequent SARs are reported with respect to the new base year. To ensure consistency in cost estimates, I manually re-anchor all estimates after the baseline change to the original base year using deflators published in Table 5-9 of the *National Defense Budget Estimates* for FY2024, also known as the DoD "Green Book". The following programs have had estimates rebased in this manner:
 
 * AMPV: All estimates after 2018 rebased to 2015 dollars.
 
@@ -74,16 +74,15 @@ Three programs also suffered serious breaches of thresholds for unit cost growth
 
 Selected Acquisition Reports were not published in 2020 due to changes in reporting requirements and budgetary authorizations. For all active programs in this year, current estimates of program costs and quantities have been imputed using linear interpolation.
 
-Two programs were officialy designated as MDAPs in 2020: NGJ Low Band and LRSO, but they only first appear in SARs in 2021. For these two programs, I use the original baseline estimates of costs and quantities as the current estimates for 2020.
+Two programs were also officially designated as MDAPs in 2020: NGJ Low Band and LRSO, but they only first appear in SARs in 2021. For these two programs, I use the original baseline estimates of costs and quantities as the current estimates for 2020.
 
 ### Note on the F-35 Program
 
-Reports for the F-35 program between 2011 and 2020 and 2023 provide separate cost estimates for the airframe and engine subprograms. However, SARs for 2021 and 2022 only report aggregate estimates of program costs. To reconstruct an approximate estimate of subprogram costs for those years, I calculate each subprogram's fraction of total estimated costs in 2023 and apply those weights to the aggregate estimates reported in 2021 and 2022.
-
+Reports for the F-35 program between 2011 and 2020 and 2023 provide separate cost estimates for the airframe and engine subprograms. However, SARs for 2021 and 2022 only report aggregate estimates of program costs. To reconstruct an approximate estimate of subprogram costs for those years, I calculate each subprogram's fraction of total estimated costs in 2023 (final reported year) and apply those weights to the aggregate estimates reported in 2021 and 2022.
 ## References
 
-Acquisition Innovation Research Center. (2026). Data sources for analyzing acquisition. <https://acqirc.org/external-links/#resources>
+Acquisition Innovation Research Center. (2026). Data Sources for Analyzing Acquisition. <https://acqirc.org/external-links/#resources>
 
-Office of the Under Secretary of Defense (Comptroller). (2023, May). *National defense budget estimates for FY 2024*. U.S. Department of Defense. <https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2024/FY24_Green_Book.pdf>
+Office of the Under Secretary of Defense (Comptroller). (2023, May). *National Defense Budget Estimates for FY 2024*. U.S. Department of Defense. <https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2024/FY24_Green_Book.pdf>
 
-Washington Headquarters Services. (2026). Selected acquisition reports — FOIA reading room. U.S. Department of Defense. <https://www.esd.whs.mil/Records-Declass/FOIA/Reading-Room/Reading-Room-List_2/Selected_Acquisition_Reports/>
+Washington Headquarters Services. (2026). Selected Acquisition Reports — FOIA Reading Room. U.S. Department of Defense. <https://www.esd.whs.mil/Records-Declass/FOIA/Reading-Room/Reading-Room-List_2/Selected_Acquisition_Reports/>
